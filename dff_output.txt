@@ -1,0 +1,5169 @@
+[
+  {
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    "size": 0
+    "files": [
+      "c:\\windows\\system32\\GfxValDisplayLog.bin"
+      "c:\\windows\\system32\\drivers\\Msft_User_WpdFs_01_11_00.Wdf"
+      "c:\\windows\\system32\\drivers\\Msft_User_WpdMtpDr_01_11_00.Wdf"
+      "c:\\windows\\system32\\DriverStore\\Temp\\DEL84F9.tmp"
+      "c:\\windows\\system32\\DriverStore\\Temp\\DEL850A.tmp"
+      "c:\\windows\\system32\\DriverStore\\Temp\\DEL851A.tmp"
+      "c:\\windows\\system32\\DriverStore\\Temp\\DEL851B.tmp"
+      "c:\\windows\\system32\\DriverStore\\Temp\\DEL852C.tmp"
+      "c:\\windows\\system32\\DriverStore\\Temp\\DEL852D.tmp"
+      "c:\\windows\\system32\\ras\\SSTPProxy\\ProxyConfig.xml"
+      "c:\\windows\\system32\\SMI\\Store\\Machine\\SCHEMA.DAT.LOG1"
+    ]
+  }
+  {
+    "hash": "f3b25701fe362ec84616a93a45ce9998"
+    "size": 2
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\p2p-mesh.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\p2p-pnrp.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\p2p-mesh.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\p2p-pnrp.mfl"
+    ]
+  }
+  {
+    "hash": "df51665aad3a57e65c68eb0ec169792f"
+    "size": 12
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms001.inf_amd64_8bc1bda6cf47380c\\MXDW-pipelineconfig.xml"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft XPS Document Writer\\mxdw-pipelineconfig.xml"
+    ]
+  }
+  {
+    "hash": "c11039be1d8b2d7c2427ccb50373d059"
+    "size": 21
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\mispace.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\mispace_uninstall.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\storagewmi_passthru_uninstall.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\mispace.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\mispace_uninstall.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\storagewmi_passthru_uninstall.mfl"
+    ]
+  }
+  {
+    "hash": "92b7f3576b4eb8827840095e92e4b17b"
+    "size": 25
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\dnsclientcim.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\dnsclientcim.mfl"
+    ]
+  }
+  {
+    "hash": "b2874a7eefa531600b4e64496c5b0fa1"
+    "size": 44
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\FolderRedirectionWMIProvider.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\mpeval.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\MsNetImPlatform.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\NetSwitchTeam.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\SmbWitnessWmiv2Provider.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\storagewmi_passthru.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\UserStateWMIProvider.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\wscenter.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\wsp_fs.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\wsp_fs_uninstall.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\wsp_health.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\wsp_health_uninstall.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\wsp_sr.mfl"
+      "c:\\windows\\system32\\wbem\\en-US\\wsp_sr_uninstall.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\FolderRedirectionWMIProvider.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\mpeval.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\MsNetImPlatform.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\NetSwitchTeam.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\SmbWitnessWmiv2Provider.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\storagewmi_passthru.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\UserStateWMIProvider.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\wscenter.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\wsp_fs.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\wsp_fs_uninstall.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\wsp_health.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\wsp_health_uninstall.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\wsp_sr.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\wsp_sr_uninstall.mfl"
+    ]
+  }
+  {
+    "hash": "e1b75c60889774725432523ebc363541"
+    "size": 53
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms003.inf_amd64_8260487d3fd9235d\\Amd64\\unishare-pipelineconfig.xml"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms003.inf_x86_64a65e37d4d307bb\\I386\\unishare-pipelineconfig.xml"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms004.inf_amd64_c28ee88ec1bd4178\\Amd64\\unisharev4-pipelineconfig.xml"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms005.inf_amd64_add71423ba73e797\\Amd64\\MSxpsXPS-pipelineconfig.xml"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms007.inf_amd64_8bbf44975c626ac5\\Amd64\\MSPassthrough-pipelineconfig.xml"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms008.inf_amd64_69b5e0c918eab9a6\\Amd64\\unishare3d-pipelineconfig.xml"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms010.inf_amd64_9e410195c3b236c9\\Amd64\\MSECP-pipelineconfig.xml"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms011.inf_amd64_f83138380f5fb6ab\\Amd64\\MSAppMon-pipelineconfig.xml"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms014.inf_amd64_faec3fc366f8e1fa\\Amd64\\MSMPS-pipelineconfig.xml"
+      "c:\\windows\\system32\\spool\\drivers\\W32X86\\3\\unishare-pipelineconfig.xml"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\unishare-pipelineconfig.xml"
+    ]
+  }
+  {
+    "hash": "3163894ba326b686a7d5f4df1affee2a"
+    "size": 57
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\messagebus_client.conf"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\Display.NvContainer\\plugins\\LocalSystem\\messagebus.conf"
+    ]
+  }
+  {
+    "hash": "78b5ebd79a120c014f385d5da1d1ba83"
+    "size": 72
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\MSXPSINC.PPD"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\MSXPSINC.PPD"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\MSXPSINC.PPD"
+    ]
+  }
+  {
+    "hash": "811ffde93d1fdb8f3a91304422e941a9"
+    "size": 73
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\MSXPSINC.GPD"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\MSXPSINC.GPD"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\MSXPSINC.GPD"
+    ]
+  }
+  {
+    "hash": "b9b8dcdf1f78e48a8bdcad4f2f0a8aa3"
+    "size": 176
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\en-US\\ntprint4.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\prnge001.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\prnms002.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\prnms003.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\prnms004.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\prnms005.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\prnms007.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\prnms008.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\prnms010.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\prnms011.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\prnms012.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\prnms014.inf_loc"
+    ]
+  }
+  {
+    "hash": "d56d6403c5f77df0f66a3066a1296740"
+    "size": 180
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\UserProfileConfigurationWmiProvider.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\UserProfileConfigurationWmiProvider.mfl"
+    ]
+  }
+  {
+    "hash": "c5149daa054db7f505f69cae9b9abd53"
+    "size": 226
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\ru-RU\\lltdio.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\ru-RU\\rspndr.inf_loc"
+    ]
+  }
+  {
+    "hash": "297c03f97a4ad882863015daaa108e8e"
+    "size": 232
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_1394.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_61883.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_avc.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_battery.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_biometric.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_bluetooth.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_computer.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_dot4.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_dot4print.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_hidclass.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_legacydriver.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_memory.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_modem.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_mtd.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_multifunction.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_multiportserial.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_netclient.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_netservice.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_nettrans.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_pcmcia.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_pnpprinters.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_ports.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_printer.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_sbp2.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_sdhost.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_securitydevices.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_smartcard.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_smartcardfilter.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_system.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_unknown.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_usb.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_usbfn.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_volsnap.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_wceusbs.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_wpd.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\multiprt.inf_loc"
+    ]
+  }
+  {
+    "hash": "a5afeb8fdd5ec491271dde6f0c902d55"
+    "size": 286
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_cdrom.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_fdc.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_floppydisk.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_hdc.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_mediumchanger.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_scsiadapter.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_tapedrive.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_usbdevice.inf_loc"
+    ]
+  }
+  {
+    "hash": "b0dccbd1221112690ca38a4827f1f6fa"
+    "size": 294
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\ru-RU\\scmvolume.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\ru-RU\\smrvolume.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\ru-RU\\volume.inf_loc"
+    ]
+  }
+  {
+    "hash": "7731b030c96217994a53c90f127b2fc3"
+    "size": 302
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\en-US\\scmvolume.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\smrvolume.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\volume.inf_loc"
+    ]
+  }
+  {
+    "hash": "2401b4cf97e6ec4fcf8ca40a4ad3ea54"
+    "size": 353
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms001.inf_amd64_8bc1bda6cf47380c\\MXDW-manifest.ini"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft XPS Document Writer\\mxdw-manifest.ini"
+    ]
+  }
+  {
+    "hash": "87d5fc07707f40eb4f914da4f2a2dfe9"
+    "size": 383
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\tsprint.inf_amd64_6066bc96a5f28b44\\tsprint-PipelineConfig.xml"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\tsprint-PipelineConfig.xml"
+    ]
+  }
+  {
+    "hash": "7ad28c4f6b177fea8b0079c676df166d"
+    "size": 389
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\tsprint.inf_amd64_6066bc96a5f28b44\\tsprint-datafile.dat"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\tsprint-datafile.dat"
+    ]
+  }
+  {
+    "hash": "5c10ab15bcff8853157ebb0ac606e856"
+    "size": 394
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms009.inf_amd64_a7412a554c9bc1fd\\MPDW-pipelineconfig.xml"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms012.inf_amd64_707d3849370b9d23\\Amd64\\MSIPP-pipelineconfig.xml"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft Print To PDF\\MPDW-pipelineconfig.xml"
+    ]
+  }
+  {
+    "hash": "f3dc097e834c1a11f2bedfd429c644a9"
+    "size": 423
+    "files": [
+      "c:\\windows\\system32\\OkDone_80.contrast-black.png"
+      "c:\\windows\\system32\\OkDone_80.png"
+    ]
+  }
+  {
+    "hash": "1a70bf2d9968970a62fc1e6866975fdf"
+    "size": 424
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms009.inf_amd64_a7412a554c9bc1fd\\MPDW_devmode_map.xml"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft Print To PDF\\MPDW_devmode_map.xml"
+    ]
+  }
+  {
+    "hash": "05bf4ed82505221e2369c83728e0afe2"
+    "size": 425
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms009.inf_amd64_a7412a554c9bc1fd\\MPDW-manifest.ini"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft Print To PDF\\MPDW-manifest.ini"
+    ]
+  }
+  {
+    "hash": "06254fd49b12dded9851cdbcc8323785"
+    "size": 474
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_keyboard.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_mouse.inf_loc"
+      "c:\\windows\\system32\\DriverStore\\en-US\\c_smartcardreader.inf_loc"
+    ]
+  }
+  {
+    "hash": "f553b252fec3134d4f5303d9b25298b3"
+    "size": 518
+    "files": [
+      "c:\\windows\\system32\\@WindowsUpdateToastIcon.contrast-black.png"
+      "c:\\windows\\system32\\@WindowsUpdateToastIcon.png"
+    ]
+  }
+  {
+    "hash": "2e8708a1202a7086eb8e67961c4a06a0"
+    "size": 528
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\DscProxy.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\DscProxy.mfl"
+    ]
+  }
+  {
+    "hash": "2f24bc74dcb28fe032c1596755385917"
+    "size": 538
+    "files": [
+      "c:\\windows\\system32\\ScheduleTime_80.contrast-black.png"
+      "c:\\windows\\system32\\ScheduleTime_80.png"
+    ]
+  }
+  {
+    "hash": "129ea0e2bda698ae867efe78e0958541"
+    "size": 539
+    "files": [
+      "c:\\windows\\system32\\en-US\\Licenses\\Volume\\Professional\\license.rtf"
+      "c:\\windows\\system32\\Licenses\\neutral\\Volume\\Professional\\license.rtf"
+    ]
+  }
+  {
+    "hash": "ec84840e3d6e6da4ed776e611aa5046b"
+    "size": 557
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\subscrpt.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\subscrpt.mfl"
+    ]
+  }
+  {
+    "hash": "f7b865265606c41b0e07779d3317e0a8"
+    "size": 627
+    "files": [
+      "c:\\windows\\system32\\X_80.contrast-black.png"
+      "c:\\windows\\system32\\X_80.png"
+    ]
+  }
+  {
+    "hash": "6aeabea5e1e374a224553bae3e00b2d4"
+    "size": 675
+    "files": [
+      "c:\\windows\\system32\\Keywords\\{A5A7C794-3D59-41DF-915F-19ACDA526FC9}1033.bin"
+      "c:\\windows\\system32\\Keywords\\{A5A7C794-3D59-41DF-915F-19ACDA526FC9}16393.bin"
+      "c:\\windows\\system32\\Keywords\\{A5A7C794-3D59-41DF-915F-19ACDA526FC9}2057.bin"
+      "c:\\windows\\system32\\Keywords\\{A5A7C794-3D59-41DF-915F-19ACDA526FC9}3081.bin"
+      "c:\\windows\\system32\\Keywords\\{A5A7C794-3D59-41DF-915F-19ACDA526FC9}4105.bin"
+    ]
+  }
+  {
+    "hash": "bf1be04891ee2233796c86c1693d0645"
+    "size": 698
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\TTFSUB.GPD"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\TTFSUB.GPD"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\TTFSUB.GPD"
+    ]
+  }
+  {
+    "hash": "831c579709f4761e4ab7053fcf4176ec"
+    "size": 759
+    "files": [
+      "c:\\windows\\system32\\RestartNowPower_80.contrast-black.png"
+      "c:\\windows\\system32\\RestartNowPower_80.png"
+    ]
+  }
+  {
+    "hash": "899e708e589c09700bff1c73cb7d7002"
+    "size": 895
+    "files": [
+      "c:\\windows\\system32\\DPTopologyAppv2_0.exe.config"
+      "c:\\windows\\system32\\Gfxv2_0.exe.config"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\DPTopologyAppv2_0.exe.config"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\Gfxv2_0.exe.config"
+    ]
+  }
+  {
+    "hash": "55121989be7b289813d419ba0fdee8b7"
+    "size": 925
+    "files": [
+      "c:\\windows\\system32\\Snooze_80.contrast-black.png"
+      "c:\\windows\\system32\\Snooze_80.png"
+    ]
+  }
+  {
+    "hash": "60e6c68cb0b797edd0386a68526935a4"
+    "size": 935
+    "files": [
+      "c:\\windows\\system32\\DPTopologyApp.exe.config"
+      "c:\\windows\\system32\\Gfxv4_0.exe.config"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\DPTopologyApp.exe.config"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\Gfxv4_0.exe.config"
+    ]
+  }
+  {
+    "hash": "3b18697b64e7f3de04c966b9ecf2f67e"
+    "size": 980
+    "files": [
+      "c:\\windows\\system32\\en-US\\lipeula.rtf"
+      "c:\\windows\\system32\\en-US\\lpeula.rtf"
+      "c:\\windows\\system32\\ru-RU\\lipeula.rtf"
+    ]
+  }
+  {
+    "hash": "ae9fe55fed83149715734cb83339055a"
+    "size": 1091
+    "files": [
+      "c:\\windows\\system32\\RestartTonight_80.png"
+      "c:\\windows\\system32\\RestartTonight_80_contrast-black.png"
+    ]
+  }
+  {
+    "hash": "0d3af85e1f169395885151038ade9317"
+    "size": 1125
+    "files": [
+      "c:\\windows\\system32\\iglhxa64.vp"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\iglhxa64.vp"
+    ]
+  }
+  {
+    "hash": "6f30ecfcd1dd6c3ad3bc1bf4c28fbc5e"
+    "size": 1156
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PJL.GPD"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\PJL.GPD"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PJL.GPD"
+    ]
+  }
+  {
+    "hash": "b3252a364d92758a0b08f1cb507c1f30"
+    "size": 1183
+    "files": [
+      "c:\\windows\\system32\\Keywords\\{A5A7C794-3D59-41DF-915F-19ACDA526FC9}1034.bin"
+      "c:\\windows\\system32\\Keywords\\{A5A7C794-3D59-41DF-915F-19ACDA526FC9}2058.bin"
+    ]
+  }
+  {
+    "hash": "bf495b295f823df65be1f9fb9521a64c"
+    "size": 1195
+    "files": [
+      "c:\\windows\\system32\\Keywords\\{A5A7C794-3D59-41DF-915F-19ACDA526FC9}1036.bin"
+      "c:\\windows\\system32\\Keywords\\{A5A7C794-3D59-41DF-915F-19ACDA526FC9}3084.bin"
+    ]
+  }
+  {
+    "hash": "3062bdaed582ddc9e145dcd55cd6b99d"
+    "size": 1847
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\xml.xsl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\xml.xsl"
+    ]
+  }
+  {
+    "hash": "932f57e78976810729855cd1b5ccd8ef"
+    "size": 2278
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\STDSCHMX.GDL"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\STDSCHMX.GDL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\STDSCHMX.GDL"
+    ]
+  }
+  {
+    "hash": "4d9569e6a1c5f4f957146c227e6b6606"
+    "size": 2374
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms001.inf_amd64_8bc1bda6cf47380c\\prnms001.Inf"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft XPS Document Writer\\prnms001.inf"
+    ]
+  }
+  {
+    "hash": "d2214f409cdc743eaaef08ce1bc2773e"
+    "size": 2404
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\sm2494hm.inf_amd64_75ebb97110e39fb5\\SM2494HM.icm"
+      "c:\\windows\\system32\\spool\\drivers\\color\\SM2494HM.icm"
+    ]
+  }
+  {
+    "hash": "ebec9457c16f40b02b92070e7f71ddb3"
+    "size": 2484
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms009.inf_amd64_a7412a554c9bc1fd\\prnms009.Inf"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft Print To PDF\\prnms009.inf"
+    ]
+  }
+  {
+    "hash": "08d9bcf8b8191b8daeef1fbf6458d910"
+    "size": 2496
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\csv.xsl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\csv.xsl"
+    ]
+  }
+  {
+    "hash": "ca9b899b044080be0a64140f37e7c058"
+    "size": 2560
+    "files": [
+      "c:\\windows\\system32\\en-US\\RMActivate.exe.mui"
+      "c:\\windows\\system32\\en-US\\RMActivate_isv.exe.mui"
+    ]
+  }
+  {
+    "hash": "cf544ea4495e53a4448323831f433178"
+    "size": 2631
+    "files": [
+      "c:\\windows\\system32\\am-et\\TransliterationComponentLayouts.dgml"
+      "c:\\windows\\system32\\ff-Adlm-SN\\TransliterationComponentLayouts.dgml"
+      "c:\\windows\\system32\\my-mm\\TransliterationComponentLayouts.dgml"
+      "c:\\windows\\system32\\osa-Osge-001\\TransliterationComponentLayouts.dgml"
+      "c:\\windows\\system32\\si-lk\\TransliterationComponentLayouts.dgml"
+      "c:\\windows\\system32\\ta-lk\\TransliterationComponentLayouts.dgml"
+      "c:\\windows\\system32\\ti-et\\TransliterationComponentLayouts.dgml"
+    ]
+  }
+  {
+    "hash": "91124eaa5529392022067abfc2505611"
+    "size": 3072
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms001.inf_amd64_8bc1bda6cf47380c\\mxdwdui.dll"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft XPS Document Writer\\mxdwdui.dll"
+    ]
+  }
+  {
+    "hash": "eb668d05c7dd7df0c173597888cf215f"
+    "size": 3143
+    "files": [
+      "c:\\windows\\system32\\Hydrogen\\BakedPlugins\\Animation\\typecompendium.hkdoc"
+      "c:\\windows\\system32\\Hydrogen\\BakedPlugins\\Physics\\typecompendium.hkdoc"
+    ]
+  }
+  {
+    "hash": "f3836dad7d535ef6f72bfa3072562060"
+    "size": 3293
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\P6FONT.GPD"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\P6FONT.GPD"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\P6FONT.GPD"
+    ]
+  }
+  {
+    "hash": "14939dd82aaece7b0b628e7b3e8f0f3e"
+    "size": 3360
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms003.inf_amd64_8260487d3fd9235d\\Amd64\\unishare.gpd"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms003.inf_x86_64a65e37d4d307bb\\I386\\unishare.gpd"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms004.inf_amd64_c28ee88ec1bd4178\\Amd64\\unisharev4.gpd"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms008.inf_amd64_69b5e0c918eab9a6\\Amd64\\unishare3d.gpd"
+      "c:\\windows\\system32\\spool\\drivers\\W32X86\\3\\unishare.gpd"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\unishare.gpd"
+    ]
+  }
+  {
+    "hash": "a076ad3a6c07b352872d75f9bd0dc35a"
+    "size": 3483
+    "files": [
+      "c:\\windows\\system32\\am-et\\RBDS045E.dic"
+      "c:\\windows\\system32\\ti-et\\RBDS0473.dic"
+    ]
+  }
+  {
+    "hash": "de26f8cacc3e2d052ee92badede44701"
+    "size": 3580
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms011.inf_amd64_f83138380f5fb6ab\\Amd64\\MSAppMon.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\1239EB6C-FFBE-4642-A5B6-326E76604F33\\pdc.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\1F8CA3F3-44FC-42C7-8560-103C2943D2A1\\pdc.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\596AA248-3193-47E4-82FA-FDCA02059D2B\\pdc.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\6970053B-8969-4B2C-94D5-8FEE50FF76F9\\pdc.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\6A02B602-A9BF-443E-8211-F3C5397B47C5\\pdc.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\70D1E880-F93C-4E18-9E53-257E0D41934F\\pdc.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\8A3CE83C-06A5-440F-8C32-B97014C920DD\\pdc.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\91EDCC50-DB4F-4E15-B5BE-632778975210\\pdc.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\AD78D72D-40BA-46DA-812C-D549CECCDE02\\pdc.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\B0CCD97F-E372-46A6-BC6A-CC3B8CF21AEE\\pdc.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\DE6796EC-991B-4411-9273-653D256A1218\\pdc.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\E650AB53-D1AB-46A8-82CD-FFFF7E89B3D0\\pdc.xml"
+    ]
+  }
+  {
+    "hash": "38c9a3df05be370fb5d698ef34d9b02b"
+    "size": 3596
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms007.inf_amd64_8bbf44975c626ac5\\Amd64\\MSPWGR.xml"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms010.inf_amd64_9e410195c3b236c9\\Amd64\\MSECP.xml"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms014.inf_amd64_faec3fc366f8e1fa\\Amd64\\MSMPS.xml"
+    ]
+  }
+  {
+    "hash": "1498761961ffbdaeffd6ee9efdeaf2e8"
+    "size": 4594
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\htable.xsl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\htable.xsl"
+    ]
+  }
+  {
+    "hash": "43b54b93e36ad6d5842c33697d5b3f47"
+    "size": 4862
+    "files": [
+      "c:\\windows\\system32\\iglhxs64.vp"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\iglhxs64.vp"
+    ]
+  }
+  {
+    "hash": "7dbf99d215718955e541192ec416f92c"
+    "size": 4930
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\hform.xsl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\hform.xsl"
+    ]
+  }
+  {
+    "hash": "26726bc9e259c92f7d35db18f3d3a6c0"
+    "size": 5561
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PS_SCHM.GDL"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\PS_SCHM.GDL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PS_SCHM.GDL"
+    ]
+  }
+  {
+    "hash": "d8fbcf4494a827061d390a8b26f30946"
+    "size": 5632
+    "files": [
+      "c:\\windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetSecurity\\en\\Microsoft.Windows.Firewall.Commands.Resources.dll"
+      "c:\\windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\NetSecurity\\ru\\Microsoft.Windows.Firewall.Commands.Resources.dll"
+    ]
+  }
+  {
+    "hash": "91719ad95b6745b83158a78753da25a8"
+    "size": 6855
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem24.CAT"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\linino.inf_amd64_b4d5b17e904a2353\\Linino-Boards_amd64.cat"
+    ]
+  }
+  {
+    "hash": "714d7962fc67054c92ea20ffb234536c"
+    "size": 7168
+    "files": [
+      "c:\\windows\\system32\\dxmasf.dll"
+      "c:\\windows\\system32\\msdxm.ocx"
+    ]
+  }
+  {
+    "hash": "80a45fa892933d7314417d1dffc5206f"
+    "size": 7502
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem13.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\sm2494hm.inf_amd64_75ebb97110e39fb5\\SM2494HM.cat"
+    ]
+  }
+  {
+    "hash": "6e646f3057f7a9f0ace2f62298c852fe"
+    "size": 7797
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms009.inf_amd64_a7412a554c9bc1fd\\MPDW-PDC.xml"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft Print To PDF\\MPDW-PDC.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\4F0D406D-1EEA-4A41-B099-D158DDCE080F\\pdc.xml"
+    ]
+  }
+  {
+    "hash": "f635c0b2e4a972f894e4b17aa2c34832"
+    "size": 8124
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\netathr10x.inf_amd64_2691c4f95b80eb3b\\eeprom_ar6320_3p0_NFA364xp_RV_0519.bin"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\netathr10x.inf_amd64_2691c4f95b80eb3b\\eeprom_ar6320_3p0_NFA364xp_ssku_RV_0519.bin"
+    ]
+  }
+  {
+    "hash": "cb504c286a012916c616bef2a5f78951"
+    "size": 8124
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\netathr10x.inf_amd64_2691c4f95b80eb3b\\eeprom_qca9377_1p1_NFA425_olpc_A_TP203NA.bin"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\netathr10x.inf_amd64_2691c4f95b80eb3b\\eeprom_qca9377_1p1_NFA425_olpc_A_TP203NAH.bin"
+    ]
+  }
+  {
+    "hash": "1da9e50e280f269be9cc826bdaeb612b"
+    "size": 8188
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem8.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\netmp60.inf_amd64_b40655b92da2c2e6\\NetMP60.cat"
+    ]
+  }
+  {
+    "hash": "b2fbef1a8a056f8626aaf01ab6bc2504"
+    "size": 8352
+    "files": [
+      "c:\\windows\\system32\\ta-in\\RBDSTAMIL99.dic"
+      "c:\\windows\\system32\\ta-lk\\RBDSTAMIL99.dic"
+    ]
+  }
+  {
+    "hash": "705628497c0012302212a46add463e6e"
+    "size": 8495
+    "files": [
+      "c:\\windows\\system32\\BluetoothPairingSystemToastIcon.contrast-black.png"
+      "c:\\windows\\system32\\BluetoothPairingSystemToastIcon.contrast-white.png"
+    ]
+  }
+  {
+    "hash": "f345dbe5d8bc0d39b1a4f8559ce80480"
+    "size": 8545
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem23.CAT"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\genuino.inf_amd64_7ce493bc08c7f4df\\genuino.cat"
+    ]
+  }
+  {
+    "hash": "3934e1c36ed97468f46c3f0ef9ebe9b0"
+    "size": 8654
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem7.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\kltap.inf_amd64_1cfd0d87ad073950\\kltap.cat"
+    ]
+  }
+  {
+    "hash": "44f696f5826aed4fde1188843a3856ab"
+    "size": 9368
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem19.CAT"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\adafruitcircuitplayground.inf_amd64_2d02d0acf109024b\\AdafruitCircuitPlayground.cat"
+    ]
+  }
+  {
+    "hash": "30414141e947855bfbcf0e738663e231"
+    "size": 9601
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\prnms004.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms004.inf_amd64_c28ee88ec1bd4178\\prnms004.cat"
+    ]
+  }
+  {
+    "hash": "874008c2c44107b6574663a40baa5800"
+    "size": 9604
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\prnms008.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms008.inf_amd64_69b5e0c918eab9a6\\prnms008.cat"
+    ]
+  }
+  {
+    "hash": "52f2d35d39d3207c6d9a77935a9e4e3b"
+    "size": 9604
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\prnms010.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms010.inf_amd64_9e410195c3b236c9\\prnms010.cat"
+    ]
+  }
+  {
+    "hash": "8b1147dec3bf2462146ba043eb19a6e2"
+    "size": 9604
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\prnms011.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms011.inf_amd64_f83138380f5fb6ab\\prnms011.cat"
+    ]
+  }
+  {
+    "hash": "b93d8004b674ef73ea954aaa38766d63"
+    "size": 9604
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\prnms012.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms012.inf_amd64_707d3849370b9d23\\prnms012.cat"
+    ]
+  }
+  {
+    "hash": "d3378fa5934ab813394788e7b7295b89"
+    "size": 9604
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\prnms014.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms014.inf_amd64_faec3fc366f8e1fa\\prnms014.cat"
+    ]
+  }
+  {
+    "hash": "739d089777d2b66dbe7201e5ea4ba2d7"
+    "size": 9728
+    "files": [
+      "c:\\windows\\system32\\drivers\\bcmfn2.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\bcmfn2.inf_amd64_5ebadf201c5b5845\\bcmfn2.sys"
+    ]
+  }
+  {
+    "hash": "fb5fe1386dae23477d349032a04509af"
+    "size": 9874
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem1.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms001.inf_amd64_8bc1bda6cf47380c\\prnms001.cat"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft XPS Document Writer\\prnms001.cat"
+    ]
+  }
+  {
+    "hash": "54ce871b6f2e94a6ab029937beb10998"
+    "size": 9885
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem12.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ibtfltcoex.inf_amd64_6ba2d768e994b2d9\\ibtfltcoex.cat"
+    ]
+  }
+  {
+    "hash": "d3c332417138204e61852299ca28248b"
+    "size": 10085
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem20.CAT"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\arduino-org.inf_amd64_bb8d72653e2c9162\\arduino-org.cat"
+    ]
+  }
+  {
+    "hash": "1f68ae8a0b2b2ccba4dc8dcd21c88633"
+    "size": 10128
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem0.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms009.inf_amd64_a7412a554c9bc1fd\\prnms009.cat"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft Print To PDF\\prnms009.cat"
+    ]
+  }
+  {
+    "hash": "ba32bb24b7da23bd7ee7ae4b576338cd"
+    "size": 10240
+    "files": [
+      "c:\\windows\\system32\\dpnaddr.dll"
+      "c:\\windows\\system32\\dpnathlp.dll"
+      "c:\\windows\\system32\\dpnet.dll"
+      "c:\\windows\\system32\\dpnhpast.dll"
+      "c:\\windows\\system32\\dpnhupnp.dll"
+      "c:\\windows\\system32\\dpnlobby.dll"
+      "c:\\windows\\system32\\dpnsvr.exe"
+    ]
+  }
+  {
+    "hash": "65737676c5bd0c84bed26496cacf8793"
+    "size": 10240
+    "files": [
+      "c:\\windows\\system32\\en-US\\advpack.dll.mui"
+      "c:\\windows\\system32\\en-US\\IEAdvpack.dll.mui"
+    ]
+  }
+  {
+    "hash": "d9363cd30314840a0dcc9aba29cdca12"
+    "size": 10244
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem6.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\klim6.inf_amd64_2c99dbf3ae80522e\\klim6.cat"
+    ]
+  }
+  {
+    "hash": "ed1e5bf2818704fb42ea79f4ae85d672"
+    "size": 10375
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PCLXL.GPD"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\PCLXL.GPD"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PCLXL.GPD"
+    ]
+  }
+  {
+    "hash": "692b2feda830adfd4ce7dcff513f791b"
+    "size": 10435
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\prnms002.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms002.inf_amd64_026ea33d249e474a\\prnms002.cat"
+    ]
+  }
+  {
+    "hash": "68576330e254cea92cadec5102beb9bf"
+    "size": 10479
+    "files": [
+      "c:\\windows\\system32\\spool\\V4Dirs\\9163EF59-5DEC-4410-B80E-6B60D02D324D\\device_bidi_pdc.xml"
+      "c:\\windows\\system32\\spool\\V4Dirs\\9163EF59-5DEC-4410-B80E-6B60D02D324D\\pdc.xml"
+    ]
+  }
+  {
+    "hash": "383a0e15bd96d11fdcff42282abf6d1f"
+    "size": 10583
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem21.CAT"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\arduino.inf_amd64_6cb1adf1bc8e1d48\\arduino.cat"
+    ]
+  }
+  {
+    "hash": "c21c9074895e6969965d3c36367dec4f"
+    "size": 10651
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem22.CAT"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\arduino_gemma.inf_amd64_ccc1c03de7b2c57b\\arduino_gemma.cat"
+    ]
+  }
+  {
+    "hash": "ebf77f91393d0f3aa0dd8d2f9c7f68a9"
+    "size": 10652
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\prnms007.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms007.inf_amd64_8bbf44975c626ac5\\prnms007.cat"
+    ]
+  }
+  {
+    "hash": "60d1f31d0b56beac0728be5042b2b2b0"
+    "size": 10752
+    "files": [
+      "c:\\windows\\system32\\ru-RU\\advpack.dll.mui"
+      "c:\\windows\\system32\\ru-RU\\IEAdvpack.dll.mui"
+    ]
+  }
+  {
+    "hash": "77977f089483dad377d88a456195d949"
+    "size": 10944
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem25.CAT"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\slabvcp.inf_amd64_9063be87f4abb1a5\\slabvcp.cat"
+    ]
+  }
+  {
+    "hash": "999e42a02a6ad8662ded3c9b958cd0a4"
+    "size": 11264
+    "files": [
+      "c:\\windows\\system32\\CIRCoInst.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbcir.inf_amd64_a19f675674962ae4\\CIRCoInst.dll"
+    ]
+  }
+  {
+    "hash": "b37f0bf662bb504f0a9c247f24c281ad"
+    "size": 11264
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\vca.inf_amd64_6bbc643de0df118d\\vrd.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\vrd.inf_amd64_81fbd405ff2470fc\\vrd.sys"
+    ]
+  }
+  {
+    "hash": "6d742484a1c1cdd1db452eda443e3449"
+    "size": 11386
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\mof.xsl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\mof.xsl"
+    ]
+  }
+  {
+    "hash": "d792123740017906331e459c41916587"
+    "size": 11438
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\prnms005.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms005.inf_amd64_add71423ba73e797\\prnms005.cat"
+    ]
+  }
+  {
+    "hash": "afe6617786f5540b02504f1f2822d228"
+    "size": 11684
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem2.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\heci.inf_amd64_f8de8314845ca592\\HECI.cat"
+    ]
+  }
+  {
+    "hash": "778ac659d1d337244a5b3b64d1cf714d"
+    "size": 11732
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\prnge001.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnge001.inf_amd64_1daeee8f3aa30fcb\\prnge001.cat"
+    ]
+  }
+  {
+    "hash": "3ae13be499834012597b78b7b09844b1"
+    "size": 12135
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem17.CAT"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\intcdaud.inf_amd64_66e0a5048e30f9c5\\IntcDAud.cat"
+    ]
+  }
+  {
+    "hash": "9f5f26737bc79bac0bc0886feafa9426"
+    "size": 12288
+    "files": [
+      "c:\\windows\\system32\\en-US\\msident.dll.mui"
+      "c:\\windows\\system32\\en-US\\msidntld.dll.mui"
+    ]
+  }
+  {
+    "hash": "d57ab4563c9b1645f9b7e61f4391c6fe"
+    "size": 13824
+    "files": [
+      "c:\\windows\\system32\\ru-RU\\msident.dll.mui"
+      "c:\\windows\\system32\\ru-RU\\msidntld.dll.mui"
+    ]
+  }
+  {
+    "hash": "0acc08fd2362e158c61c53fe61d61579"
+    "size": 13890
+    "files": [
+      "c:\\windows\\system32\\wbem\\en-US\\MsDtcWmi.mfl"
+      "c:\\windows\\system32\\wbem\\ru-RU\\MsDtcWmi.mfl"
+    ]
+  }
+  {
+    "hash": "c30b39eabb42e5ced1e75796878e5f8b"
+    "size": 14088
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\LOCALE.GPD"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\LOCALE.GPD"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\LOCALE.GPD"
+    ]
+  }
+  {
+    "hash": "ef7cb34fb2d56305ef942012499ab8f7"
+    "size": 14336
+    "files": [
+      "c:\\windows\\system32\\drivers\\acpipagr.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\acpipagr.inf_amd64_a3248d35e6aba0f3\\acpipagr.sys"
+    ]
+  }
+  {
+    "hash": "cd0ba5f62202298a6367e0e34cf5a37e"
+    "size": 14362
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\STDNAMES.GPD"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\STDNAMES.GPD"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\STDNAMES.GPD"
+    ]
+  }
+  {
+    "hash": "6b211fc8a31a7d55204d7cd212d6063f"
+    "size": 14433
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms009.inf_amd64_a7412a554c9bc1fd\\MPDW-constraints.js"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft Print To PDF\\MPDW-constraints.js"
+    ]
+  }
+  {
+    "hash": "493af687e60e144f59e3f5b7e27aa39b"
+    "size": 15360
+    "files": [
+      "c:\\windows\\system32\\drivers\\umpass.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\umpass.inf_amd64_3daa9a904daf9501\\umpass.sys"
+    ]
+  }
+  {
+    "hash": "ae0a92a247fdd1fe5bb45f4a2a676b70"
+    "size": 15626
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\ntprint.inf"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\ntprint.inf"
+    ]
+  }
+  {
+    "hash": "e87f3fa1f9133deec1b3692976487777"
+    "size": 15872
+    "files": [
+      "c:\\windows\\system32\\drivers\\errdev.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\errdev.inf_amd64_616c5168a5b1807a\\errdev.sys"
+    ]
+  }
+  {
+    "hash": "6adb3f56899519673d735c3c09476234"
+    "size": 16128
+    "files": [
+      "c:\\windows\\system32\\drivers\\drmkaud.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wdmaudio.inf_amd64_cb639d1f182bc449\\drmkaud.sys"
+    ]
+  }
+  {
+    "hash": "02391fd95ee9da6008d9ee7a9e0eb68c"
+    "size": 16242
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\ntprint.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\ntprint.cat"
+    ]
+  }
+  {
+    "hash": "69b2c64dc2f4744ce17f181b91d061bb"
+    "size": 16372
+    "files": [
+      "c:\\windows\\system32\\spool\\V4Dirs\\1239EB6C-FFBE-4642-A5B6-326E76604F33\\5b120a24.gpd"
+      "c:\\windows\\system32\\spool\\V4Dirs\\1F8CA3F3-44FC-42C7-8560-103C2943D2A1\\5b120a24.gpd"
+      "c:\\windows\\system32\\spool\\V4Dirs\\596AA248-3193-47E4-82FA-FDCA02059D2B\\5b120a24.gpd"
+      "c:\\windows\\system32\\spool\\V4Dirs\\6970053B-8969-4B2C-94D5-8FEE50FF76F9\\5b120a24.gpd"
+      "c:\\windows\\system32\\spool\\V4Dirs\\6A02B602-A9BF-443E-8211-F3C5397B47C5\\5b120a24.gpd"
+      "c:\\windows\\system32\\spool\\V4Dirs\\70D1E880-F93C-4E18-9E53-257E0D41934F\\5b120a24.gpd"
+      "c:\\windows\\system32\\spool\\V4Dirs\\8A3CE83C-06A5-440F-8C32-B97014C920DD\\5b120a24.gpd"
+      "c:\\windows\\system32\\spool\\V4Dirs\\91EDCC50-DB4F-4E15-B5BE-632778975210\\5b120a24.gpd"
+      "c:\\windows\\system32\\spool\\V4Dirs\\AD78D72D-40BA-46DA-812C-D549CECCDE02\\5b120a24.gpd"
+      "c:\\windows\\system32\\spool\\V4Dirs\\B0CCD97F-E372-46A6-BC6A-CC3B8CF21AEE\\5b120a24.gpd"
+      "c:\\windows\\system32\\spool\\V4Dirs\\DE6796EC-991B-4411-9273-653D256A1218\\5b120a24.gpd"
+      "c:\\windows\\system32\\spool\\V4Dirs\\E650AB53-D1AB-46A8-82CD-FFFF7E89B3D0\\5b120a24.gpd"
+    ]
+  }
+  {
+    "hash": "85a86944a6163f0b7a8b10203b70cb9a"
+    "size": 16384
+    "files": [
+      "c:\\windows\\system32\\drivers\\acpitime.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\acpitime.inf_amd64_e1498a974ab95ea7\\acpitime.sys"
+    ]
+  }
+  {
+    "hash": "ffa9fbfb74aef21ee1c313589f6eee1c"
+    "size": 16645
+    "files": [
+      "c:\\windows\\system32\\spool\\V4Dirs\\9163EF59-5DEC-4410-B80E-6B60D02D324D\\Resources\\PrinterStrings.lang-.resx"
+      "c:\\windows\\system32\\spool\\V4Dirs\\9163EF59-5DEC-4410-B80E-6B60D02D324D\\Resources\\PrinterStrings.lang-en-US.resx"
+    ]
+  }
+  {
+    "hash": "770e710bea3ccc595ee3703297b40d76"
+    "size": 16696
+    "files": [
+      "c:\\windows\\system32\\drivers\\volume.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\volume.inf_amd64_bfabc750039f8ac1\\volume.sys"
+    ]
+  }
+  {
+    "hash": "6df4b0136bd9f9e6785239da69a01281"
+    "size": 16704
+    "files": [
+      "c:\\windows\\system32\\drivers\\pciide.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mshdc.inf_amd64_747e4fe53d5ff1ea\\pciide.sys"
+    ]
+  }
+  {
+    "hash": "bed04ae7416fa5ed4c95338f84874650"
+    "size": 16896
+    "files": [
+      "c:\\windows\\system32\\iscsilog.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\iscsi.inf_amd64_10f4f698a8dd87b9\\iscsilog.dll"
+    ]
+  }
+  {
+    "hash": "4b10ccff8bde1fc50ec5a6cbab792697"
+    "size": 17380
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\VBoxDrv.cat"
+      "c:\\windows\\system32\\DRVSTORE\\VBoxDrv_779C4E296DB3AE1E805F505CF6D5BA1DB8784160\\VBoxDrv.cat"
+    ]
+  }
+  {
+    "hash": "ddb6f2df5e5403092ffb7f0c0cf9e1ae"
+    "size": 17393
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\VBoxUSBMon.cat"
+      "c:\\windows\\system32\\DRVSTORE\\VBoxUSBMon_A27220DF5DAA9A12DE14FFE82DE3E9BC5B62C2E3\\VBoxUSBMon.cat"
+    ]
+  }
+  {
+    "hash": "2769f200292c0f941a10bd60c33ea4a6"
+    "size": 17408
+    "files": [
+      "c:\\windows\\system32\\drivers\\pnpmem.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\memory.inf_amd64_9af3a8a63d4cb5f9\\pnpmem.sys"
+    ]
+  }
+  {
+    "hash": "507be7fa3e045ef315c74eb4331ab616"
+    "size": 17466
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem26.CAT"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\vboxusb.inf_amd64_7da071f8b02bcfd6\\VBoxUSB.cat"
+    ]
+  }
+  {
+    "hash": "02bd738ae5b309ad34aa13b644cc4f3c"
+    "size": 17468
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem27.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\vboxnetadp6.inf_amd64_b3f70903fa3ddbf4\\VBoxNetAdp6.cat"
+    ]
+  }
+  {
+    "hash": "9b7ce00bde121da2061c7ec484c612ff"
+    "size": 17471
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem28.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\vboxnetlwf.inf_amd64_68c5aa86c9578dc8\\VBoxNetLwf.cat"
+    ]
+  }
+  {
+    "hash": "8962c8eee971bf7981c3177aebca2965"
+    "size": 17498
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem14.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\rtsuerxd3.inf_amd64_b0314792f1359229\\RtsUer64.cat"
+    ]
+  }
+  {
+    "hash": "c0d964b44cfc6873c86a482adbc1110d"
+    "size": 17521
+    "files": [
+      "c:\\windows\\system32\\spool\\V4Dirs\\4F0D406D-1EEA-4A41-B099-D158DDCE080F\\69b8a4a.gpd"
+      "c:\\windows\\system32\\spool\\V4Dirs\\4F0D406D-1EEA-4A41-B099-D158DDCE080F\\merged.gpd"
+    ]
+  }
+  {
+    "hash": "edb6628910e24d7929e85a53987c5cdc"
+    "size": 17813
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem18.CAT"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\intcdaud.inf_amd64_b80d538dc0216f86\\IntcDAud.cat"
+    ]
+  }
+  {
+    "hash": "8ee2eee12398fea5bc8e37aaafe59852"
+    "size": 17920
+    "files": [
+      "c:\\windows\\system32\\drivers\\MTConfig.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mtconfig.inf_amd64_fe91941ed205cd9b\\MTConfig.sys"
+    ]
+  }
+  {
+    "hash": "33b5ed555018128792affcdc9af7afd2"
+    "size": 18432
+    "files": [
+      "c:\\windows\\system32\\drivers\\acpipmi.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\acpipmi.inf_amd64_310dc613a7e31ec8\\acpipmi.sys"
+    ]
+  }
+  {
+    "hash": "55578cf027b0ae9f0d653b209c9f1b6d"
+    "size": 18432
+    "files": [
+      "c:\\windows\\system32\\drivers\\amdgpio2.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\amdgpio2.inf_amd64_808fe94735c4c6b3\\amdgpio2.sys"
+    ]
+  }
+  {
+    "hash": "6d196f378b3fb8fc5cc19c7b6f12e170"
+    "size": 18920
+    "files": [
+      "c:\\windows\\system32\\HalExtPL080.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\halextpl080.inf_amd64_15251233835ef753\\HalExtPL080.dll"
+    ]
+  }
+  {
+    "hash": "982774b74ee1419d641ceb66e394a4ba"
+    "size": 18920
+    "files": [
+      "c:\\windows\\system32\\drivers\\WindowsTrustedRTProxy.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\windowstrustedrtproxy.inf_amd64_db5be14d5e02560f\\WindowsTrustedRTProxy.sys"
+    ]
+  }
+  {
+    "hash": "5914cc0c1e99a3c1711bdb1e224526d1"
+    "size": 18960
+    "files": [
+      "c:\\windows\\system32\\drivers\\vms3cap.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ws3cap.inf_amd64_6cf8ea2249844b50\\vms3cap.sys"
+    ]
+  }
+  {
+    "hash": "3338fa11e060a4a0e57cf423e627f9ee"
+    "size": 19348
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem15.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\netwew01.inf_amd64_d48428047ce3cc1e\\NETwew01.cat"
+    ]
+  }
+  {
+    "hash": "ad1b790a42984a825068b849a88ad322"
+    "size": 19456
+    "files": [
+      "c:\\windows\\system32\\drivers\\sfloppy.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\flpydisk.inf_amd64_acb1691126c93472\\sfloppy.sys"
+    ]
+  }
+  {
+    "hash": "e4f25e6e790747073a09f9f8c997889c"
+    "size": 19456
+    "files": [
+      "c:\\windows\\system32\\drivers\\wmiacpi.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wmiacpi.inf_amd64_4ab67656039b026b\\wmiacpi.sys"
+    ]
+  }
+  {
+    "hash": "e5bb075b6b5a1da3c3f48ca5dff54e77"
+    "size": 19768
+    "files": [
+      "c:\\windows\\system32\\drivers\\vmgid.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wvmgid.inf_amd64_3a0240393de08f95\\vmgid.sys"
+    ]
+  }
+  {
+    "hash": "3b8e0db1c40727bfeabf28d3c41571f4"
+    "size": 19776
+    "files": [
+      "c:\\windows\\system32\\drivers\\intelide.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mshdc.inf_amd64_747e4fe53d5ff1ea\\intelide.sys"
+    ]
+  }
+  {
+    "hash": "aa319fae5b8b9637e9f0d243a92d856b"
+    "size": 20280
+    "files": [
+      "c:\\windows\\system32\\drivers\\msisadrv.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\machine.inf_amd64_8d242da33ece4bf6\\msisadrv.sys"
+    ]
+  }
+  {
+    "hash": "3ea592a1c021d18c6aac6bcb12c56688"
+    "size": 20512
+    "files": [
+      "c:\\windows\\system32\\Boot\\ru-RU\\winresume.efi.mui"
+      "c:\\windows\\system32\\ru-RU\\winresume.efi.mui"
+    ]
+  }
+  {
+    "hash": "0b6ba42b9856006c5af8a0eeec1bbcf1"
+    "size": 20512
+    "files": [
+      "c:\\windows\\system32\\Boot\\ru-RU\\winresume.exe.mui"
+      "c:\\windows\\system32\\ru-RU\\winresume.exe.mui"
+    ]
+  }
+  {
+    "hash": "44efc76d3f76f3470a8e1bb66a6dd72b"
+    "size": 20728
+    "files": [
+      "c:\\windows\\system32\\Boot\\en-US\\winresume.efi.mui"
+      "c:\\windows\\system32\\en-US\\winresume.efi.mui"
+    ]
+  }
+  {
+    "hash": "ca56cdf216581027eacfb8019c96f39e"
+    "size": 20728
+    "files": [
+      "c:\\windows\\system32\\Boot\\en-US\\winresume.exe.mui"
+      "c:\\windows\\system32\\en-US\\winresume.exe.mui"
+    ]
+  }
+  {
+    "hash": "14cf6bf532b9ea9eb756fa3ac1b48047"
+    "size": 20960
+    "files": [
+      "c:\\windows\\system32\\HalExtIntcLpioDMA.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\halextintclpiodma.inf_amd64_7f59f2c73a7fab14\\HalExtIntcLpioDMA.dll"
+    ]
+  }
+  {
+    "hash": "6798f64959c913673bd66cd4e47f4a65"
+    "size": 21225
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\UNIDRV.HLP"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\UNIDRV.HLP"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\UNIDRV.HLP"
+    ]
+  }
+  {
+    "hash": "63f983520f67b6952797920459c16165"
+    "size": 22142
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem29.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\appleusb.inf_amd64_dbdeb39f14f38d7a\\AppleUSB.cat"
+    ]
+  }
+  {
+    "hash": "94f1a29b99addcb6767e4e1327510d04"
+    "size": 22528
+    "files": [
+      "c:\\windows\\system32\\igfxLHMLib.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxLHMLib.dll"
+    ]
+  }
+  {
+    "hash": "33bcfc4574aa00c4f9bd28496d171ee9"
+    "size": 22528
+    "files": [
+      "c:\\windows\\system32\\igfxLHMLibv2_0.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxLHMLibv2_0.dll"
+    ]
+  }
+  {
+    "hash": "31500d8c02a45e1c5de00bdec46aeaa3"
+    "size": 22840
+    "files": [
+      "c:\\windows\\system32\\drivers\\isapnp.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\machine.inf_amd64_8d242da33ece4bf6\\isapnp.sys"
+    ]
+  }
+  {
+    "hash": "6a424e6abd1970e23ecf3da85725b6bf"
+    "size": 23040
+    "files": [
+      "c:\\windows\\system32\\drivers\\AcpiDev.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\acpidev.inf_amd64_0f7f041f33bd01cc\\AcpiDev.sys"
+    ]
+  }
+  {
+    "hash": "3b974b8eaed22593ac3b946c694e08d9"
+    "size": 23552
+    "files": [
+      "c:\\windows\\system32\\drivers\\WSDPrint.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wsdprint.inf_amd64_b616bed30e8928ca\\WSDPrint.sys"
+    ]
+  }
+  {
+    "hash": "b2edcdfe95522299c0df5d1190959920"
+    "size": 23704
+    "files": [
+      "c:\\windows\\system32\\RtkCoLDR64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RtkCoLDR64.dll"
+    ]
+  }
+  {
+    "hash": "d46a5dfab2ac1bb5bf39d4e256e3ab43"
+    "size": 23812
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\STDDTYPE.GDL"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\STDDTYPE.GDL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\STDDTYPE.GDL"
+    ]
+  }
+  {
+    "hash": "a1e06e4e8cb863c74de428d4d6681185"
+    "size": 23864
+    "files": [
+      "c:\\windows\\system32\\drivers\\vmgencounter.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wgencounter.inf_amd64_f496147578cad554\\vmgencounter.sys"
+    ]
+  }
+  {
+    "hash": "a1782f44889b90ce2d55626109c66255"
+    "size": 24064
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PJLMON.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PJLMON.DLL"
+    ]
+  }
+  {
+    "hash": "ed34f1206f082c5420185a06679291a6"
+    "size": 25489
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\P6DISP.GPD"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\P6DISP.GPD"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\P6DISP.GPD"
+    ]
+  }
+  {
+    "hash": "02c3f8c32018f3aaf66e7421400f1781"
+    "size": 26038
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PSCRIPT.HLP"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\PSCRIPT.HLP"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PSCRIPT.HLP"
+    ]
+  }
+  {
+    "hash": "35ca90061a756af955978f0e3e88fd82"
+    "size": 26112
+    "files": [
+      "c:\\windows\\system32\\drivers\\WSDScan.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\sti.inf_amd64_096c9e42fe4749d2\\WSDScan.sys"
+    ]
+  }
+  {
+    "hash": "2213610676b404b157adffe312567458"
+    "size": 26608
+    "files": [
+      "c:\\windows\\system32\\drivers\\IntelTA.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\intelta.inf_amd64_ba962d801a22973c\\IntelTA.sys"
+    ]
+  }
+  {
+    "hash": "f1a1ca86a1e3782a0cabb07ef3663c70"
+    "size": 26936
+    "files": [
+      "c:\\windows\\system32\\drivers\\amdxata.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\amdsata.inf_amd64_ea60132f1a9a7a62\\amdxata.sys"
+    ]
+  }
+  {
+    "hash": "6e54ad98620daf177d68df7e06673df0"
+    "size": 27216
+    "files": [
+      "c:\\windows\\system32\\drivers\\NVIDIA Corporation\\license.txt"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\license.txt"
+    ]
+  }
+  {
+    "hash": "22362f7c8b7b1456ddf019bfb0523c26"
+    "size": 27448
+    "files": [
+      "c:\\windows\\system32\\drivers\\hyperkbd.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\whyperkbd.inf_amd64_6c54f73a58d5fb2c\\hyperkbd.sys"
+    ]
+  }
+  {
+    "hash": "c4c6d6707f338331bc4bad50a271aa08"
+    "size": 27648
+    "files": [
+      "c:\\windows\\system32\\igfxEMLib.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxEMLib.dll"
+    ]
+  }
+  {
+    "hash": "b172c77e1535188f5cbbba99654035b8"
+    "size": 27648
+    "files": [
+      "c:\\windows\\system32\\igfxEMLibv2_0.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxEMLibv2_0.dll"
+    ]
+  }
+  {
+    "hash": "b2b57f620c085f2ea764bdf79af7be30"
+    "size": 27648
+    "files": [
+      "c:\\windows\\system32\\drivers\\npsvctrig.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\npsvctrig.inf_amd64_b98e9a5325075265\\npsvctrig.sys"
+    ]
+  }
+  {
+    "hash": "7a289a4ffaa43d81f091a302512059a6"
+    "size": 27648
+    "files": [
+      "c:\\windows\\system32\\drivers\\serenum.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\msports.inf_amd64_f2e8231e8b60f214\\serenum.sys"
+    ]
+  }
+  {
+    "hash": "2cee9b599ca535cef987eba85a593992"
+    "size": 27960
+    "files": [
+      "c:\\windows\\system32\\drivers\\UMDF\\SDFLauncher.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\sdflauncher.inf_amd64_1ea082c6cf8f6982\\SDFLauncher.dll"
+    ]
+  }
+  {
+    "hash": "fa4093352e74ef06b8b261bf91328e8d"
+    "size": 28672
+    "files": [
+      "c:\\windows\\system32\\drivers\\cht4vfx.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\cht4vx64.inf_amd64_b03448ba0b72ec47\\cht4vfx.sys"
+    ]
+  }
+  {
+    "hash": "c867fe1865f45469dd96957900073361"
+    "size": 28672
+    "files": [
+      "c:\\windows\\system32\\drivers\\flpydisk.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\flpydisk.inf_amd64_acb1691126c93472\\flpydisk.sys"
+    ]
+  }
+  {
+    "hash": "b7bad23ca994eff8ea11261626326004"
+    "size": 28672
+    "files": [
+      "c:\\windows\\system32\\drivers\\rdpbus.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\rdpbus.inf_amd64_05ebd3b4422f62ba\\rdpbus.sys"
+    ]
+  }
+  {
+    "hash": "e468a6d1e0074468b5c1f318ba8e0e5e"
+    "size": 29184
+    "files": [
+      "c:\\windows\\system32\\igfxDILib.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxDILib.dll"
+    ]
+  }
+  {
+    "hash": "800e08155419a5fe17a9fd8b0c3832e2"
+    "size": 29184
+    "files": [
+      "c:\\windows\\system32\\igfxDILibv2_0.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxDILibv2_0.dll"
+    ]
+  }
+  {
+    "hash": "b13f5a8574f0b71b2e4c84b171c28724"
+    "size": 29184
+    "files": [
+      "c:\\windows\\system32\\drivers\\sermouse.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\msmouse.inf_amd64_1793a485b491b199\\sermouse.sys"
+    ]
+  }
+  {
+    "hash": "98d3fe00d7e8832959f1f21edead186e"
+    "size": 29456
+    "files": [
+      "c:\\windows\\system32\\vmbuspipe.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wvmbus.inf_amd64_1edd633ca88bbfe2\\vmbuspipe.dll"
+    ]
+  }
+  {
+    "hash": "c394b2347795ab247f4f4ffab46b8935"
+    "size": 30024
+    "files": [
+      "c:\\windows\\system32\\drivers\\atapi.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mshdc.inf_amd64_747e4fe53d5ff1ea\\atapi.sys"
+    ]
+  }
+  {
+    "hash": "4e8c3bd185042836203f3aa26b1de6bc"
+    "size": 30208
+    "files": [
+      "c:\\windows\\system32\\drivers\\usbohci.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbport.inf_amd64_254cd5ae09de6b08\\usbohci.sys"
+    ]
+  }
+  {
+    "hash": "aecbf5be2f9a2a50b978e0bf31041a81"
+    "size": 30720
+    "files": [
+      "c:\\windows\\system32\\drivers\\intelpmax.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\intelpmax.inf_amd64_2ddee95f7a5d85db\\intelpmax.sys"
+    ]
+  }
+  {
+    "hash": "09dc471b4573f3d01d7e448b526ae70a"
+    "size": 31032
+    "files": [
+      "c:\\windows\\system32\\drivers\\stexstor.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\stexstor.inf_amd64_fefc1160d15aa667\\stexstor.sys"
+    ]
+  }
+  {
+    "hash": "1f16c8283230ef1f1c4e135d1c2c859b"
+    "size": 31232
+    "files": [
+      "c:\\windows\\system32\\drivers\\wacompen.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hiddigi.inf_amd64_dde7255b040ac897\\wacompen.sys"
+    ]
+  }
+  {
+    "hash": "7a5eeba3852423af857dd8584a2ce4ca"
+    "size": 31384
+    "files": [
+      "c:\\windows\\system32\\Boot\\en-US\\winload.exe.mui"
+      "c:\\windows\\system32\\en-US\\winload.exe.mui"
+    ]
+  }
+  {
+    "hash": "e8dbd8c8575980036ae843be0451d017"
+    "size": 31592
+    "files": [
+      "c:\\windows\\system32\\Boot\\en-US\\winload.efi.mui"
+      "c:\\windows\\system32\\en-US\\winload.efi.mui"
+    ]
+  }
+  {
+    "hash": "01121dc91f42fc64984826a610a745d1"
+    "size": 31744
+    "files": [
+      "c:\\windows\\system32\\en-US\\MFC42.dll.mui"
+      "c:\\windows\\system32\\en-US\\MFC42u.dll.mui"
+    ]
+  }
+  {
+    "hash": "c357094ab6337b899e1cdf336afc02dd"
+    "size": 32256
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms002.inf_amd64_026ea33d249e474a\\Amd64\\FXSDRV.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\FXSDRV.DLL"
+    ]
+  }
+  {
+    "hash": "6bf695838120bda105f94e62938a0061"
+    "size": 32920
+    "files": [
+      "c:\\windows\\system32\\Boot\\ru-RU\\winload.efi.mui"
+      "c:\\windows\\system32\\ru-RU\\winload.efi.mui"
+    ]
+  }
+  {
+    "hash": "f01ac6ce447a091372895e480f0585e9"
+    "size": 32920
+    "files": [
+      "c:\\windows\\system32\\Boot\\ru-RU\\winload.exe.mui"
+      "c:\\windows\\system32\\ru-RU\\winload.exe.mui"
+    ]
+  }
+  {
+    "hash": "f9de5ccf3d1b4683ea8ea8ed4ef712bf"
+    "size": 33080
+    "files": [
+      "c:\\windows\\system32\\drivers\\usbd.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbport.inf_amd64_254cd5ae09de6b08\\usbd.sys"
+    ]
+  }
+  {
+    "hash": "9768a3cb43be957fbd72e3917b13ab08"
+    "size": 33280
+    "files": [
+      "c:\\windows\\system32\\drivers\\UMDF\\uiccspb.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\uiccspb.inf_amd64_18454ae612999870\\uiccspb.dll"
+    ]
+  }
+  {
+    "hash": "6b7422a382c1788aaf7c6ce6d4a4b375"
+    "size": 33296
+    "files": [
+      "c:\\windows\\system32\\drivers\\kdnic.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\kdnic.inf_amd64_6649425cdcae9b5f\\kdnic.sys"
+    ]
+  }
+  {
+    "hash": "f567a0c101aecf4548e0bf61ee25d332"
+    "size": 34816
+    "files": [
+      "c:\\windows\\system32\\drivers\\fdc.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\fdc.inf_amd64_7534987814b257b2\\fdc.sys"
+    ]
+  }
+  {
+    "hash": "849a66d34bc2dad0044fac2fee1af956"
+    "size": 35128
+    "files": [
+      "c:\\windows\\system32\\drivers\\hvcrash.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\whvcrash.inf_amd64_1173082afb4becfd\\hvcrash.sys"
+    ]
+  }
+  {
+    "hash": "3200667db433f0a2032faf4dc02e2089"
+    "size": 35128
+    "files": [
+      "c:\\windows\\system32\\drivers\\SDFRd.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\sdfrd.inf_amd64_25779da6eca4810a\\SDFRd.sys"
+    ]
+  }
+  {
+    "hash": "66e41e31debd4e1a2762945b4f15c780"
+    "size": 35328
+    "files": [
+      "c:\\windows\\system32\\drivers\\mouhid.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\msmouse.inf_amd64_1793a485b491b199\\mouhid.sys"
+    ]
+  }
+  {
+    "hash": "e7d67614480d6365ca96fa6919f6cff0"
+    "size": 35328
+    "files": [
+      "c:\\windows\\system32\\drivers\\usbprint.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbprint.inf_amd64_75b1d197a9199682\\usbprint.sys"
+    ]
+  }
+  {
+    "hash": "c9fb299bc5093917c1f0501d153814a8"
+    "size": 35616
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem5.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nvppc.inf_amd64_1bea1a9a02d425f4\\nvppc.cat"
+    ]
+  }
+  {
+    "hash": "da8376e75670eb1e25422ad6afa967f8"
+    "size": 35976
+    "files": [
+      "c:\\windows\\system32\\drivers\\AppleLowerFilter.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\appleusb.inf_amd64_dbdeb39f14f38d7a\\AppleLowerFilter.sys"
+    ]
+  }
+  {
+    "hash": "0816c30e3395e667efffb92b4ea66a05"
+    "size": 36152
+    "files": [
+      "c:\\windows\\system32\\drivers\\winmad.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mlx4_bus.inf_amd64_4c426f3bebc68844\\winmad.sys"
+    ]
+  }
+  {
+    "hash": "7bb838f088f078ec3b8fd0f06bdd3c94"
+    "size": 36352
+    "files": [
+      "c:\\windows\\system32\\drivers\\BtaMPM.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\btampm.inf_amd64_445ffdc4132cbc59\\BtaMPM.sys"
+    ]
+  }
+  {
+    "hash": "9e5aecab5f05218d9ac923e7cea1ce15"
+    "size": 36352
+    "files": [
+      "c:\\windows\\system32\\drivers\\iagpio.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\iagpio.inf_amd64_07b64df61e783bfe\\iagpio.sys"
+    ]
+  }
+  {
+    "hash": "2111620659cff4fe84235dcf3b95d4b6"
+    "size": 36352
+    "files": [
+      "c:\\windows\\system32\\ru-RU\\MFC42.dll.mui"
+      "c:\\windows\\system32\\ru-RU\\MFC42u.dll.mui"
+    ]
+  }
+  {
+    "hash": "c29f63bb3b99b3f2030113160a741684"
+    "size": 36664
+    "files": [
+      "c:\\windows\\system32\\drivers\\VMBusHID.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wvmbushid.inf_amd64_fd2fe159a9daf508\\VMBusHID.sys"
+    ]
+  }
+  {
+    "hash": "e127e772a705cd32be34166f679c61c8"
+    "size": 36864
+    "files": [
+      "c:\\windows\\system32\\drivers\\CmBatt.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\cmbatt.inf_amd64_554d46f6008bc631\\CmBatt.sys"
+    ]
+  }
+  {
+    "hash": "7fdc3a6fd8547468ce554c8821640103"
+    "size": 36864
+    "files": [
+      "c:\\windows\\system32\\drivers\\UcmUcsiAcpiClient.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ucmucsiacpiclient.inf_amd64_a233292790c69f03\\UcmUcsiAcpiClient.sys"
+    ]
+  }
+  {
+    "hash": "bf1d6924e7949102da6f14f7efe8d2d5"
+    "size": 37888
+    "files": [
+      "c:\\windows\\system32\\drivers\\TsUsbGD.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\tsgenericusbdriver.inf_amd64_6b86bbc412f35fe7\\TsUsbGD.sys"
+    ]
+  }
+  {
+    "hash": "16a10ccedcf5ac4caae43dc9fc40392f"
+    "size": 38128
+    "files": [
+      "c:\\windows\\system32\\drivers\\iaLPSSi_GPIO.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ialpssi_gpio.inf_amd64_62ffa3c95446bcfc\\iaLPSSi_GPIO.sys"
+    ]
+  }
+  {
+    "hash": "3d45e616cc66d475e7261875344622f1"
+    "size": 39424
+    "files": [
+      "c:\\windows\\system32\\drivers\\usbuhci.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbport.inf_amd64_254cd5ae09de6b08\\usbuhci.sys"
+    ]
+  }
+  {
+    "hash": "05fc1b768acb2d5caddca2f2e89f579c"
+    "size": 39440
+    "files": [
+      "c:\\windows\\system32\\drivers\\hidbatt.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hidbatt.inf_amd64_a6fa9bcee39a694f\\hidbatt.sys"
+    ]
+  }
+  {
+    "hash": "1a8302994182d4fc003a71dc6d23ee81"
+    "size": 39658
+    "files": [
+      "c:\\windows\\system32\\iglhxg64.vp"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\iglhxg64.vp"
+    ]
+  }
+  {
+    "hash": "38fa402460982fe9a071bec11c58b0d3"
+    "size": 39798
+    "files": [
+      "c:\\windows\\system32\\iglhxg64_dev.vp"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\iglhxg64_dev.vp"
+    ]
+  }
+  {
+    "hash": "a0d0a10c8da1b00a2ee378357f72ba90"
+    "size": 40316
+    "files": [
+      "c:\\windows\\system32\\iglhxc64.vp"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\iglhxc64.vp"
+    ]
+  }
+  {
+    "hash": "26526a63d35d8e4e19c46f920aaf48f2"
+    "size": 40343
+    "files": [
+      "c:\\windows\\system32\\iglhxo64.vp"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\iglhxo64.vp"
+    ]
+  }
+  {
+    "hash": "6b694bf43c5ec242daa1c9c61d7ae72c"
+    "size": 40508
+    "files": [
+      "c:\\windows\\system32\\Speech_OneCore\\VoiceActivation\\en-CA\\sidubm.table"
+      "c:\\windows\\system32\\Speech_OneCore\\VoiceActivation\\en-US\\sidubm.table"
+    ]
+  }
+  {
+    "hash": "3f34ae5b6d11a66a44d548949207de96"
+    "size": 40866
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem4.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nvhda.inf_amd64_78871e961524d132\\nvhda.cat"
+    ]
+  }
+  {
+    "hash": "9cd97189d5a5e409bbec1b28a8afd428"
+    "size": 40931
+    "files": [
+      "c:\\windows\\system32\\iglhxo64_dev.vp"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\iglhxo64_dev.vp"
+    ]
+  }
+  {
+    "hash": "4d45b865ab970a8a3c1bfef2ea59c4ff"
+    "size": 40960
+    "files": [
+      "c:\\windows\\system32\\TsUsbGDCoInstaller.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\tsgenericusbdriver.inf_amd64_6b86bbc412f35fe7\\TsUsbGDCoInstaller.dll"
+    ]
+  }
+  {
+    "hash": "7b08216d29024fa54ff526457acc16cc"
+    "size": 41272
+    "files": [
+      "c:\\windows\\system32\\drivers\\battc.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\battery.inf_amd64_a239bc596073092a\\battc.sys"
+    ]
+  }
+  {
+    "hash": "c225b94f2b27ac97c3e66c0550aea249"
+    "size": 41272
+    "files": [
+      "c:\\windows\\system32\\drivers\\terminpt.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\termkbd.inf_amd64_a0634dcf2da1127e\\terminpt.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\termmou.inf_amd64_c4c8f901e3534194\\terminpt.sys"
+    ]
+  }
+  {
+    "hash": "7b929507bb2c2a3fbd2956ec3515364c"
+    "size": 41296
+    "files": [
+      "c:\\windows\\system32\\iglhxc64_dev.vp"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\iglhxc64_dev.vp"
+    ]
+  }
+  {
+    "hash": "ee16419019eb05d54a241d89e8ddc48e"
+    "size": 41472
+    "files": [
+      "c:\\windows\\system32\\drivers\\RfxVmt.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wsynth3dvsc.inf_amd64_3cdf994922d65510\\RfxVmt.sys"
+    ]
+  }
+  {
+    "hash": "c5b3e109b3b88b0cc420304ea7bf6b70"
+    "size": 41587
+    "files": [
+      "c:\\windows\\system32\\azman.msc"
+      "c:\\windows\\system32\\en-US\\azman.msc"
+    ]
+  }
+  {
+    "hash": "be7559280e3327e9b35e843414957438"
+    "size": 41784
+    "files": [
+      "c:\\windows\\system32\\drivers\\HyperVideo.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wvmbusvideo.inf_amd64_c531b5e68fd6f6bf\\HyperVideo.sys"
+    ]
+  }
+  {
+    "hash": "49525986566a050aa233a428aa50d83f"
+    "size": 43566
+    "files": [
+      "c:\\windows\\system32\\rsop.msc"
+      "c:\\windows\\system32\\en-US\\rsop.msc"
+    ]
+  }
+  {
+    "hash": "4ff20e869fe2b5a0b8ce2e8be61c7f7f"
+    "size": 43832
+    "files": [
+      "c:\\windows\\system32\\drivers\\bttflt.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\virtdisk.inf_amd64_9a7f42b85c7def50\\bttflt.sys"
+    ]
+  }
+  {
+    "hash": "ef2a1f3c5ec4efffbe9a69b892fba29c"
+    "size": 44032
+    "files": [
+      "c:\\windows\\system32\\drivers\\buttonconverter.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\buttonconverter.inf_amd64_73b807c3bed63b18\\buttonconverter.sys"
+    ]
+  }
+  {
+    "hash": "c46ee01ce7fe9fe25d83589bd9b62c1f"
+    "size": 44032
+    "files": [
+      "c:\\windows\\system32\\drivers\\hidusb.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\input.inf_amd64_9a5968777b504367\\hidusb.sys"
+    ]
+  }
+  {
+    "hash": "0a13c67c267bfa1a0d1fe72a9d65bd5f"
+    "size": 44048
+    "files": [
+      "c:\\windows\\system32\\drivers\\storvsc.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wstorvsc.inf_amd64_50cb8ebb1c9584af\\storvsc.sys"
+    ]
+  }
+  {
+    "hash": "9ab1badc5a324da39186b81bc6ce6e2e"
+    "size": 44856
+    "files": [
+      "c:\\windows\\system32\\drivers\\sisraid2.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\sisraid2.inf_amd64_845e008c32615283\\sisraid2.sys"
+    ]
+  }
+  {
+    "hash": "d0e26e590de1424ccc4f77d1687049ef"
+    "size": 45568
+    "files": [
+      "c:\\windows\\system32\\drivers\\amdi2c.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\amdi2c.inf_amd64_d7ae71f8eb52c084\\amdi2c.sys"
+    ]
+  }
+  {
+    "hash": "459df30aadbb1e42a767174f0f2ba522"
+    "size": 45568
+    "files": [
+      "c:\\windows\\system32\\drivers\\BthMini.SYS"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\bth.inf_amd64_8cf4cdf24db2a645\\BthMini.SYS"
+    ]
+  }
+  {
+    "hash": "41ff6ccdee8637fadd312fa876828fa3"
+    "size": 46080
+    "files": [
+      "c:\\windows\\system32\\drivers\\hidparse.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\input.inf_amd64_9a5968777b504367\\hidparse.sys"
+    ]
+  }
+  {
+    "hash": "dd56d35e1708207b5006b491afbd47d7"
+    "size": 46592
+    "files": [
+      "c:\\windows\\system32\\drivers\\kbdhid.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\keyboard.inf_amd64_5938c699b80ebb8f\\kbdhid.sys"
+    ]
+  }
+  {
+    "hash": "392d1b7642a18c2b8dc461495a7ba791"
+    "size": 47104
+    "files": [
+      "c:\\windows\\system32\\drivers\\devauthe.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\xboxgip.inf_amd64_90ed6b3fdc759a5b\\devauthe.sys"
+    ]
+  }
+  {
+    "hash": "73e2942d5ef36ca7c6a72763fd7186cc"
+    "size": 47232
+    "files": [
+      "c:\\windows\\system32\\drivers\\nvhdap64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nvhda.inf_amd64_78871e961524d132\\nvhdap64.dll"
+    ]
+  }
+  {
+    "hash": "7f2f04a354582d3d34f5b2b4eff07189"
+    "size": 47616
+    "files": [
+      "c:\\windows\\system32\\drivers\\vhf.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hidvhf.inf_amd64_0a924aec7600dcde\\vhf.sys"
+    ]
+  }
+  {
+    "hash": "e343f7fd42210043208a295cbd6e251c"
+    "size": 47682
+    "files": [
+      "c:\\windows\\system32\\diskmgmt.msc"
+      "c:\\windows\\system32\\en-US\\diskmgmt.msc"
+    ]
+  }
+  {
+    "hash": "db89919f84809686bd4f8c24eb6cb3fa"
+    "size": 47928
+    "files": [
+      "c:\\windows\\system32\\drivers\\mssmbios.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mssmbios.inf_amd64_9fc7fe03de136fc1\\mssmbios.sys"
+    ]
+  }
+  {
+    "hash": "6b46e3061ec0523cb46ed28060fcd946"
+    "size": 48640
+    "files": [
+      "c:\\windows\\system32\\drivers\\hidir.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hidir.inf_amd64_7bf4a320e4ec8b3d\\hidir.sys"
+    ]
+  }
+  {
+    "hash": "563f1f5c9aa93d575bc2d263066f3198"
+    "size": 51712
+    "files": [
+      "c:\\windows\\system32\\drivers\\xinputhid.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\xinputhid.inf_amd64_b01c6ccf7f1e23b6\\xinputhid.sys"
+    ]
+  }
+  {
+    "hash": "115cc1e142ce29c9006d59943108df47"
+    "size": 52224
+    "files": [
+      "c:\\windows\\system32\\drivers\\circlass.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\circlass.inf_amd64_9f3f831d13d3df1f\\circlass.sys"
+    ]
+  }
+  {
+    "hash": "8622173a22bd05ec863dea3a4ccb939f"
+    "size": 53248
+    "files": [
+      "c:\\windows\\system32\\en-US\\mapi32.dll.mui"
+      "c:\\windows\\system32\\en-US\\mapistub.dll.mui"
+    ]
+  }
+  {
+    "hash": "4af3a5bbb53fbeb0cfe9b5f09adef03d"
+    "size": 53248
+    "files": [
+      "c:\\windows\\system32\\ru-RU\\mapi32.dll.mui"
+      "c:\\windows\\system32\\ru-RU\\mapistub.dll.mui"
+    ]
+  }
+  {
+    "hash": "bc29c374f70367c2631ef4d41b59c608"
+    "size": 54280
+    "files": [
+      "c:\\windows\\system32\\drivers\\vmstorfl.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wstorflt.inf_amd64_45ac09a9061e79a9\\vmstorfl.sys"
+    ]
+  }
+  {
+    "hash": "3a401ea56000aa6d1a497ff093790120"
+    "size": 55256
+    "files": [
+      "c:\\windows\\system32\\igfxexps.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxexps.dll"
+    ]
+  }
+  {
+    "hash": "0e972768bb14405b1dd09861d709c658"
+    "size": 55592
+    "files": [
+      "c:\\windows\\system32\\drivers\\kltap.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\kltap.inf_amd64_1cfd0d87ad073950\\kltap.sys"
+    ]
+  }
+  {
+    "hash": "1e9f3c9b201614cf4816c5d5b6c570d8"
+    "size": 55824
+    "files": [
+      "c:\\windows\\system32\\drivers\\hidinterrupt.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hidinterrupt.inf_amd64_eeb986311b3a5b16\\hidinterrupt.sys"
+    ]
+  }
+  {
+    "hash": "6092fd060ec4132a799bdad61845ddb7"
+    "size": 56120
+    "files": [
+      "c:\\windows\\system32\\drivers\\msgpiowin32.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\msgpiowin32.inf_amd64_46634fa071d1db0d\\msgpiowin32.sys"
+    ]
+  }
+  {
+    "hash": "16e6c7c7d4d7bed38cf39eb616c696bc"
+    "size": 56648
+    "files": [
+      "c:\\windows\\system32\\drivers\\pciidex.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mshdc.inf_amd64_747e4fe53d5ff1ea\\pciidex.sys"
+    ]
+  }
+  {
+    "hash": "1e129e905072a79282d6cc929284dfe5"
+    "size": 57344
+    "files": [
+      "c:\\windows\\system32\\drivers\\hidi2c.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hidi2c.inf_amd64_aad0f43cb9f97e75\\hidi2c.sys"
+    ]
+  }
+  {
+    "hash": "5da1ecea2654b4000154b74388108aad"
+    "size": 58019
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem9.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\lynxpointsystem.inf_amd64_cd1e518d883ecdfe\\LynxPoint.cat"
+    ]
+  }
+  {
+    "hash": "2e2e8ba514a93c297f124bab53f4e921"
+    "size": 58680
+    "files": [
+      "c:\\windows\\system32\\drivers\\percsas2i.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\percsas2i.inf_amd64_a7f5d94e6751c911\\percsas2i.sys"
+    ]
+  }
+  {
+    "hash": "fc574eb0eaaf6a806f6488673154f91f"
+    "size": 59116
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\STDSCHEM.GDL"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\STDSCHEM.GDL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\STDSCHEM.GDL"
+    ]
+  }
+  {
+    "hash": "48aa813aaa7e347cd7d6d56fe32144c6"
+    "size": 59192
+    "files": [
+      "c:\\windows\\system32\\drivers\\dmvsc.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wdmvsc.inf_amd64_8666ee4da6ad6325\\dmvsc.sys"
+    ]
+  }
+  {
+    "hash": "ce4b01081b8fd211a7a34219d5e8154a"
+    "size": 59704
+    "files": [
+      "c:\\windows\\system32\\drivers\\megasas.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\megasas.inf_amd64_289e18fb610dd883\\megasas.sys"
+    ]
+  }
+  {
+    "hash": "8df45131f7a1314053c8f206ca5867b3"
+    "size": 60736
+    "files": [
+      "c:\\windows\\system32\\drivers\\storufs.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\storufs.inf_amd64_f1bfd8ba30f6cccf\\storufs.sys"
+    ]
+  }
+  {
+    "hash": "4c7390a1ff613fbbf59141ca0be8ae89"
+    "size": 63070
+    "files": [
+      "c:\\windows\\system32\\certmgr.msc"
+      "c:\\windows\\system32\\en-US\\certmgr.msc"
+    ]
+  }
+  {
+    "hash": "dcca682fea47192106ec4f2001eae182"
+    "size": 63081
+    "files": [
+      "c:\\windows\\system32\\certlm.msc"
+      "c:\\windows\\system32\\en-US\\certlm.msc"
+    ]
+  }
+  {
+    "hash": "82b656712713424a707f1e127c68e02f"
+    "size": 63800
+    "files": [
+      "c:\\windows\\system32\\drivers\\mvumis.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mvumis.inf_amd64_f0f4d0c799bb854a\\mvumis.sys"
+    ]
+  }
+  {
+    "hash": "1b8e58acf3c40aedbfe0c71b2c5ee2bc"
+    "size": 64000
+    "files": [
+      "c:\\windows\\system32\\en-US\\nlsbres.dll.mui"
+      "c:\\windows\\system32\\en-US\\winnlsres.dll.mui"
+    ]
+  }
+  {
+    "hash": "6c6c1efc46a62091224333e1e9304fbc"
+    "size": 64016
+    "files": [
+      "c:\\windows\\system32\\drivers\\mausbip.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mausbhost.inf_amd64_34c86c15777c913b\\mausbip.sys"
+    ]
+  }
+  {
+    "hash": "530c0e730b5e6ba332fb4ac98f760789"
+    "size": 64312
+    "files": [
+      "c:\\windows\\system32\\drivers\\HpSAMD.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hpsamd.inf_amd64_0784fd3ef0d7ec93\\HpSAMD.sys"
+    ]
+  }
+  {
+    "hash": "b74ffc6301b3312a9f59e04e487bc72a"
+    "size": 65024
+    "files": [
+      "c:\\windows\\system32\\drivers\\Microsoft.Bluetooth.AvrcpTransport.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\microsoft_bluetooth_avrcptransport.inf_amd64_6506aa4ac05430d7\\Microsoft.Bluetooth.AvrcpTransport.sys"
+    ]
+  }
+  {
+    "hash": "dfa95cf9ed03219827e5522d30d6c100"
+    "size": 66048
+    "files": [
+      "c:\\windows\\system32\\TapiMigPlugin.dll"
+      "c:\\windows\\system32\\migwiz\\dlmanifests\\Microsoft-Windows-TapiSetup\\TapiMigPlugin.dll"
+    ]
+  }
+  {
+    "hash": "8e8c163d599b0f075841893db1cafb4b"
+    "size": 66560
+    "files": [
+      "c:\\windows\\system32\\drivers\\hidspi.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hidspi_km.inf_amd64_7e53b3972dc4df20\\hidspi.sys"
+    ]
+  }
+  {
+    "hash": "e7690568d2a5fa3d4e6d28b42358a122"
+    "size": 66576
+    "files": [
+      "c:\\windows\\system32\\drivers\\CAD.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\chargearbitration.inf_amd64_a0097842bcc7e487\\CAD.sys"
+    ]
+  }
+  {
+    "hash": "39da98a21df2129db71b58786f37fe16"
+    "size": 67072
+    "files": [
+      "c:\\windows\\system32\\drivers\\Synth3dVsc.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wsynth3dvsc.inf_amd64_3cdf994922d65510\\Synth3dVsc.sys"
+    ]
+  }
+  {
+    "hash": "661233b58190b487682839f1559a7962"
+    "size": 67384
+    "files": [
+      "c:\\windows\\system32\\drivers\\vdrvroot.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\vdrvroot.inf_amd64_5dbe5e81fafe4636\\vdrvroot.sys"
+    ]
+  }
+  {
+    "hash": "4352c109dd892a5a5413897a74103024"
+    "size": 67600
+    "files": [
+      "c:\\windows\\system32\\drivers\\mouclass.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\msmouse.inf_amd64_1793a485b491b199\\mouclass.sys"
+    ]
+  }
+  {
+    "hash": "0d5ea096c80a96b5cb4e2fb389133f9b"
+    "size": 67634
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms001.inf_amd64_8bc1bda6cf47380c\\MXDW.gpd"
+      "c:\\windows\\system32\\spool\\tools\\Microsoft XPS Document Writer\\mxdw.gpd"
+    ]
+  }
+  {
+    "hash": "1c6720616ff300235509d5efbb2cae20"
+    "size": 68408
+    "files": [
+      "c:\\windows\\system32\\drivers\\percsas3i.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\percsas3i.inf_amd64_c17a63dada1eaa02\\percsas3i.sys"
+    ]
+  }
+  {
+    "hash": "48ca3aa621134b9eb6986122b9fd7cdc"
+    "size": 68608
+    "files": [
+      "c:\\windows\\system32\\ru-RU\\nlsbres.dll.mui"
+      "c:\\windows\\system32\\ru-RU\\winnlsres.dll.mui"
+    ]
+  }
+  {
+    "hash": "4e05d3f44c38ba683ac2781835377974"
+    "size": 69048
+    "files": [
+      "c:\\windows\\system32\\drivers\\RvNetMP60.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\netmp60.inf_amd64_b40655b92da2c2e6\\RvNetMP60.sys"
+    ]
+  }
+  {
+    "hash": "81c236deac13f34c7c7e36b47e5e52a5"
+    "size": 71448
+    "files": [
+      "c:\\windows\\system32\\MBPPCn64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MBPPCn64.dll"
+    ]
+  }
+  {
+    "hash": "02a6967d5aef2f15aa9c838dbf3e1c04"
+    "size": 71480
+    "files": [
+      "c:\\windows\\system32\\drivers\\kbdclass.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\keyboard.inf_amd64_5938c699b80ebb8f\\kbdclass.sys"
+    ]
+  }
+  {
+    "hash": "f4c4fd42f8dd657157823db617cc3a3d"
+    "size": 73016
+    "files": [
+      "c:\\windows\\system32\\drivers\\winverbs.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mlx4_bus.inf_amd64_4c426f3bebc68844\\winverbs.sys"
+    ]
+  }
+  {
+    "hash": "ee399e9c94a145a627b5c5bd67242616"
+    "size": 76128
+    "files": [
+      "c:\\windows\\system32\\MBppld64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MBppld64.dll"
+    ]
+  }
+  {
+    "hash": "11d609cc74f0eb1df6c0171331cde9a1"
+    "size": 76800
+    "files": [
+      "c:\\windows\\system32\\drivers\\bthmodem.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mdmbtmdm.inf_amd64_9e5602638617558e\\bthmodem.sys"
+    ]
+  }
+  {
+    "hash": "6c3ede394c71d5a67a504f55e35b6f47"
+    "size": 79360
+    "files": [
+      "c:\\windows\\system32\\drivers\\iaLPSS2i_GPIO2.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ialpss2i_gpio2_skl.inf_amd64_b68199ad84607c21\\iaLPSS2i_GPIO2.sys"
+    ]
+  }
+  {
+    "hash": "bd806da5c342a0074b8a1dafb6216973"
+    "size": 79376
+    "files": [
+      "c:\\windows\\system32\\drivers\\uaspstor.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\uaspstor.inf_amd64_00c806307a02e39f\\uaspstor.sys"
+    ]
+  }
+  {
+    "hash": "62f0cb0a54eaf37e15ec385300957bb8"
+    "size": 79632
+    "files": [
+      "c:\\windows\\system32\\drivers\\ibtfltcoex.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ibtfltcoex.inf_amd64_6ba2d768e994b2d9\\ibtfltcoex.sys"
+    ]
+  }
+  {
+    "hash": "074d2516b7435b3560bf2a69f10bbf22"
+    "size": 80896
+    "files": [
+      "c:\\windows\\system32\\drivers\\monitor.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\monitor.inf_amd64_defcca8dd633949b\\monitor.sys"
+    ]
+  }
+  {
+    "hash": "fafb6ae4504c2fb772d80e18e24aa4a1"
+    "size": 80930
+    "files": [
+      "c:\\windows\\system32\\nvinfo.pb"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\nvinfo.pb"
+    ]
+  }
+  {
+    "hash": "c1213195609925f6422e2ba69ed6f221"
+    "size": 81408
+    "files": [
+      "c:\\windows\\system32\\drivers\\usbser.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbser.inf_amd64_d10aebb07a59f533\\usbser.sys"
+    ]
+  }
+  {
+    "hash": "f3c6b901e3ff70f27a17cfddd7ba85aa"
+    "size": 81720
+    "files": [
+      "c:\\windows\\system32\\drivers\\MegaSas2i.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\megasas2i.inf_amd64_ed501deb0beeb5cb\\MegaSas2i.sys"
+    ]
+  }
+  {
+    "hash": "60213af297023c005453e1cbf7cb6fe7"
+    "size": 81720
+    "files": [
+      "c:\\windows\\system32\\drivers\\sisraid4.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\sisraid4.inf_amd64_65ab84e9830f6f4b\\sisraid4.sys"
+    ]
+  }
+  {
+    "hash": "2e78ed362e0397a13c24bd5c9605d426"
+    "size": 82544
+    "files": [
+      "c:\\windows\\system32\\RtNicProp64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\rt640x64.inf_amd64_d0c1c930b63d5ddd\\RtNicProp64.dll"
+    ]
+  }
+  {
+    "hash": "ed902ebc8deef6e5fc00d0816ddffb42"
+    "size": 82744
+    "files": [
+      "c:\\windows\\system32\\drivers\\lsi_sss.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\lsi_sss.inf_amd64_503a2398f4c86893\\lsi_sss.sys"
+    ]
+  }
+  {
+    "hash": "70d7be6bb8d22a38ad0040a1ec41c1fe"
+    "size": 83256
+    "files": [
+      "c:\\windows\\system32\\drivers\\amdsata.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\amdsata.inf_amd64_ea60132f1a9a7a62\\amdsata.sys"
+    ]
+  }
+  {
+    "hash": "bc341baa0b6009c0e4301cf4744e7819"
+    "size": 84480
+    "files": [
+      "c:\\windows\\system32\\igfxDHLib.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxDHLib.dll"
+    ]
+  }
+  {
+    "hash": "7c77fd3f0002450efe94f32bbbc0cdec"
+    "size": 86136
+    "files": [
+      "c:\\windows\\system32\\R4EEG64A.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\R4EEG64A.dll"
+    ]
+  }
+  {
+    "hash": "d1e576c8a94a27d896b56f923ed4e4d6"
+    "size": 86544
+    "files": [
+      "c:\\windows\\system32\\drivers\\usbehci.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbport.inf_amd64_254cd5ae09de6b08\\usbehci.sys"
+    ]
+  }
+  {
+    "hash": "7aeb7da23f8820113bd8911ab4c1a009"
+    "size": 87552
+    "files": [
+      "c:\\windows\\system32\\drivers\\UMDF\\EhStorPwdDrv.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ehstorpwddrv.inf_amd64_220e4fad6c84d016\\EhStorPwdDrv.dll"
+    ]
+  }
+  {
+    "hash": "a37a7788dabe4ff6e33fe50d7a33d8e8"
+    "size": 89400
+    "files": [
+      "c:\\windows\\system32\\drivers\\vpci.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wvpci.inf_amd64_86afbe8940682d27\\vpci.sys"
+    ]
+  }
+  {
+    "hash": "55f9ca68a7e289ea6768c49fd5414157"
+    "size": 89872
+    "files": [
+      "c:\\windows\\system32\\RTEEG64A.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RTEEG64A.dll"
+    ]
+  }
+  {
+    "hash": "03c916697b40262ccce75acd83cdfc9b"
+    "size": 90432
+    "files": [
+      "c:\\windows\\system32\\drivers\\volmgr.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\volmgr.inf_amd64_96679e35a2ad07ad\\volmgr.sys"
+    ]
+  }
+  {
+    "hash": "dce5d050f3b06d30985ee126257deeb6"
+    "size": 90624
+    "files": [
+      "c:\\windows\\system32\\drivers\\serial.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\msports.inf_amd64_f2e8231e8b60f214\\serial.sys"
+    ]
+  }
+  {
+    "hash": "48edb9b5dab7d294951a520330f13715"
+    "size": 91136
+    "files": [
+      "c:\\windows\\system32\\drivers\\iai2c.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\iai2c.inf_amd64_a77c815b2999404d\\iai2c.sys"
+    ]
+  }
+  {
+    "hash": "358c6a17f3cb9a3774210bc5b6b28926"
+    "size": 91872
+    "files": [
+      "c:\\windows\\system32\\RtCRX64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\rtsuerxd3.inf_amd64_b0314792f1359229\\RtCRX64.dll"
+    ]
+  }
+  {
+    "hash": "2d8d95469ec26aaa986aad1ce424e631"
+    "size": 92746
+    "files": [
+      "c:\\windows\\system32\\services.msc"
+      "c:\\windows\\system32\\en-US\\services.msc"
+    ]
+  }
+  {
+    "hash": "806d14ceaf25e5f2dfcba8e7e33b86bb"
+    "size": 93184
+    "files": [
+      "c:\\windows\\system32\\drivers\\iaLPSS2i_GPIO2_BXT_P.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ialpss2i_gpio2_bxt_p.inf_amd64_8be317e01b44bf5a\\iaLPSS2i_GPIO2_BXT_P.sys"
+    ]
+  }
+  {
+    "hash": "e8ee42f27a9ac2588bb36fb2e7a70060"
+    "size": 94130
+    "files": [
+      "c:\\windows\\system32\\oobe\\en-US\\OOBE_HELP_Cortana_Learn_More.rtf"
+      "c:\\windows\\system32\\oobe\\ru-RU\\OOBE_HELP_Cortana_Learn_More.rtf"
+    ]
+  }
+  {
+    "hash": "ed52b692c4cff7950edd58c748d83056"
+    "size": 95232
+    "files": [
+      "c:\\windows\\system32\\igfxDHLibv2_0.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxDHLibv2_0.dll"
+    ]
+  }
+  {
+    "hash": "4b12c66340e1a21fa7b8508abaf48c20"
+    "size": 95544
+    "files": [
+      "c:\\windows\\system32\\drivers\\klim6.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\klim6.inf_amd64_2c99dbf3ae80522e\\klim6.sys"
+    ]
+  }
+  {
+    "hash": "8d3e3c431367e3ba632b4396ca662e1a"
+    "size": 96256
+    "files": [
+      "c:\\windows\\system32\\drivers\\iaLPSS2i_GPIO2_GLK.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ialpss2i_gpio2_glk.inf_amd64_dad1e0a2b185e32b\\iaLPSS2i_GPIO2_GLK.sys"
+    ]
+  }
+  {
+    "hash": "1472361db9bc28f6c4cb327fe5e35393"
+    "size": 97280
+    "files": [
+      "c:\\windows\\system32\\MicrosoftEdgeBCHost.exe"
+      "c:\\windows\\system32\\MicrosoftEdgeCP.exe"
+      "c:\\windows\\system32\\MicrosoftEdgeDevTools.exe"
+    ]
+  }
+  {
+    "hash": "a5928e839a2613c91b336faf848741ec"
+    "size": 97792
+    "files": [
+      "c:\\windows\\system32\\drivers\\drmk.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wdmaudio.inf_amd64_cb639d1f182bc449\\drmk.sys"
+    ]
+  }
+  {
+    "hash": "e16969e7b0c2759cbfa48ddff758fd9b"
+    "size": 98624
+    "files": [
+      "c:\\windows\\system32\\drivers\\disk.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\disk.inf_amd64_cc4dba2066ccf53c\\disk.sys"
+    ]
+  }
+  {
+    "hash": "6c877505b90354e83ab6b886b3711ffc"
+    "size": 99840
+    "files": [
+      "c:\\windows\\system32\\Intel_OpenCL_ICD64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\Intel_OpenCL_ICD64.dll"
+    ]
+  }
+  {
+    "hash": "5d82db56c0493e96ec696038c46ab1e3"
+    "size": 100864
+    "files": [
+      "c:\\windows\\system32\\igfxSDKLib.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxSDKLib.dll"
+    ]
+  }
+  {
+    "hash": "27e8eaa09b5062c444512c4923c59f2e"
+    "size": 103424
+    "files": [
+      "c:\\windows\\system32\\igfxCUIServicePS.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxCUIServicePS.dll"
+    ]
+  }
+  {
+    "hash": "8b4b79b8b5cb5f83092487200fe173e2"
+    "size": 103736
+    "files": [
+      "c:\\windows\\system32\\drivers\\sdstor.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\sdstor.inf_amd64_afb94ccbdf196afd\\sdstor.sys"
+    ]
+  }
+  {
+    "hash": "eb84966d14f9342c8ad3d78ba9aa8754"
+    "size": 105480
+    "files": [
+      "c:\\windows\\system32\\drivers\\megasas35i.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\megasas35i.inf_amd64_4df7f6223ebcd28d\\megasas35i.sys"
+    ]
+  }
+  {
+    "hash": "0825c3b0d4a788e95de80739e52c9174"
+    "size": 106496
+    "files": [
+      "c:\\windows\\system32\\drivers\\Microsoft.Bluetooth.Legacy.LEEnumerator.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\bthleenum.inf_amd64_11f9ff6c12dbf9b5\\Microsoft.Bluetooth.Legacy.LEEnumerator.sys"
+    ]
+  }
+  {
+    "hash": "91d3dc62c6eddb6554ce14c0e0b4290f"
+    "size": 107008
+    "files": [
+      "c:\\windows\\system32\\drivers\\winusb.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\winusb.inf_amd64_ced441476847bd1a\\winusb.sys"
+    ]
+  }
+  {
+    "hash": "1c29610edf5fe3c9d313207bd65bcdd0"
+    "size": 107320
+    "files": [
+      "c:\\windows\\system32\\drivers\\3ware.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\3ware.inf_amd64_408ceed6ec8ab6cd\\3ware.sys"
+    ]
+  }
+  {
+    "hash": "11561fc5baa2deb5ac8b179b591a882e"
+    "size": 107520
+    "files": [
+      "c:\\windows\\system32\\drivers\\usbcir.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbcir.inf_amd64_a19f675674962ae4\\usbcir.sys"
+    ]
+  }
+  {
+    "hash": "89eb90814da5fb6f5299240ad8b9c7a7"
+    "size": 108856
+    "files": [
+      "c:\\windows\\system32\\drivers\\lsi_sas.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\lsi_sas.inf_amd64_74bb5e3e01cfd526\\lsi_sas.sys"
+    ]
+  }
+  {
+    "hash": "138fdb1ebcb61287a645bd3b06dbed5e"
+    "size": 109056
+    "files": [
+      "c:\\windows\\system32\\drivers\\parport.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\msports.inf_amd64_f2e8231e8b60f214\\parport.sys"
+    ]
+  }
+  {
+    "hash": "87bec03383418d221fb749cb9d045b2f"
+    "size": 110592
+    "files": [
+      "c:\\windows\\system32\\drivers\\BTHUSB.SYS"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\bth.inf_amd64_8cf4cdf24db2a645\\BTHUSB.SYS"
+    ]
+  }
+  {
+    "hash": "6e98aad3410dfecc1b28a8296b08942f"
+    "size": 111616
+    "files": [
+      "c:\\windows\\system32\\igfxSDKLibv2_0.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxSDKLibv2_0.dll"
+    ]
+  }
+  {
+    "hash": "87dddae1693484bd0a210c877bda00c2"
+    "size": 112128
+    "files": [
+      "c:\\windows\\system32\\drivers\\iaLPSS2i_GPIO2_CNL.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ialpss2i_gpio2_cnl.inf_amd64_a60833fda31e9831\\iaLPSS2i_GPIO2_CNL.sys"
+    ]
+  }
+  {
+    "hash": "743f88df3de71f9aa1f521c73d461f03"
+    "size": 112512
+    "files": [
+      "c:\\windows\\system32\\RTEEL64A.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RTEEL64A.dll"
+    ]
+  }
+  {
+    "hash": "eb82a11613326691508d9ed9a4fe29e7"
+    "size": 113152
+    "files": [
+      "c:\\windows\\system32\\drivers\\iaLPSSi_I2C.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ialpssi_i2c.inf_amd64_8e00e1aed7fbdf70\\iaLPSSi_I2C.sys"
+    ]
+  }
+  {
+    "hash": "f04c119c159670c9271623454bec3254"
+    "size": 113256
+    "files": [
+      "c:\\windows\\system32\\compmgmt.msc"
+      "c:\\windows\\system32\\en-US\\compmgmt.msc"
+    ]
+  }
+  {
+    "hash": "0d1a51e6f4689f71704e2a40fec12b69"
+    "size": 113664
+    "files": [
+      "c:\\windows\\system32\\drivers\\bthenum.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\bth.inf_amd64_8cf4cdf24db2a645\\bthenum.sys"
+    ]
+  }
+  {
+    "hash": "cb74567907f74db11aaec85865fdf35e"
+    "size": 115109
+    "files": [
+      "c:\\windows\\system32\\WF.msc"
+      "c:\\windows\\system32\\en-US\\WF.msc"
+    ]
+  }
+  {
+    "hash": "4dd0efe49f0c020dafeae6f5f231362c"
+    "size": 115712
+    "files": [
+      "c:\\windows\\system32\\drivers\\rhproxy.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\rhproxy.inf_amd64_7d28259fbc48ab7d\\rhproxy.sys"
+    ]
+  }
+  {
+    "hash": "137c749dc2be8585f6d62ca32b796947"
+    "size": 115712
+    "files": [
+      "c:\\windows\\system32\\drivers\\UMDF\\HidTelephony.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hidtelephonydriver.inf_amd64_43fa6b1db642df7e\\HidTelephony.dll"
+    ]
+  }
+  {
+    "hash": "14ac9857435a1d1c632816aa2b8e63f3"
+    "size": 116752
+    "files": [
+      "c:\\windows\\system32\\drivers\\sbp2port.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\sbp2.inf_amd64_8fde09181055ff8d\\sbp2port.sys"
+    ]
+  }
+  {
+    "hash": "0ed186cfca4ea3c21d118a4940d4b0e8"
+    "size": 117560
+    "files": [
+      "c:\\windows\\system32\\drivers\\IPMIDrv.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ipmidrv.inf_amd64_0c60e8ebd13abf26\\IPMIDrv.sys"
+    ]
+  }
+  {
+    "hash": "e4b36c6eaaab703cbfecb92ee590fb31"
+    "size": 118272
+    "files": [
+      "c:\\windows\\system32\\drivers\\i8042prt.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\keyboard.inf_amd64_5938c699b80ebb8f\\i8042prt.sys"
+    ]
+  }
+  {
+    "hash": "8af39654d15167ed6945db5b87320bc0"
+    "size": 118600
+    "files": [
+      "c:\\windows\\system32\\AERTAR64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\AERTAR64.dll"
+    ]
+  }
+  {
+    "hash": "baa82faefcca50270c6f38d4108403a3"
+    "size": 120320
+    "files": [
+      "c:\\windows\\system32\\drivers\\hidbth.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hidbth.inf_amd64_76fb27776958e530\\hidbth.sys"
+    ]
+  }
+  {
+    "hash": "2bc2546831b054680c6f59888f295e44"
+    "size": 120458
+    "files": [
+      "c:\\windows\\system32\\secpol.msc"
+      "c:\\windows\\system32\\en-US\\secpol.msc"
+    ]
+  }
+  {
+    "hash": "df9acc2436102d936041ddc7b639c7e7"
+    "size": 122328
+    "files": [
+      "c:\\windows\\system32\\CONEQMSAPOGUILibrary.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\CONEQMSAPOGUILibrary.dll"
+    ]
+  }
+  {
+    "hash": "ac27746ce65f3a7a1329beba7a64e08f"
+    "size": 124118
+    "files": [
+      "c:\\windows\\system32\\comexp.msc"
+      "c:\\windows\\system32\\en-US\\comexp.msc"
+    ]
+  }
+  {
+    "hash": "2fd85e518ea97bb642b018eeb453401a"
+    "size": 124216
+    "files": [
+      "c:\\windows\\system32\\drivers\\lsi_sas2i.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\lsi_sas2i.inf_amd64_b4e933c4540ad3cc\\lsi_sas2i.sys"
+    ]
+  }
+  {
+    "hash": "9f04cf369b93a78b2e56a3df9b41f25f"
+    "size": 124728
+    "files": [
+      "c:\\windows\\system32\\drivers\\EhStorTcgDrv.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ehstortcgdrv.inf_amd64_5cb0c23f45dac01c\\EhStorTcgDrv.sys"
+    ]
+  }
+  {
+    "hash": "0543f01c97ce2d3abb4f8cea56b99721"
+    "size": 127800
+    "files": [
+      "c:\\windows\\system32\\drivers\\pcmcia.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\pcmcia.inf_amd64_cb18bba4788e47f7\\pcmcia.sys"
+    ]
+  }
+  {
+    "hash": "46fd8469080917ee12425af692c4bc20"
+    "size": 131896
+    "files": [
+      "c:\\windows\\system32\\drivers\\arcsas.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\arcsas.inf_amd64_b3d75f82c617ac6a\\arcsas.sys"
+    ]
+  }
+  {
+    "hash": "4bfd517f80f247590ab6c03e3ff55e1a"
+    "size": 132608
+    "files": [
+      "c:\\windows\\system32\\drivers\\hdaudbus.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdaudbus.inf_amd64_02321718fcda06f7\\hdaudbus.sys"
+    ]
+  }
+  {
+    "hash": "3ab6dd0a13f9aa1bc6a71e942cc45770"
+    "size": 133632
+    "files": [
+      "c:\\windows\\system32\\drivers\\bthpan.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\bthpan.inf_amd64_b06c3bc32f7db374\\bthpan.sys"
+    ]
+  }
+  {
+    "hash": "5600a496f7e579e64e5c63e566edd71c"
+    "size": 134656
+    "files": [
+      "c:\\windows\\system32\\drivers\\tsusbhub.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\tsusbhub.inf_amd64_020c05ce0741988e\\tsusbhub.sys"
+    ]
+  }
+  {
+    "hash": "d4ecafdbbb8312b665d3787966294c3f"
+    "size": 135480
+    "files": [
+      "c:\\windows\\system32\\drivers\\USBSTOR.SYS"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbstor.inf_amd64_fdc546c50de62fa7\\USBSTOR.SYS"
+    ]
+  }
+  {
+    "hash": "20820de61588b8589dee7bc50bd19bf0"
+    "size": 135720
+    "files": [
+      "c:\\windows\\system32\\R4EEA64A.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\R4EEA64A.dll"
+    ]
+  }
+  {
+    "hash": "8b7995d9e487c8f90bea8f1ef6331c10"
+    "size": 135992
+    "files": [
+      "c:\\windows\\system32\\drivers\\lsi_sas3i.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\lsi_sas3i.inf_amd64_79c7a4d8be0a9744\\lsi_sas3i.sys"
+    ]
+  }
+  {
+    "hash": "c79bba71dd9e57829e09f22471c50b5f"
+    "size": 137936
+    "files": [
+      "c:\\windows\\system32\\drivers\\UMDF\\UsbXhciCompanion.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbxhci.inf_amd64_416978241be021ad\\UsbXhciCompanion.dll"
+    ]
+  }
+  {
+    "hash": "8d8575d069381877baed88d2fc98ec11"
+    "size": 138040
+    "files": [
+      "c:\\windows\\system32\\drivers\\pmem.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\pmem.inf_amd64_acec109593aed940\\pmem.sys"
+    ]
+  }
+  {
+    "hash": "bd447c2e13921859277242f1f8eac860"
+    "size": 138303
+    "files": [
+      "c:\\windows\\system32\\license.rtf"
+      "c:\\windows\\system32\\en-US\\Licenses\\OEM\\Professional\\license.rtf"
+      "c:\\windows\\system32\\en-US\\Licenses\\_Default\\Professional\\license.rtf"
+    ]
+  }
+  {
+    "hash": "0f82ee7c0834d7cf5cde50bdd95c8111"
+    "size": 142848
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms002.inf_amd64_026ea33d249e474a\\Amd64\\FXSWZRD.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\FXSWZRD.DLL"
+    ]
+  }
+  {
+    "hash": "0de73bd8053b1ea5ae0f7449a8a83e3a"
+    "size": 144184
+    "files": [
+      "c:\\windows\\system32\\drivers\\cht4dx64.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\cht4sx64.inf_amd64_3a69b9b79f49eb50\\cht4dx64.sys"
+    ]
+  }
+  {
+    "hash": "e0addce97ee521c9ac4f53ee17a05bd5"
+    "size": 144673
+    "files": [
+      "c:\\windows\\system32\\WmiMgmt.msc"
+      "c:\\windows\\system32\\en-US\\WmiMgmt.msc"
+    ]
+  }
+  {
+    "hash": "9359341f78e00134b527814b4868ecd5"
+    "size": 144862
+    "files": [
+      "c:\\windows\\system32\\tpm.msc"
+      "c:\\windows\\system32\\en-US\\tpm.msc"
+    ]
+  }
+  {
+    "hash": "7ae44e94c6b1df488aa309824dead643"
+    "size": 144896
+    "files": [
+      "c:\\windows\\system32\\drivers\\BthHfEnum.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\microsoft_bluetooth_hfp.inf_amd64_ce8dd0298390d906\\BthHfEnum.sys"
+    ]
+  }
+  {
+    "hash": "97aed7fc6c2b38f34ca1a3c10d2f5a60"
+    "size": 144909
+    "files": [
+      "c:\\windows\\system32\\fsmgmt.msc"
+      "c:\\windows\\system32\\en-US\\fsmgmt.msc"
+    ]
+  }
+  {
+    "hash": "3279476e39de235b426d69cfe8debf55"
+    "size": 144998
+    "files": [
+      "c:\\windows\\system32\\lusrmgr.msc"
+      "c:\\windows\\system32\\en-US\\lusrmgr.msc"
+    ]
+  }
+  {
+    "hash": "ab2a58839814d2ea5ee621b5dbf944ff"
+    "size": 145059
+    "files": [
+      "c:\\windows\\system32\\taskschd.msc"
+      "c:\\windows\\system32\\en-US\\taskschd.msc"
+    ]
+  }
+  {
+    "hash": "9bdccc1a87cca27adeace8144f385165"
+    "size": 145127
+    "files": [
+      "c:\\windows\\system32\\eventvwr.msc"
+      "c:\\windows\\system32\\en-US\\eventvwr.msc"
+    ]
+  }
+  {
+    "hash": "9be46dd971fba66d84567679d3d414ec"
+    "size": 145519
+    "files": [
+      "c:\\windows\\system32\\perfmon.msc"
+      "c:\\windows\\system32\\en-US\\perfmon.msc"
+    ]
+  }
+  {
+    "hash": "b4c5ebe7fc76e1508dac2a8edbf55740"
+    "size": 145536
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\slgeq64.dll"
+      "c:\\windows\\system32\\SRSLabs\\{176F4E15-8F7C-4833-ADED-81FAE8CCD186}\\slgeq64.dll"
+    ]
+  }
+  {
+    "hash": "383a3b36999fabd8dca7691b38713c40"
+    "size": 145622
+    "files": [
+      "c:\\windows\\system32\\devmgmt.msc"
+      "c:\\windows\\system32\\en-US\\devmgmt.msc"
+    ]
+  }
+  {
+    "hash": "900f410f7bf53ed9e951853743ca25df"
+    "size": 146036
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mdmcxhv6.inf_amd64_f1a7a2fbd6554d60\\VSTProf.cty"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mdmcxpv6.inf_amd64_46a3b42507e9d29e\\VSTProf.cty"
+    ]
+  }
+  {
+    "hash": "d62777bd13ac73f8fb20039b701d5292"
+    "size": 146232
+    "files": [
+      "c:\\windows\\system32\\drivers\\ndfltr.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mlx4_bus.inf_amd64_4c426f3bebc68844\\ndfltr.sys"
+    ]
+  }
+  {
+    "hash": "4856202475efe0d66fa11ee1dcf6d0d3"
+    "size": 146389
+    "files": [
+      "c:\\windows\\system32\\printmanagement.msc"
+      "c:\\windows\\system32\\en-US\\printmanagement.msc"
+    ]
+  }
+  {
+    "hash": "6c054da115c2ca2c523abd159ed7814b"
+    "size": 147439
+    "files": [
+      "c:\\windows\\system32\\gpedit.msc"
+      "c:\\windows\\system32\\en-US\\gpedit.msc"
+    ]
+  }
+  {
+    "hash": "5281a4f23e594ae6ede1e38b1f8518e0"
+    "size": 150328
+    "files": [
+      "c:\\windows\\system32\\drivers\\nvraid.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nvraid.inf_amd64_144351277838b429\\nvraid.sys"
+    ]
+  }
+  {
+    "hash": "329d6f02df4ef832d0e9644814e823a4"
+    "size": 150528
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms002.inf_amd64_026ea33d249e474a\\Amd64\\FXSUI.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\FXSUI.DLL"
+    ]
+  }
+  {
+    "hash": "8624be6f0f6a70f0321a909c9329cc0c"
+    "size": 153288
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\slcsii64.dll"
+      "c:\\windows\\system32\\SRSLabs\\{176F4E15-8F7C-4833-ADED-81FAE8CCD186}\\slcsii64.dll"
+    ]
+  }
+  {
+    "hash": "eccc2630814cc5526d03d92def1e7893"
+    "size": 153312
+    "files": [
+      "c:\\windows\\system32\\R4EEL64A.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\R4EEL64A.dll"
+    ]
+  }
+  {
+    "hash": "263d8a21a0dc9fbed25b8ccedc6ab169"
+    "size": 153800
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\sltshd64.dll"
+      "c:\\windows\\system32\\SRSLabs\\{176F4E15-8F7C-4833-ADED-81FAE8CCD186}\\sltshd64.dll"
+    ]
+  }
+  {
+    "hash": "1def1e3dc73edd14f3aa039fb88ce97b"
+    "size": 155960
+    "files": [
+      "c:\\windows\\system32\\drivers\\stornvme.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\stornvme.inf_amd64_5947ff350bf5bcf8\\stornvme.sys"
+    ]
+  }
+  {
+    "hash": "14dd371343efec95013a273debcfe96f"
+    "size": 158736
+    "files": [
+      "c:\\windows\\system32\\drivers\\scmbus.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\scmbus.inf_amd64_c78fd781987c1675\\scmbus.sys"
+    ]
+  }
+  {
+    "hash": "92174867c0d443611f60205aa6a9cc88"
+    "size": 159908
+    "files": [
+      "c:\\windows\\system32\\Licenses\\neutral\\OEM\\Professional\\de-license.rtf"
+      "c:\\windows\\system32\\Licenses\\neutral\\OEM\\Professional\\license.rtf"
+      "c:\\windows\\system32\\Licenses\\neutral\\_Default\\Professional\\de-license.rtf"
+      "c:\\windows\\system32\\Licenses\\neutral\\_Default\\Professional\\license.rtf"
+    ]
+  }
+  {
+    "hash": "8400f5228f706f501cf87e0402fec491"
+    "size": 160072
+    "files": [
+      "c:\\windows\\system32\\drivers\\vmbus.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wvmbus.inf_amd64_1edd633ca88bbfe2\\vmbus.sys"
+    ]
+  }
+  {
+    "hash": "ea26ff32c86b823c16958b17ef729beb"
+    "size": 161280
+    "files": [
+      "c:\\windows\\system32\\WpdMtpUS.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wpdmtp.inf_amd64_42b97498c7087292\\WpdMtpUS.dll"
+    ]
+  }
+  {
+    "hash": "9d14b11e8c8ddb6008ee5469d722195b"
+    "size": 162304
+    "files": [
+      "c:\\windows\\system32\\migration\\commig.dll"
+      "c:\\windows\\system32\\migwiz\\dlmanifests\\Microsoft-Windows-COM-ComPlus-Setup-DL\\commig.dll"
+      "c:\\windows\\system32\\migwiz\\replacementmanifests\\Microsoft-Windows-COM-ComPlus-Setup\\commig.dll"
+    ]
+  }
+  {
+    "hash": "e5ecd3df9a61c507b3b69f7892c71637"
+    "size": 165952
+    "files": [
+      "c:\\windows\\system32\\RtkXInterface64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RtkXInterface64.dll"
+    ]
+  }
+  {
+    "hash": "a11d15751217eeb734033bb5a929b1cd"
+    "size": 166200
+    "files": [
+      "c:\\windows\\system32\\drivers\\nvstor.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nvraid.inf_amd64_144351277838b429\\nvstor.sys"
+    ]
+  }
+  {
+    "hash": "1a4d9faed669bc42e5a1cd8442729ab2"
+    "size": 166712
+    "files": [
+      "c:\\windows\\system32\\drivers\\vsmraid.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\vsmraid.inf_amd64_3d2bbc45931b8232\\vsmraid.sys"
+    ]
+  }
+  {
+    "hash": "648a499faaded04541d798f1eb6d84f7"
+    "size": 166912
+    "files": [
+      "c:\\windows\\system32\\mapi32.dll"
+      "c:\\windows\\system32\\mapistub.dll"
+    ]
+  }
+  {
+    "hash": "f77b155e11af16436e0aeb184a3bc215"
+    "size": 167728
+    "files": [
+      "c:\\windows\\system32\\SRSWOW64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\SRSWOW64.dll"
+    ]
+  }
+  {
+    "hash": "e884b3b8dda9442f58e41c2ade3c4234"
+    "size": 168264
+    "files": [
+      "c:\\windows\\system32\\drivers\\ufxsynopsys.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ufxsynopsys.inf_amd64_978099f98cc73ddf\\ufxsynopsys.sys"
+    ]
+  }
+  {
+    "hash": "beb8637d4b098b286b8b4f46e88a57ad"
+    "size": 168464
+    "files": [
+      "c:\\windows\\system32\\drivers\\nvdimm.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nvdimm.inf_amd64_9bb46b0de5ea33cd\\nvdimm.sys"
+    ]
+  }
+  {
+    "hash": "0af435a47a7f2e5feb65d355e4a33d49"
+    "size": 169776
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\slh36064.dll"
+      "c:\\windows\\system32\\SRSLabs\\{176F4E15-8F7C-4833-ADED-81FAE8CCD186}\\slh36064.dll"
+    ]
+  }
+  {
+    "hash": "149f1260537c4f68c3f67c363b62f3c5"
+    "size": 171520
+    "files": [
+      "c:\\windows\\system32\\drivers\\iaLPSS2i_I2C.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ialpss2i_i2c_skl.inf_amd64_9d9dbb01837eba23\\iaLPSS2i_I2C.sys"
+    ]
+  }
+  {
+    "hash": "2dab988fdd06cacd99b9db2a05569449"
+    "size": 172344
+    "files": [
+      "c:\\windows\\system32\\drivers\\ItSas35i.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\itsas35i.inf_amd64_4f5850c71046b0cb\\ItSas35i.sys"
+    ]
+  }
+  {
+    "hash": "0f8c7c8ce7e57baa2c7632c0094a51e6"
+    "size": 172416
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\slcc3d64.dll"
+      "c:\\windows\\system32\\SRSLabs\\{176F4E15-8F7C-4833-ADED-81FAE8CCD186}\\slcc3d64.dll"
+    ]
+  }
+  {
+    "hash": "26255c953a69ccd32ef4491411737904"
+    "size": 174080
+    "files": [
+      "c:\\windows\\system32\\drivers\\cdrom.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\cdrom.inf_amd64_e6204ca7fa3684b9\\cdrom.sys"
+    ]
+  }
+  {
+    "hash": "4538068efe4be72e3f0da0550f91a048"
+    "size": 174968
+    "files": [
+      "c:\\windows\\system32\\drivers\\VBoxUSB.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\vboxusb.inf_amd64_7da071f8b02bcfd6\\VBoxUSB.sys"
+    ]
+  }
+  {
+    "hash": "d3b53ed43c6e47d6cf730bf90259b5b1"
+    "size": 175064
+    "files": [
+      "c:\\windows\\system32\\difx64.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\difx64.exe"
+    ]
+  }
+  {
+    "hash": "3e641e905a6dbf29cba1e72bbe349808"
+    "size": 175104
+    "files": [
+      "c:\\windows\\system32\\drivers\\iaLPSS2i_I2C_BXT_P.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ialpss2i_i2c_bxt_p.inf_amd64_190858fd8e931883\\iaLPSS2i_I2C_BXT_P.sys"
+    ]
+  }
+  {
+    "hash": "bad9ac7e756a1d0cf6d38e29becc0a3b"
+    "size": 176976
+    "files": [
+      "c:\\windows\\system32\\RtkCfg64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RtkCfg64.dll"
+    ]
+  }
+  {
+    "hash": "897478d8faceae8681f6f3502201ec68"
+    "size": 177152
+    "files": [
+      "c:\\windows\\system32\\drivers\\iaLPSS2i_I2C_CNL.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ialpss2i_i2c_cnl.inf_amd64_f668309b543472eb\\iaLPSS2i_I2C_CNL.sys"
+    ]
+  }
+  {
+    "hash": "2ed3b41c7cb4101acb15d84d8ab5aa9d"
+    "size": 177664
+    "files": [
+      "c:\\windows\\system32\\drivers\\iaLPSS2i_I2C_GLK.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ialpss2i_i2c_glk.inf_amd64_7b6c08738ca8a856\\iaLPSS2i_I2C_GLK.sys"
+    ]
+  }
+  {
+    "hash": "e5e1113dcafe267ce617284a64929eea"
+    "size": 177664
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\tsprint.inf_amd64_6066bc96a5f28b44\\amd64\\tsprint.dll"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\tsprint.dll"
+    ]
+  }
+  {
+    "hash": "3bc27a1a633d171cb99c0c013fcfaa2e"
+    "size": 180184
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\slhlim64.dll"
+      "c:\\windows\\system32\\SRSLabs\\{176F4E15-8F7C-4833-ADED-81FAE8CCD186}\\slhlim64.dll"
+    ]
+  }
+  {
+    "hash": "f54b2e7cfc0b20f5065888ae9c3d5523"
+    "size": 182232
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\slvipp64.dll"
+      "c:\\windows\\system32\\SRSLabs\\{176F4E15-8F7C-4833-ADED-81FAE8CCD186}\\slvipp64.dll"
+    ]
+  }
+  {
+    "hash": "99d0a850277637d4e05ae625087424dc"
+    "size": 182968
+    "files": [
+      "c:\\windows\\system32\\igfx11cmrt64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfx11cmrt64.dll"
+    ]
+  }
+  {
+    "hash": "69fa8d7efa71467205b0453277751bde"
+    "size": 183992
+    "files": [
+      "c:\\windows\\system32\\igfxcmrt64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxcmrt64.dll"
+    ]
+  }
+  {
+    "hash": "c6d1e24e96fce7662f7c09394241cc8f"
+    "size": 185664
+    "files": [
+      "c:\\windows\\system32\\drivers\\usbccgp.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usb.inf_amd64_683fd853c8b8a4db\\usbccgp.sys"
+    ]
+  }
+  {
+    "hash": "dae16968f831e8b08b377f73dc803100"
+    "size": 185672
+    "files": [
+      "c:\\windows\\system32\\drivers\\storahci.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mshdc.inf_amd64_747e4fe53d5ff1ea\\storahci.sys"
+    ]
+  }
+  {
+    "hash": "831d17b6f0cc90adf4433ae238dec187"
+    "size": 187888
+    "files": [
+      "c:\\windows\\system32\\drivers\\VBoxUSBMon.sys"
+      "c:\\windows\\system32\\DRVSTORE\\VBoxUSBMon_A27220DF5DAA9A12DE14FFE82DE3E9BC5B62C2E3\\VBoxUSBMon.sys"
+    ]
+  }
+  {
+    "hash": "6fad227d69db8779c4ca5769fe7f8299"
+    "size": 192008
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\slcshp64.dll"
+      "c:\\windows\\system32\\SRSLabs\\{176F4E15-8F7C-4833-ADED-81FAE8CCD186}\\slcshp64.dll"
+    ]
+  }
+  {
+    "hash": "832e321130ca9c67c79f19df7178e67d"
+    "size": 193024
+    "files": [
+      "c:\\windows\\system32\\igdail64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igdail64.dll"
+    ]
+  }
+  {
+    "hash": "ae8d09d57e1de9a390b79fd566fe258c"
+    "size": 194096
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\slviq64.dll"
+      "c:\\windows\\system32\\SRSLabs\\{176F4E15-8F7C-4833-ADED-81FAE8CCD186}\\slviq64.dll"
+    ]
+  }
+  {
+    "hash": "9f1d0ee3509aa8ea1a9dcdcd56e64a48"
+    "size": 194560
+    "files": [
+      "c:\\windows\\system32\\drivers\\UMDF\\Microsoft.Bluetooth.Profiles.HidOverGatt.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hidbthle.inf_amd64_bfb3ee8e5a97c3be\\Microsoft.Bluetooth.Profiles.HidOverGatt.dll"
+    ]
+  }
+  {
+    "hash": "e22911c6c851c942a1bfde51ef6a9fea"
+    "size": 195392
+    "files": [
+      "c:\\windows\\system32\\drivers\\dumpsd.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\sdbus.inf_amd64_14c8c7e10e94d0c3\\dumpsd.sys"
+    ]
+  }
+  {
+    "hash": "f9b86108895d2cfb7b1066b3e24b1f27"
+    "size": 204288
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PCLXL.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PCLXL.DLL"
+    ]
+  }
+  {
+    "hash": "feacdc509722e40fe25e6e5e6d417fe8"
+    "size": 205080
+    "files": [
+      "c:\\windows\\system32\\MaxxAudioVienna264.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MaxxAudioVienna264.dll"
+    ]
+  }
+  {
+    "hash": "f1e754deeb3369bcce2228d5c10de101"
+    "size": 206496
+    "files": [
+      "c:\\windows\\system32\\drivers\\TeeDriverW8x64.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\heci.inf_amd64_f8de8314845ca592\\x64\\TeeDriverW8x64.sys"
+    ]
+  }
+  {
+    "hash": "532c470012279a4e43bb2ecfb5485f95"
+    "size": 207160
+    "files": [
+      "c:\\windows\\system32\\drivers\\amdk8.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\cpu.inf_amd64_0abeab1ee6572232\\amdk8.sys"
+    ]
+  }
+  {
+    "hash": "645ea5d51f89185d0aa216c028432c63"
+    "size": 209544
+    "files": [
+      "c:\\windows\\system32\\SRSHP64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\SRSHP64.dll"
+    ]
+  }
+  {
+    "hash": "196a46ba842a219ec6de7b7b7d9aab7e"
+    "size": 209720
+    "files": [
+      "c:\\windows\\system32\\drivers\\SmartSAMD.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\smartsamd.inf_amd64_2238284d493e89f4\\SmartSAMD.sys"
+    ]
+  }
+  {
+    "hash": "d615f2b601477ee90c87c2b4d99dac7e"
+    "size": 210432
+    "files": [
+      "c:\\windows\\system32\\drivers\\USBAUDIO.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wdma_usb.inf_amd64_5142452959f85e82\\USBAUDIO.sys"
+    ]
+  }
+  {
+    "hash": "6eac24d762ed653a5fb78b9bd871c200"
+    "size": 211256
+    "files": [
+      "c:\\windows\\system32\\drivers\\amdppm.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\cpu.inf_amd64_0abeab1ee6572232\\amdppm.sys"
+    ]
+  }
+  {
+    "hash": "d2ee9cce0187c616e50d61eb30eca262"
+    "size": 213504
+    "files": [
+      "c:\\windows\\system32\\drivers\\rfcomm.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\tdibth.inf_amd64_e1022e6b4f7ab56d\\rfcomm.sys"
+    ]
+  }
+  {
+    "hash": "d45691560e288c89c7a4b764efa6b9b6"
+    "size": 215888
+    "files": [
+      "c:\\windows\\system32\\drivers\\spacedump.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\spaceport.inf_amd64_3ec9d6ae43345454\\spacedump.sys"
+    ]
+  }
+  {
+    "hash": "772df3e057d088906e3f326bfb7e00c9"
+    "size": 216296
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\slInit64.dll"
+      "c:\\windows\\system32\\SRSLabs\\{176F4E15-8F7C-4833-ADED-81FAE8CCD186}\\slInit64.dll"
+    ]
+  }
+  {
+    "hash": "e596e5cd681b887da8b8f5472fbebc9a"
+    "size": 216360
+    "files": [
+      "c:\\windows\\system32\\RTEED64A.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RTEED64A.dll"
+    ]
+  }
+  {
+    "hash": "60d37a270c6787ee0a1b6c88dd221a55"
+    "size": 216376
+    "files": [
+      "c:\\windows\\system32\\drivers\\processr.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\cpu.inf_amd64_0abeab1ee6572232\\processr.sys"
+    ]
+  }
+  {
+    "hash": "279c793573271c98afb3b58898409642"
+    "size": 217600
+    "files": [
+      "c:\\windows\\system32\\HidCfu.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hidcfu.inf_amd64_409fe85a7af72672\\HidCfu.dll"
+    ]
+  }
+  {
+    "hash": "65f3e02bd1ca6784a402f2dbddf08d5c"
+    "size": 220160
+    "files": [
+      "c:\\windows\\system32\\igfxCoIn_v4549.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igxpco64.dll"
+    ]
+  }
+  {
+    "hash": "ea892351357b107c4b5d93d67665bae2"
+    "size": 221976
+    "files": [
+      "c:\\windows\\system32\\SRSTSH64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\SRSTSH64.dll"
+    ]
+  }
+  {
+    "hash": "f08861347b531e60bbe27ed463aa45fe"
+    "size": 223040
+    "files": [
+      "c:\\windows\\system32\\drivers\\ataport.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mshdc.inf_amd64_747e4fe53d5ff1ea\\ataport.sys"
+    ]
+  }
+  {
+    "hash": "70468586dec57ae8b87790a9f1537963"
+    "size": 223256
+    "files": [
+      "c:\\windows\\system32\\igdde64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igdde64.dll"
+    ]
+  }
+  {
+    "hash": "e73a9f03af11e55dee968675bc3a40ec"
+    "size": 224256
+    "files": [
+      "c:\\windows\\system32\\drivers\\UMDF\\RdpIdd.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\rdpidd.inf_amd64_ce12c614d182f4f9\\RdpIdd.dll"
+    ]
+  }
+  {
+    "hash": "d32cb5e8c50fb3e1eb44ca9ca1bd29ec"
+    "size": 225792
+    "files": [
+      "c:\\windows\\system32\\drivers\\hidclass.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\input.inf_amd64_9a5968777b504367\\hidclass.sys"
+    ]
+  }
+  {
+    "hash": "b5701d000443d2580a572bb42674a23a"
+    "size": 230720
+    "files": [
+      "c:\\windows\\system32\\drivers\\nvhda64v.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nvhda.inf_amd64_78871e961524d132\\nvhda64v.sys"
+    ]
+  }
+  {
+    "hash": "cdb9caf7ddff9b44d568d2cf42c32243"
+    "size": 230728
+    "files": [
+      "c:\\windows\\system32\\drivers\\intelppm.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\cpu.inf_amd64_0abeab1ee6572232\\intelppm.sys"
+    ]
+  }
+  {
+    "hash": "5a7c1552625c8b60641888441ae39db9"
+    "size": 231896
+    "files": [
+      "c:\\windows\\system32\\DPTopologyAppv2_0.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\DPTopologyAppv2_0.exe"
+    ]
+  }
+  {
+    "hash": "9d62404754813b8db65414dae536d5d4"
+    "size": 232408
+    "files": [
+      "c:\\windows\\system32\\DPTopologyApp.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\DPTopologyApp.exe"
+    ]
+  }
+  {
+    "hash": "b47fe73069abf378762043acfbf47b66"
+    "size": 232448
+    "files": [
+      "c:\\windows\\system32\\WpdMtp.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wpdmtp.inf_amd64_42b97498c7087292\\WpdMtp.dll"
+    ]
+  }
+  {
+    "hash": "205f2b71f88d7f504d82751b7a74335b"
+    "size": 237016
+    "files": [
+      "c:\\windows\\system32\\igfxext.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxext.exe"
+    ]
+  }
+  {
+    "hash": "0dad56a3103d96e03cdfa5c01191fe90"
+    "size": 239872
+    "files": [
+      "c:\\windows\\system32\\drivers\\VBoxNetAdp6.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\vboxnetadp6.inf_amd64_b3f70903fa3ddbf4\\VBoxNetAdp6.sys"
+    ]
+  }
+  {
+    "hash": "0effe17e7059c76c4aebd43b660bf6c9"
+    "size": 242168
+    "files": [
+      "c:\\windows\\system32\\iglhcp64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\iglhcp64.dll"
+    ]
+  }
+  {
+    "hash": "a138aed43bd99c320cb6cab9cd580f20"
+    "size": 249776
+    "files": [
+      "c:\\windows\\system32\\drivers\\VBoxNetLwf.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\vboxnetlwf.inf_amd64_68c5aa86c9578dc8\\VBoxNetLwf.sys"
+    ]
+  }
+  {
+    "hash": "f3ea02e55ba8e0c02c2afbe5440c4967"
+    "size": 250176
+    "files": [
+      "c:\\windows\\system32\\drivers\\netvsc.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wnetvsc.inf_amd64_efc4f80fd22bad85\\netvsc.sys"
+    ]
+  }
+  {
+    "hash": "235e100be0cbf59def06e65ebaa08900"
+    "size": 253872
+    "files": [
+      "c:\\windows\\system32\\DTSLFXAPO64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DTSLFXAPO64.dll"
+    ]
+  }
+  {
+    "hash": "97ff7b53728611d179dcaed8ac975480"
+    "size": 254400
+    "files": [
+      "c:\\windows\\system32\\DTSGFXAPONS64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DTSGFXAPONS64.dll"
+    ]
+  }
+  {
+    "hash": "440a71203b28859c9dbd7d2fc22c3e9a"
+    "size": 254976
+    "files": [
+      "c:\\windows\\system32\\igfxDTCM.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxDTCM.dll"
+    ]
+  }
+  {
+    "hash": "8d0c4b0f6d48cf4750403971d7bf494d"
+    "size": 255288
+    "files": [
+      "c:\\windows\\system32\\drivers\\tpm.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\tpm.inf_amd64_154e6da862a6dc30\\tpm.sys"
+    ]
+  }
+  {
+    "hash": "7dfa206922e7455e38e376d3d9076bb6"
+    "size": 255424
+    "files": [
+      "c:\\windows\\system32\\DTSGFXAPO64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DTSGFXAPO64.dll"
+    ]
+  }
+  {
+    "hash": "c47edc5d81546677a772cfc86281ed29"
+    "size": 259384
+    "files": [
+      "c:\\windows\\system32\\drivers\\amdsbs.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\amdsbs.inf_amd64_e2a1e49127fb17ef\\amdsbs.sys"
+    ]
+  }
+  {
+    "hash": "b583ee49684d2b00292bc4e5b4968230"
+    "size": 260168
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\slmaxv64.dll"
+      "c:\\windows\\system32\\SRSLabs\\{176F4E15-8F7C-4833-ADED-81FAE8CCD186}\\slmaxv64.dll"
+    ]
+  }
+  {
+    "hash": "fb9f25acebcbaeabfe30caccb17d4ee6"
+    "size": 260608
+    "files": [
+      "c:\\windows\\system32\\drivers\\usbaudio2.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbaudio2.inf_amd64_8d164ac6f7088f97\\usbaudio2.sys"
+    ]
+  }
+  {
+    "hash": "2afb33155dfb7bd9b7775233eb60510f"
+    "size": 266240
+    "files": [
+      "c:\\windows\\system32\\igdfcl64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igdfcl64.dll"
+    ]
+  }
+  {
+    "hash": "af50a9d10ff7b1d999ba99d00cc128b3"
+    "size": 266240
+    "files": [
+      "c:\\windows\\system32\\drivers\\1394ohci.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\1394.inf_amd64_a08737ea39f5790b\\1394ohci.sys"
+    ]
+  }
+  {
+    "hash": "e790c80b65e9191078eb87e0338fdb7b"
+    "size": 268760
+    "files": [
+      "c:\\windows\\system32\\igfxHK.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxHK.exe"
+    ]
+  }
+  {
+    "hash": "aeabb3f45565ced536fd7348c4fbca71"
+    "size": 272720
+    "files": [
+      "c:\\windows\\system32\\DDPA64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DDPA64.dll"
+    ]
+  }
+  {
+    "hash": "39da87ffa85713b225d04ff7e8cf508e"
+    "size": 273408
+    "files": [
+      "c:\\windows\\system32\\igfxCPL.cpl"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxCPL.cpl"
+    ]
+  }
+  {
+    "hash": "ed81ff1358cfed4fdd361ba40a4c2e87"
+    "size": 276992
+    "files": [
+      "c:\\windows\\system32\\WSDScDrv.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wsdscdrv.inf_amd64_416a5877e9180787\\WSDScDrv.dll"
+    ]
+  }
+  {
+    "hash": "25b4b9cd9517e232e1601140a9dea06b"
+    "size": 285696
+    "files": [
+      "c:\\windows\\system32\\drivers\\UMDF\\WpdFs.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wpdfs.inf_amd64_1183fd0f13045f2e\\WpdFs.dll"
+    ]
+  }
+  {
+    "hash": "410ff58eea0177ad87c688f872d256fe"
+    "size": 288256
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PCL4RES.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PCL4RES.DLL"
+    ]
+  }
+  {
+    "hash": "a848fd0168022da9ec9f0042406779fc"
+    "size": 290304
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms002.inf_amd64_026ea33d249e474a\\Amd64\\FXSAPI.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\FXSAPI.DLL"
+    ]
+  }
+  {
+    "hash": "ca8edb92163744f0510d9106cd33358f"
+    "size": 292672
+    "files": [
+      "c:\\windows\\system32\\drivers\\msiscsi.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\iscsi.inf_amd64_10f4f698a8dd87b9\\msiscsi.sys"
+    ]
+  }
+  {
+    "hash": "6e0092973e35be6a1f5ed5cbdd202036"
+    "size": 305464
+    "files": [
+      "c:\\windows\\system32\\drivers\\VSTXRAID.SYS"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\vstxraid.inf_amd64_300cb04282659e6d\\VSTXRAID.SYS"
+    ]
+  }
+  {
+    "hash": "6def887c435998be4821f4c4ffc96a73"
+    "size": 305472
+    "files": [
+      "c:\\windows\\system32\\drivers\\sdbus.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\sdbus.inf_amd64_14c8c7e10e94d0c3\\sdbus.sys"
+    ]
+  }
+  {
+    "hash": "cf61ef7fed7b7c4ff386d1f4b03d18bb"
+    "size": 312312
+    "files": [
+      "c:\\windows\\system32\\igd10idpp64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igd10idpp64.dll"
+    ]
+  }
+  {
+    "hash": "478f341c5968270e73f2125614fd0135"
+    "size": 317544
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\sluapo64.dll"
+      "c:\\windows\\system32\\SRSLabs\\{176F4E15-8F7C-4833-ADED-81FAE8CCD186}\\sluapo64.dll"
+    ]
+  }
+  {
+    "hash": "198d403332fb8f2da289bebfec8199ad"
+    "size": 319800
+    "files": [
+      "c:\\windows\\system32\\drivers\\cht4sx64.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\cht4sx64.inf_amd64_3a69b9b79f49eb50\\cht4sx64.sys"
+    ]
+  }
+  {
+    "hash": "8ba4b7b1294d04b12b1fc1914bdd95b4"
+    "size": 321720
+    "files": [
+      "c:\\windows\\system32\\RP3DAA64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RP3DAA64.dll"
+    ]
+  }
+  {
+    "hash": "4f66b083b74c827319cb73d06f08345f"
+    "size": 323240
+    "files": [
+      "c:\\windows\\system32\\RP3DHT64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RP3DHT64.dll"
+    ]
+  }
+  {
+    "hash": "171a129fcfb0c58c1b13c88b2490272b"
+    "size": 328976
+    "files": [
+      "c:\\windows\\system32\\DDPO64A.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DDPO64A.dll"
+    ]
+  }
+  {
+    "hash": "27fd0cdc191131bb09069fcaafaa2315"
+    "size": 329216
+    "files": [
+      "c:\\windows\\system32\\drivers\\xboxgip.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\xboxgip.inf_amd64_90ed6b3fdc759a5b\\xboxgip.sys"
+    ]
+  }
+  {
+    "hash": "ee0c038f0b25ed13bcf7893633b191b2"
+    "size": 332080
+    "files": [
+      "c:\\windows\\system32\\MaxxAudioAPO20.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MaxxAudioAPO20.dll"
+    ]
+  }
+  {
+    "hash": "d282f1fc1b521f4e28ea87b56b8d6116"
+    "size": 345224
+    "files": [
+      "c:\\windows\\system32\\RtlCPAPI64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RtlCPAPI64.dll"
+    ]
+  }
+  {
+    "hash": "3204302e58bd3e29f62469572a7ced54"
+    "size": 354776
+    "files": [
+      "c:\\windows\\system32\\igfxEM.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxEM.exe"
+    ]
+  }
+  {
+    "hash": "43e50cbab997fe4602a023f5cfd4d193"
+    "size": 373720
+    "files": [
+      "c:\\windows\\system32\\igfxCUIService.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxCUIService.exe"
+    ]
+  }
+  {
+    "hash": "64430e214b5b229d426d2d35538c402d"
+    "size": 375173
+    "files": [
+      "c:\\windows\\system32\\ColorImageEnhancement.wmv"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\ColorImageEnhancement.wmv"
+    ]
+  }
+  {
+    "hash": "bb75d5c5ce9440d6c3650c426cdcbfcd"
+    "size": 378880
+    "files": [
+      "c:\\windows\\system32\\SysFxUI.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wdmaudio.inf_amd64_cb639d1f182bc449\\SysFxUI.dll"
+    ]
+  }
+  {
+    "hash": "be8c72ff0feffa2ef8762cbe8067f994"
+    "size": 388608
+    "files": [
+      "c:\\windows\\system32\\drivers\\portcls.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wdmaudio.inf_amd64_cb639d1f182bc449\\portcls.sys"
+    ]
+  }
+  {
+    "hash": "cbd4488772374504b178e34962bfcd41"
+    "size": 388832
+    "files": [
+      "c:\\windows\\system32\\RTEEP64A.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RTEEP64A.dll"
+    ]
+  }
+  {
+    "hash": "244798106412e13149a3200cb5e9fdf0"
+    "size": 390144
+    "files": [
+      "c:\\windows\\system32\\igfxOSP.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxOSP.dll"
+    ]
+  }
+  {
+    "hash": "aa44798ef6c466d15af98df15be12837"
+    "size": 399360
+    "files": [
+      "c:\\windows\\system32\\igfxDI.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxDI.dll"
+    ]
+  }
+  {
+    "hash": "3be91232efd5c534b6937c2055150afb"
+    "size": 401880
+    "files": [
+      "c:\\windows\\system32\\igfxTray.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxTray.exe"
+    ]
+  }
+  {
+    "hash": "3ed204c864e5cc3c78d3dbb707d102d1"
+    "size": 403671
+    "files": [
+      "c:\\windows\\system32\\ImageStabilization.wmv"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\ImageStabilization.wmv"
+    ]
+  }
+  {
+    "hash": "03e76cf0657bcaba2d7f7ee4384e6562"
+    "size": 410848
+    "files": [
+      "c:\\windows\\system32\\drivers\\RtsUer.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\rtsuerxd3.inf_amd64_b0314792f1359229\\RtsUer.sys"
+    ]
+  }
+  {
+    "hash": "93132c69394a99d992095d8cfe464801"
+    "size": 411136
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mdmcxhv6.inf_amd64_f1a7a2fbd6554d60\\VSTBS26.SYS"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mdmcxpv6.inf_amd64_46a3b42507e9d29e\\VSTBS26.SYS"
+    ]
+  }
+  {
+    "hash": "07ee56bed1bf1bf154e284f909ac9a94"
+    "size": 411552
+    "files": [
+      "c:\\windows\\system32\\MBWrp64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MBWrp64.dll"
+    ]
+  }
+  {
+    "hash": "215525477cbdcd07a82ac518bae3dec3"
+    "size": 412176
+    "files": [
+      "c:\\windows\\system32\\drivers\\iaStorV.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\iastorv.inf_amd64_9c09bd1df352f065\\iaStorV.sys"
+    ]
+  }
+  {
+    "hash": "67d48cc6d1c6181f564962a322c569ce"
+    "size": 413696
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms002.inf_amd64_026ea33d249e474a\\Amd64\\FXSTIFF.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\FXSTIFF.DLL"
+    ]
+  }
+  {
+    "hash": "7b56d5bcbf64a0a115260a668e56e6a7"
+    "size": 416256
+    "files": [
+      "c:\\windows\\system32\\IntelOpenCL64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\IntelOpenCL64.dll"
+    ]
+  }
+  {
+    "hash": "55dc96148bf90f5032fa5f762112028b"
+    "size": 418800
+    "files": [
+      "c:\\windows\\system32\\drivers\\intelpep.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\intelpep.inf_amd64_a78a75e4b3fbcc48\\intelpep.sys"
+    ]
+  }
+  {
+    "hash": "6a3d89ac2f01a375cc6f12fec588efc9"
+    "size": 430080
+    "files": [
+      "c:\\windows\\system32\\drivers\\HdAudio.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdaudio.inf_amd64_fe5b23ea7991a359\\HdAudio.sys"
+    ]
+  }
+  {
+    "hash": "107431703a85794d2448d3fc3801e05c"
+    "size": 433719
+    "files": [
+      "c:\\windows\\system32\\ru-RU\\Licenses\\OEM\\Professional\\license.rtf"
+      "c:\\windows\\system32\\ru-RU\\Licenses\\_Default\\Professional\\license.rtf"
+    ]
+  }
+  {
+    "hash": "b5f7be86920f71a66c69a0851d7b2964"
+    "size": 439296
+    "files": [
+      "c:\\windows\\system32\\igdbcl64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igdbcl64.dll"
+    ]
+  }
+  {
+    "hash": "22ae1b20a6b2846b78a4405aa9bf80a1"
+    "size": 441272
+    "files": [
+      "c:\\windows\\system32\\DTSGainCompensatorDLL64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DTSGainCompensatorDLL64.dll"
+    ]
+  }
+  {
+    "hash": "2a3dd7de85c022ae45910b1fe1ca3a7a"
+    "size": 445408
+    "files": [
+      "c:\\windows\\system32\\DTSLimiterDLL64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DTSLimiterDLL64.dll"
+    ]
+  }
+  {
+    "hash": "509dd0b0b4ef4f037c7aae47e1deb3b8"
+    "size": 445848
+    "files": [
+      "c:\\windows\\system32\\nvdebugdump.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\nvdebugdump.exe"
+    ]
+  }
+  {
+    "hash": "d176de70d3a210d04d0fe2262f681962"
+    "size": 448472
+    "files": [
+      "c:\\windows\\system32\\IntelCpHDCPSvc.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\IntelCpHDCPSvc.exe"
+    ]
+  }
+  {
+    "hash": "521aa0ce6a5dc4bd1bca04dff58b149e"
+    "size": 449240
+    "files": [
+      "c:\\windows\\system32\\R4EED64A.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\R4EED64A.dll"
+    ]
+  }
+  {
+    "hash": "c147377d73b16b9204065b41c5873a8a"
+    "size": 455408
+    "files": [
+      "c:\\windows\\system32\\OpenCL.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\OpenCL64.dll"
+    ]
+  }
+  {
+    "hash": "b2b7d49cb5cd9f491dad33e9920f3617"
+    "size": 466904
+    "files": [
+      "c:\\windows\\system32\\GfxUIEx.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\GfxUIEx.exe"
+    ]
+  }
+  {
+    "hash": "933de7f3f3b1dca39cf545270a24aebe"
+    "size": 469320
+    "files": [
+      "c:\\windows\\system32\\drivers\\pci.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\pci.inf_amd64_2a50a90676eccdfe\\pci.sys"
+    ]
+  }
+  {
+    "hash": "6baed1f45eeb30af0d14b88fd62a611b"
+    "size": 473400
+    "files": [
+      "c:\\windows\\system32\\drivers\\usbport.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbport.inf_amd64_254cd5ae09de6b08\\usbport.sys"
+    ]
+  }
+  {
+    "hash": "e300d1e37b737ed14f7a08cd5604e5d9"
+    "size": 481768
+    "files": [
+      "c:\\windows\\system32\\drivers\\IntcDAud.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\intcdaud.inf_amd64_66e0a5048e30f9c5\\IntcDAud.sys"
+    ]
+  }
+  {
+    "hash": "21f3c4b008e9604e0c7986117e1dcc94"
+    "size": 505832
+    "files": [
+      "c:\\windows\\system32\\DTSNeoPCDLL64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DTSNeoPCDLL64.dll"
+    ]
+  }
+  {
+    "hash": "82df5576bdd96ce8df5a06c0571ea463"
+    "size": 511260
+    "files": [
+      "c:\\windows\\system32\\cp_resources.bin"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\cp_resources.bin"
+    ]
+  }
+  {
+    "hash": "804c51b11057869624d9292040b45e56"
+    "size": 528184
+    "files": [
+      "c:\\windows\\system32\\drivers\\usbhub.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbport.inf_amd64_254cd5ae09de6b08\\usbhub.sys"
+    ]
+  }
+  {
+    "hash": "6132b7c5b8126604c2e7f0bca3ab1088"
+    "size": 532384
+    "files": [
+      "c:\\windows\\system32\\SRSTSX64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\SRSTSX64.dll"
+    ]
+  }
+  {
+    "hash": "638c59d330a7af943074678a70f22e7c"
+    "size": 533816
+    "files": [
+      "c:\\windows\\system32\\drivers\\bxvbda.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\netbvbda.inf_amd64_06bc8afcd2617abf\\bxvbda.sys"
+    ]
+  }
+  {
+    "hash": "2f6681af8a964a26c73f5398597daf16"
+    "size": 534016
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\UNIDRV.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\UNIDRV.DLL"
+    ]
+  }
+  {
+    "hash": "6c965a0ac264af1a8e0a69882a7eafdc"
+    "size": 537608
+    "files": [
+      "c:\\windows\\system32\\drivers\\mausbhost.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mausbhost.inf_amd64_34c86c15777c913b\\mausbhost.sys"
+    ]
+  }
+  {
+    "hash": "329f2fec47fd8754fc44a8f3f283c915"
+    "size": 558904
+    "files": [
+      "c:\\windows\\system32\\drivers\\ibbus.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mlx4_bus.inf_amd64_4c426f3bebc68844\\ibbus.sys"
+    ]
+  }
+  {
+    "hash": "4421e33615cd19236bdb63ab42e44c95"
+    "size": 575768
+    "files": [
+      "c:\\windows\\system32\\AERTAC64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\AERTAC64.dll"
+    ]
+  }
+  {
+    "hash": "a4dc7070d92ad82a7bdf2f69c155af69"
+    "size": 575800
+    "files": [
+      "c:\\windows\\system32\\drivers\\megasr.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\megasr.inf_amd64_72258921635be994\\megasr.sys"
+    ]
+  }
+  {
+    "hash": "36121c804c1ff6a5601dad02604ade12"
+    "size": 589208
+    "files": [
+      "c:\\windows\\system32\\nvidia-smi.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\nvidia-smi.exe"
+    ]
+  }
+  {
+    "hash": "290c7e9c815b2af0865d0b019124f695"
+    "size": 602440
+    "files": [
+      "c:\\windows\\system32\\drivers\\USBXHCI.SYS"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbxhci.inf_amd64_416978241be021ad\\USBXHCI.SYS"
+    ]
+  }
+  {
+    "hash": "45078f20d2095b582a1289225898968a"
+    "size": 639800
+    "files": [
+      "c:\\windows\\system32\\drivers\\Vid.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wvid.inf_amd64_4af06f2b73b27b1a\\Vid.sys"
+    ]
+  }
+  {
+    "hash": "a08b87cc51fb774ed45fdf4284b1974f"
+    "size": 641530
+    "files": [
+      "c:\\windows\\system32\\FilmModeDetection.wmv"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\FilmModeDetection.wmv"
+    ]
+  }
+  {
+    "hash": "194f15635be73aedbb522868c35b8728"
+    "size": 644448
+    "files": [
+      "c:\\windows\\system32\\MBTHX64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MBTHX64.dll"
+    ]
+  }
+  {
+    "hash": "d120dfb716202c1b16b942d42ff176e0"
+    "size": 645464
+    "files": [
+      "c:\\windows\\system32\\RtDataProc64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RtDataProc64.dll"
+    ]
+  }
+  {
+    "hash": "4ab704fd17ca7d6bad6a442aded6ae38"
+    "size": 647992
+    "files": [
+      "c:\\windows\\system32\\drivers\\USBHUB3.SYS"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\usbhub3.inf_amd64_ddd9f98f81f62f07\\USBHUB3.SYS"
+    ]
+  }
+  {
+    "hash": "5ddc84e11fcf3eb8f7d9f0f03f03c289"
+    "size": 648704
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PSCRIPT5.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PSCRIPT5.DLL"
+    ]
+  }
+  {
+    "hash": "7e129d20933c0754fb9d2f279885f260"
+    "size": 670616
+    "files": [
+      "c:\\windows\\system32\\NvIFROpenGL.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\NvIFROpenGL64.dll"
+    ]
+  }
+  {
+    "hash": "ce1153ef34192465a543b8afaebb1a1f"
+    "size": 673520
+    "files": [
+      "c:\\windows\\system32\\nvofapi64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\nvofapi64.dll"
+    ]
+  }
+  {
+    "hash": "5792ae4ac0cdfca43c8937919c127a46"
+    "size": 677680
+    "files": [
+      "c:\\windows\\system32\\drivers\\spaceport.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\spaceport.inf_amd64_3ec9d6ae43345454\\spaceport.sys"
+    ]
+  }
+  {
+    "hash": "e49a135ae37f9396a4e66b7fbcf7f9c3"
+    "size": 679200
+    "files": [
+      "c:\\windows\\system32\\MaxxVolumeSDAPO.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MaxxVolumeSDAPO.dll"
+    ]
+  }
+  {
+    "hash": "9d5ec622c43dcd84c71d714c95b3e922"
+    "size": 679712
+    "files": [
+      "c:\\windows\\system32\\MaxxAudioAPO30.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MaxxAudioAPO30.dll"
+    ]
+  }
+  {
+    "hash": "2a0257a6ca41e1a50fcef7d659c32fe4"
+    "size": 705024
+    "files": [
+      "c:\\windows\\system32\\MetroIntelGenericUIFramework.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\MetroIntelGenericUIFramework.dll"
+    ]
+  }
+  {
+    "hash": "ce49e8dc1d540c0ba245259cc4910c71"
+    "size": 709840
+    "files": [
+      "c:\\windows\\system32\\DTSVoiceClarityDLL64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DTSVoiceClarityDLL64.dll"
+    ]
+  }
+  {
+    "hash": "7b370f245e2d9c4b660f0771f1b462fe"
+    "size": 727440
+    "files": [
+      "c:\\windows\\system32\\DTSSymmetryDLL64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DTSSymmetryDLL64.dll"
+    ]
+  }
+  {
+    "hash": "1d15c84331f57a164ee3d9f96bd0a6b6"
+    "size": 728816
+    "files": [
+      "c:\\windows\\system32\\drivers\\NVIDIA Corporation\\Drs\\dbInstaller.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\dbInstaller.exe"
+    ]
+  }
+  {
+    "hash": "18e40c245dbfaf36fd0134a7ef2df396"
+    "size": 740864
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mdmcxhv6.inf_amd64_f1a7a2fbd6554d60\\VSTCNXT6.SYS"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mdmcxpv6.inf_amd64_46a3b42507e9d29e\\VSTCNXT6.SYS"
+    ]
+  }
+  {
+    "hash": "665de847a6eae2996b89747e02b77577"
+    "size": 745488
+    "files": [
+      "c:\\windows\\system32\\DTSBassEnhancementDLL64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DTSBassEnhancementDLL64.dll"
+    ]
+  }
+  {
+    "hash": "e9985e133fb5035d025fc50e04b76d43"
+    "size": 756736
+    "files": [
+      "c:\\windows\\system32\\igfxDH.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxDH.dll"
+    ]
+  }
+  {
+    "hash": "76db2803f668b0d9023422dbd429c2b3"
+    "size": 809280
+    "files": [
+      "c:\\windows\\system32\\drivers\\acpi.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\acpi.inf_amd64_57bed52c25b43614\\acpi.sys"
+    ]
+  }
+  {
+    "hash": "ba6241c4a30144f582b97288d22fe517"
+    "size": 813464
+    "files": [
+      "c:\\windows\\system32\\nvEncodeAPI64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\nvEncodeAPI64.dll"
+    ]
+  }
+  {
+    "hash": "dafd20333be73f8676063a6c4e9217fd"
+    "size": 820552
+    "files": [
+      "c:\\windows\\system32\\drivers\\vhdmp.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\vhdmp.inf_amd64_f2302a2959576b6e\\vhdmp.sys"
+    ]
+  }
+  {
+    "hash": "17fbce91aeba666e5bc2423c8eb34e8b"
+    "size": 831685
+    "files": [
+      "c:\\windows\\system32\\DisplayAudiox64.cab"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\DisplayAudiox64.cab"
+    ]
+  }
+  {
+    "hash": "73be795ddf90da5a3275511a9da6caba"
+    "size": 849648
+    "files": [
+      "c:\\windows\\system32\\MCU.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\MCU.exe"
+    ]
+  }
+  {
+    "hash": "ad8909daa006904ae120268fe6df12d9"
+    "size": 855040
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\UNIRES.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\UNIRES.DLL"
+    ]
+  }
+  {
+    "hash": "fc807f46777dd3780a4925a75ddde4ba"
+    "size": 877568
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\MXDWDRV.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\MXDWDRV.DLL"
+    ]
+  }
+  {
+    "hash": "e2e64636cd6a6902bd81ac3b90089484"
+    "size": 884752
+    "files": [
+      "c:\\windows\\system32\\drivers\\iaStorAVC.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\iastorav.inf_amd64_87f761c07c99d5e7\\iaStorAVC.sys"
+    ]
+  }
+  {
+    "hash": "ea2c862954d03004bd580053ec3c13fe"
+    "size": 885035
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem11.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\rt640x64.inf_amd64_d0c1c930b63d5ddd\\rt640x64.cat"
+    ]
+  }
+  {
+    "hash": "97eee5a9ec629018335d2f283de89769"
+    "size": 914024
+    "files": [
+      "c:\\windows\\system32\\MBAPO64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MBAPO64.dll"
+    ]
+  }
+  {
+    "hash": "48fb4921d3fd45f55b1957dba991b249"
+    "size": 931840
+    "files": [
+      "c:\\windows\\system32\\drivers\\UMDF\\WpdMtpDr.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wpdmtp.inf_amd64_42b97498c7087292\\WpdMtpDr.dll"
+    ]
+  }
+  {
+    "hash": "2355fd60fa4d54633dd3609a84ab634b"
+    "size": 935168
+    "files": [
+      "c:\\windows\\system32\\drivers\\rt640x64.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\rt640x64.inf_amd64_d0c1c930b63d5ddd\\rt640x64.sys"
+    ]
+  }
+  {
+    "hash": "d02a2d6ef4010c783ce863fee241ea44"
+    "size": 964568
+    "files": [
+      "c:\\windows\\system32\\Gfxv2_0.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\Gfxv2_0.exe"
+    ]
+  }
+  {
+    "hash": "55f7b2a24921d623a8edb225db418826"
+    "size": 968152
+    "files": [
+      "c:\\windows\\system32\\Gfxv4_0.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\Gfxv4_0.exe"
+    ]
+  }
+  {
+    "hash": "769c3b99e59205eb01fb2ee0bded8e58"
+    "size": 999552
+    "files": [
+      "c:\\windows\\system32\\MaxxVoiceAPO2064.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MaxxVoiceAPO2064.dll"
+    ]
+  }
+  {
+    "hash": "96a63df28db801edd5cdcea06e2ed46f"
+    "size": 1007616
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_x86_ec1e73781eaf7fda\\I386\\MXDWDRV.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\W32X86\\3\\mxdwdrv.dll"
+    ]
+  }
+  {
+    "hash": "c0209d4bb0a1b281be082d7e438317a5"
+    "size": 1023216
+    "files": [
+      "c:\\windows\\system32\\nvml.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\nvml.dll"
+    ]
+  }
+  {
+    "hash": "6b9ba9c8a0b6bec28bde73ec524f3694"
+    "size": 1025024
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PCL5URES.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PCL5URES.DLL"
+    ]
+  }
+  {
+    "hash": "efe196c7f14908396e49bcc8b08d0403"
+    "size": 1025536
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PCL5ERES.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PCL5ERES.DLL"
+    ]
+  }
+  {
+    "hash": "d9b374692ec7dfe12d857c7a78979928"
+    "size": 1027032
+    "files": [
+      "c:\\windows\\system32\\igfxSDK.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxSDK.exe"
+    ]
+  }
+  {
+    "hash": "0dd8b9c0c197d96de6cdf0f0697548a9"
+    "size": 1037824
+    "files": [
+      "c:\\windows\\system32\\drivers\\VBoxDrv.sys"
+      "c:\\windows\\system32\\DRVSTORE\\VBoxDrv_779C4E296DB3AE1E805F505CF6D5BA1DB8784160\\VBoxDrv.sys"
+    ]
+  }
+  {
+    "hash": "485079c6735c3693ea10a9b40d50b8b8"
+    "size": 1054936
+    "files": [
+      "c:\\windows\\system32\\vulkan-1-999-0-0-0.dll"
+      "c:\\windows\\system32\\vulkan-1.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\vulkan-1-x64.dll"
+    ]
+  }
+  {
+    "hash": "c18e8da3f5c91760e00dfae8b6364bed"
+    "size": 1062732
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PSCRIPT.NTF"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PSCRIPT.NTF"
+    ]
+  }
+  {
+    "hash": "517dc2df12a391699f8432af89947f2b"
+    "size": 1131320
+    "files": [
+      "c:\\windows\\system32\\drivers\\mlx4_bus.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mlx4_bus.inf_amd64_4c426f3bebc68844\\mlx4_bus.sys"
+    ]
+  }
+  {
+    "hash": "b4b75d49bfbcfb2762593f77e5bd7789"
+    "size": 1135416
+    "files": [
+      "c:\\windows\\system32\\drivers\\adp80xx.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\adp80xx.inf_amd64_efb36fdc260e8bc8\\adp80xx.sys"
+    ]
+  }
+  {
+    "hash": "94710b8b681b9675b930817ca90f4d81"
+    "size": 1139712
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PS5UI.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PS5UI.DLL"
+    ]
+  }
+  {
+    "hash": "c87850a7d386a6a599429f25638b5b6b"
+    "size": 1165856
+    "files": [
+      "c:\\windows\\system32\\MaxxAudioAPO4064.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MaxxAudioAPO4064.dll"
+    ]
+  }
+  {
+    "hash": "246f2e6ad0277367c7444d7ab16161a0"
+    "size": 1186304
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\UNIDRVUI.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\UNIDRVUI.DLL"
+    ]
+  }
+  {
+    "hash": "c762438e5c486d88c9e9d743090ef292"
+    "size": 1198312
+    "files": [
+      "c:\\windows\\system32\\winresume.exe"
+      "c:\\windows\\system32\\Boot\\winresume.exe"
+    ]
+  }
+  {
+    "hash": "b0c025253ebaf4cef27ddd9830362e51"
+    "size": 1213352
+    "files": [
+      "c:\\windows\\system32\\MaxxAudioAPO5064.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MaxxAudioAPO5064.dll"
+    ]
+  }
+  {
+    "hash": "baf8be387ff8df94b2e9b7dd0c291e01"
+    "size": 1293180
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\ntprint.inf_amd64_ec1e73781eaf7fda\\Amd64\\PSCRPTFE.NTF"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PSCRPTFE.NTF"
+    ]
+  }
+  {
+    "hash": "4650849624621f8dabfbf9b61d5ab33b"
+    "size": 1332336
+    "files": [
+      "c:\\windows\\system32\\RTCOM64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RTCOM64.dll"
+    ]
+  }
+  {
+    "hash": "f23ece7f31654d4ed82a60dd66713852"
+    "size": 1394024
+    "files": [
+      "c:\\windows\\system32\\winresume.efi"
+      "c:\\windows\\system32\\Boot\\winresume.efi"
+    ]
+  }
+  {
+    "hash": "6af79a20c7dd02addd25d95a8794c318"
+    "size": 1397280
+    "files": [
+      "c:\\windows\\system32\\MaxxAudioAPO6064.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MaxxAudioAPO6064.dll"
+    ]
+  }
+  {
+    "hash": "02071d207a9858fbe3a48cbfd59c4a04"
+    "size": 1485312
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mdmcxhv6.inf_amd64_f1a7a2fbd6554d60\\VSTDPV6.SYS"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\mdmcxpv6.inf_amd64_46a3b42507e9d29e\\VSTDPV6.SYS"
+    ]
+  }
+  {
+    "hash": "0203b46d32d1b3e48cd5d18f8ba69cb2"
+    "size": 1507224
+    "files": [
+      "c:\\windows\\system32\\NvIFR64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\NvIFR64.dll"
+    ]
+  }
+  {
+    "hash": "efa983107b544de228f50a2472619ce4"
+    "size": 1510456
+    "files": [
+      "c:\\windows\\system32\\DTSBoostDLL64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DTSBoostDLL64.dll"
+    ]
+  }
+  {
+    "hash": "897d929889f5e00072edc50fcbeca145"
+    "size": 1555136
+    "files": [
+      "c:\\windows\\system32\\winload.exe"
+      "c:\\windows\\system32\\Boot\\winload.exe"
+    ]
+  }
+  {
+    "hash": "cf02bf0c895ceb1b3a910aaf9e8e5101"
+    "size": 1560064
+    "files": [
+      "c:\\windows\\system32\\drivers\\bthport.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\bth.inf_amd64_8cf4cdf24db2a645\\bthport.sys"
+    ]
+  }
+  {
+    "hash": "c34d3782c1307253762f0d5edd5558dc"
+    "size": 1578849
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem16.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igdlh.cat"
+    ]
+  }
+  {
+    "hash": "cbf24278c3507af4b8c9fd6662f9fd17"
+    "size": 1590784
+    "files": [
+      "c:\\windows\\system32\\igfxcmjit64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxcmjit64.dll"
+    ]
+  }
+  {
+    "hash": "96c4473937f0971239069f151ce6d053"
+    "size": 1592584
+    "files": [
+      "c:\\windows\\system32\\DTSS2HeadphoneDLL64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DTSS2HeadphoneDLL64.dll"
+    ]
+  }
+  {
+    "hash": "efb94b0f42936d6c2f36ced947ab2a02"
+    "size": 1706736
+    "files": [
+      "c:\\windows\\system32\\drivers\\NVIDIA Corporation\\Drs\\nvdrsdb.bin"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\nvdrsdb.bin"
+    ]
+  }
+  {
+    "hash": "cfa5aa6f86f7e4492d8d05dd4774609f"
+    "size": 1758952
+    "files": [
+      "c:\\windows\\system32\\RCoInstII64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RCoInstII64.dll"
+    ]
+  }
+  {
+    "hash": "10776c81a837c1ca228374b3aefd576a"
+    "size": 1769688
+    "files": [
+      "c:\\windows\\system32\\vulkaninfo-1-999-0-0-0.exe"
+      "c:\\windows\\system32\\vulkaninfo.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\vulkaninfo-x64.exe"
+    ]
+  }
+  {
+    "hash": "7c5b7bd43897fde0bccb89091363c92d"
+    "size": 1780624
+    "files": [
+      "c:\\windows\\system32\\DTSS2SpeakerDLL64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DTSS2SpeakerDLL64.dll"
+    ]
+  }
+  {
+    "hash": "bd2e4d0ac11ce91d1c5942e67321ce52"
+    "size": 1816728
+    "files": [
+      "c:\\windows\\system32\\iglhsip64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\iglhsip64.dll"
+    ]
+  }
+  {
+    "hash": "eb81b8555574b58288c44d4845244c11"
+    "size": 1819648
+    "files": [
+      "c:\\windows\\system32\\WMALFXGFXDSP.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\wdmaudio.inf_amd64_cb639d1f182bc449\\WMALFXGFXDSP.dll"
+    ]
+  }
+  {
+    "hash": "4a75faebd6ac06e856599b51b05c9942"
+    "size": 1822272
+    "files": [
+      "c:\\windows\\system32\\winload.efi"
+      "c:\\windows\\system32\\Boot\\winload.efi"
+    ]
+  }
+  {
+    "hash": "77065056fbe4e29054cb1d20303b9f59"
+    "size": 1853752
+    "files": [
+      "c:\\windows\\system32\\drivers\\cht4vx64.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\cht4vx64.inf_amd64_b03448ba0b72ec47\\cht4vx64.sys"
+    ]
+  }
+  {
+    "hash": "71a45acc7d971aad8e06895bec5a2442"
+    "size": 1965816
+    "files": [
+      "c:\\windows\\system32\\DDPD64A.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DDPD64A.dll"
+    ]
+  }
+  {
+    "hash": "5982bfc183f13ae6c940ac9f84582176"
+    "size": 1976544
+    "files": [
+      "c:\\windows\\system32\\MBAPO264.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MBAPO264.dll"
+    ]
+  }
+  {
+    "hash": "75801a2dd5bc4cd0fb0d56798e9fa0d1"
+    "size": 2010984
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem10.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\HDXRT.CAT"
+    ]
+  }
+  {
+    "hash": "81a5915e6b3872de690caadcb3394e1d"
+    "size": 2050184
+    "files": [
+      "c:\\windows\\system32\\MaxxAudioEQ64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MaxxAudioEQ64.dll"
+    ]
+  }
+  {
+    "hash": "9fcfce153a95bbf1a4083f181f371e7d"
+    "size": 2098072
+    "files": [
+      "c:\\windows\\system32\\NvFBC64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\NvFBC64.dll"
+    ]
+  }
+  {
+    "hash": "e7d50ab664184f71d715a31c123e9a11"
+    "size": 2142208
+    "files": [
+      "c:\\windows\\system32\\igfxLHM.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igfxLHM.dll"
+    ]
+  }
+  {
+    "hash": "56b371c997e4ccd20575642c0fa15243"
+    "size": 2227672
+    "files": [
+      "c:\\windows\\system32\\Netwuw03.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\netwew01.inf_amd64_d48428047ce3cc1e\\Netwuw03.dll"
+    ]
+  }
+  {
+    "hash": "b4ccffa2acc8f2f7b73f10a4a5aa29fc"
+    "size": 2393184
+    "files": [
+      "c:\\windows\\system32\\igdmd64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igdmd64.dll"
+    ]
+  }
+  {
+    "hash": "adb8712f7131e48d06422c7391c32bec"
+    "size": 2508528
+    "files": [
+      "c:\\windows\\system32\\nvcuda.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\nvcuda_loader64.dll"
+    ]
+  }
+  {
+    "hash": "4cdced39ec8fb90de91149069407c51c"
+    "size": 2674504
+    "files": [
+      "c:\\windows\\system32\\CatRoot\\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\\oem3.cat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\NV_DISP.CAT"
+    ]
+  }
+  {
+    "hash": "b7f65fdd8157ae7f44eed0970792ef8c"
+    "size": 2711296
+    "files": [
+      "c:\\windows\\system32\\RTSnMg64.cpl"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RTSnMg64.cpl"
+    ]
+  }
+  {
+    "hash": "6c0f36abfe80433b352fa7748ed887bf"
+    "size": 2813952
+    "files": [
+      "c:\\windows\\system32\\iglhxa64.cpa"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\iglhxa64.cpa"
+    ]
+  }
+  {
+    "hash": "a79b914a7c5e4ca016b815952f198c87"
+    "size": 2877952
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms003.inf_x86_64a65e37d4d307bb\\I386\\PrintConfig.dll"
+      "c:\\windows\\system32\\spool\\drivers\\W32X86\\3\\PrintConfig.dll"
+    ]
+  }
+  {
+    "hash": "2969708dac7db9a4fdc2dd706fde1096"
+    "size": 2880873
+    "files": [
+      "c:\\windows\\system32\\drivers\\RTAIODAT.DAT"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RTAIODAT.DAT"
+    ]
+  }
+  {
+    "hash": "ca56dd4ab01491b290b26fe5bcd06f3b"
+    "size": 2926848
+    "files": [
+      "c:\\windows\\system32\\RtPgEx64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RtPgEx64.dll"
+    ]
+  }
+  {
+    "hash": "716f2505397aa8a6b752c3ba77133a73"
+    "size": 2965120
+    "files": [
+      "c:\\windows\\system32\\RltkAPO64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RltkAPO64.dll"
+    ]
+  }
+  {
+    "hash": "567ed048180076d9b45572c03f31813c"
+    "size": 3233968
+    "files": [
+      "c:\\windows\\system32\\FMAPO64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\FMAPO64.dll"
+    ]
+  }
+  {
+    "hash": "c0f330608e24aeb60ce219fae1602244"
+    "size": 3271912
+    "files": [
+      "c:\\windows\\system32\\RtkApi64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RtkApi64.dll"
+    ]
+  }
+  {
+    "hash": "aa274535fd2cb470e671c7af369c47ef"
+    "size": 3363112
+    "files": [
+      "c:\\windows\\system32\\drivers\\NETwew01.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\netwew01.inf_amd64_d48428047ce3cc1e\\NETwew01.sys"
+    ]
+  }
+  {
+    "hash": "e7b7e38ad720352cfe9a5ff3a82ab124"
+    "size": 3418936
+    "files": [
+      "c:\\windows\\system32\\drivers\\evbda.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\netevbda.inf_amd64_1503f4d5a0d6ba56\\evbda.sys"
+    ]
+  }
+  {
+    "hash": "402c790e8775ed10d69e42bd533f3c98"
+    "size": 3596288
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms003.inf_amd64_8260487d3fd9235d\\Amd64\\PrintConfig.dll"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\PrintConfig.dll"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\{F48B6DB8-28F2-4C51-B43B-8364B4088CE5}\\PrintConfig.dll"
+    ]
+  }
+  {
+    "hash": "36dddbe7ad1ad181097905c317ac2111"
+    "size": 3701880
+    "files": [
+      "c:\\windows\\system32\\MaxxAudioMeters64.exe"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MaxxAudioMeters64.exe"
+    ]
+  }
+  {
+    "hash": "c3519f8284bbe79fbc348646d9112fa0"
+    "size": 4270688
+    "files": [
+      "c:\\windows\\system32\\igd12umd64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igd12umd64.dll"
+    ]
+  }
+  {
+    "hash": "d6859432c4ee90ad0735dbb222fc3a35"
+    "size": 4510960
+    "files": [
+      "c:\\windows\\system32\\drivers\\RTKVHD64.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RTKVHD64.sys"
+    ]
+  }
+  {
+    "hash": "78cdfe4f5a7b6733e4e62e69e7e14122"
+    "size": 4928000
+    "files": [
+      "c:\\windows\\system32\\igdrcl64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igdrcl64.dll"
+    ]
+  }
+  {
+    "hash": "ef9820bbadc318694dacf9890af9f424"
+    "size": 5262848
+    "files": [
+      "c:\\windows\\system32\\GfxResources.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\GfxResources.dll"
+    ]
+  }
+  {
+    "hash": "c2ef6b72f04de3635e5b01501e46c327"
+    "size": 5519600
+    "files": [
+      "c:\\windows\\system32\\nvcpl.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\nvcpl.dll"
+    ]
+  }
+  {
+    "hash": "410c19210d55c3febfe6541bcb6a5eb6"
+    "size": 5688832
+    "files": [
+      "c:\\windows\\system32\\igdmcl64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igdmcl64.dll"
+    ]
+  }
+  {
+    "hash": "ab2d50b6f3c665b55c8e5a049d59e7cc"
+    "size": 5799386
+    "files": [
+      "c:\\windows\\system32\\igdclbif.bin"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igdclbif.bin"
+    ]
+  }
+  {
+    "hash": "7d7fbc9504575d97885a858ea93684f5"
+    "size": 5804772
+    "files": [
+      "c:\\windows\\system32\\drivers\\rtvienna.dat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\rtvienna.dat"
+    ]
+  }
+  {
+    "hash": "025409b8181ed411a4546387aef000e6"
+    "size": 6696840
+    "files": [
+      "c:\\windows\\system32\\igdusc64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igdusc64.dll"
+    ]
+  }
+  {
+    "hash": "51b14090846d94c7014853213a8a1433"
+    "size": 7001536
+    "files": [
+      "c:\\windows\\system32\\nvapi64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\nvapi64.dll"
+    ]
+  }
+  {
+    "hash": "351f5cc9c76b7d5d9f9abf4df3720786"
+    "size": 7014912
+    "files": [
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\prnms002.inf_amd64_026ea33d249e474a\\Amd64\\FXSRES.DLL"
+      "c:\\windows\\system32\\spool\\drivers\\x64\\3\\FXSRES.DLL"
+    ]
+  }
+  {
+    "hash": "b471fdd02d86e0d9d85c646c8d8c7ccb"
+    "size": 7096192
+    "files": [
+      "c:\\windows\\system32\\DDPP64A.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\DDPP64A.dll"
+    ]
+  }
+  {
+    "hash": "bbb1f4403a3eadb365229d0878dae5f8"
+    "size": 7172920
+    "files": [
+      "c:\\windows\\system32\\R4EEP64A.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\R4EEP64A.dll"
+    ]
+  }
+  {
+    "hash": "c0483a3225fcdf3fcc49121eb3258ddd"
+    "size": 7707544
+    "files": [
+      "c:\\windows\\system32\\nvcuvid.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\nv_dispi.inf_amd64_1c83a5d7cffd7bff\\nvcuvid64.dll"
+    ]
+  }
+  {
+    "hash": "56ed2b864ac3be79eddb55da0e5705a2"
+    "size": 7969752
+    "files": [
+      "c:\\windows\\system32\\drivers\\igdkmd64.sys"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igdkmd64.sys"
+    ]
+  }
+  {
+    "hash": "a2a3f97346920cabcb9c959cc229d077"
+    "size": 8108584
+    "files": [
+      "c:\\windows\\system32\\drivers\\Netwfw01.dat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\netwew01.inf_amd64_d48428047ce3cc1e\\Netwfw01.dat"
+    ]
+  }
+  {
+    "hash": "1a2f697f98e8af76c637734be45af592"
+    "size": 11753472
+    "files": [
+      "c:\\windows\\system32\\ig75icd64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\ig75icd64.dll"
+    ]
+  }
+  {
+    "hash": "d592c53938e9f07cbae0182b3f8ecde1"
+    "size": 13119736
+    "files": [
+      "c:\\windows\\system32\\MaxxVoiceAPO3064.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\MaxxVoiceAPO3064.dll"
+    ]
+  }
+  {
+    "hash": "86a3b50afc8efc674cf8175a4048c243"
+    "size": 15488936
+    "files": [
+      "c:\\windows\\system32\\igc64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igc64.dll"
+    ]
+  }
+  {
+    "hash": "74e5b0efa854d3bc44ceb5c6c40c875f"
+    "size": 16446352
+    "files": [
+      "c:\\windows\\system32\\igd10iumd64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igd10iumd64.dll"
+    ]
+  }
+  {
+    "hash": "c51d186cd0581e5f02b3c684a039983c"
+    "size": 29101568
+    "files": [
+      "c:\\windows\\system32\\common_clang64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\common_clang64.dll"
+    ]
+  }
+  {
+    "hash": "66044e5d620bb044c9dad819bbc4f734"
+    "size": 33479888
+    "files": [
+      "c:\\windows\\system32\\igd11dxva64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igd11dxva64.dll"
+    ]
+  }
+  {
+    "hash": "92ce593a365458e72bd14b8d86290ec1"
+    "size": 39863880
+    "files": [
+      "c:\\windows\\system32\\igdumdim64.dll"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\igdlh64.inf_amd64_e773c3e79e983f7c\\igdumdim64.dll"
+    ]
+  }
+  {
+    "hash": "d5e1246ee1d9125d00a75a3ce640ee71"
+    "size": 72121872
+    "files": [
+      "c:\\windows\\system32\\RCORES64.dat"
+      "c:\\windows\\system32\\DriverStore\\FileRepository\\hdxsgma4.inf_amd64_67e758791d8608ce\\RCORES64.dat"
+    ]
+  }
+]

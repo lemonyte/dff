@@ -6,16 +6,18 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Current File",
+            "name": "Java: Current File",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "${file}",
+            "console": "integratedTerminal"
         },
         {
-            "type": "java",
-            "name": "Launch dff",
+            "type": "python",
+            "name": "Python: Current File",
             "request": "launch",
-            "mainClass": "dff",
-            "projectName": "duplicate-file-finder_c8337b26"
+            "program": "${file}",
+            "console": "externalTerminal",
+            "args": ["noadmin"]
         }
     ]
 }

@@ -1,1 +1,1 @@
-# duplicate-files-finder
+# duplicate-file-finder
