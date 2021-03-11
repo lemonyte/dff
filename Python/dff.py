@@ -49,8 +49,8 @@ def MakeDictionary(dictionary: dict, operation, prefix: str = "", enableProgress
         if len(tempDictionary.get(attr)) <= 1:
             del tempDictionary[attr]
     
-    if "accessDenied" in tempDictionary:
-        del tempDictionary["accessDenied"]
+    if "unabletohash" in tempDictionary:
+        del tempDictionary["unabletohash"]
 
     dictionary.clear()
     dictionary.update(tempDictionary)
@@ -60,7 +60,6 @@ def GenerateHash(fileInfo: FileInfo, position: str = "full", chunkSize: int = 40
         with open(fileInfo.path, "rb") as file:
             fileHash = hashlib.md5()
             size = fileInfo.size
-
             if size > (4096 * 3):
                 if position == "end":
                     ending = file.seek(chunkSize, 2)
@@ -84,18 +83,16 @@ def GenerateHash(fileInfo: FileInfo, position: str = "full", chunkSize: int = 40
 
     except Exception as exception:
         PrintMessage("Could not hash file: " + str(exception), "Warning")
-        return "accessDenied"
+        return "unabletohash"
 
 def Log(dictionary: dict, dir: str):
     outputDir = dir + "\\dff_output.txt"
     output = []
-
     for key, value in dictionary.items():
         outputObject = {}
         outputObject["hash"] = key
         outputObject["size"] = value[0].size
         outputObject["files"] = []
-
         for item in value:
             outputObject["files"].append(item.path)
 
@@ -105,11 +102,9 @@ def Log(dictionary: dict, dir: str):
         return dictionary["size"]
 
     output.sort(key=SortBySize)
-
     try:
         outputFile = open(outputDir, "w")
         json.dump(output, outputFile, indent=2, separators=("", ": "))
-        outputFile.close()
 
     except Exception as exception:
         PrintMessage("Could not create output file. Using alternate location. " + str(exception), "Warning")
@@ -117,8 +112,10 @@ def Log(dictionary: dict, dir: str):
         outputDir = str(dir) + "\\dff_output.txt"
         outputFile = open(outputDir, "w")
         json.dump(output, outputFile, indent=2, separators=("", ": "))
+
+    finally:
         outputFile.close()
-    
+
     PrintMessage("Check the output file in \"" + str(dir) + "\" for more information.", "Info")
 
 def main():
@@ -130,12 +127,10 @@ def main():
     startTime = time.time()
     dictionary[0] = []
     allFiles = GetFilePaths(userInput)
-
     if keepGoing == True:
         progressCounter = 1
         progressBarTotal = len(allFiles)
         progressBar = ProgressBar(prefix="Calculating file sizes...", decimals=3, total=progressBarTotal)
-        
         for file in allFiles:
             try:
                 dictionary[0].append(FileInfo(file))
@@ -159,7 +154,6 @@ def main():
         foundFiles = sum(len(val) for val in dictionary.values())
         print()
         PrintMessage("Found " + str(foundFiles) + " duplicate files in \"" + userInput + "\" in " + str(round(totalTime, 6)) + " seconds.", "Info")
-
         if sum(len(val) for val in dictionary.values()) != 0:
             PrintMessage(str(len(dictionary.get('d41d8cd98f00b204e9800998ecf8427e'))) + " out of " + str(foundFiles) + " files are empty files.", "Info")
             Log(dictionary, userInput)
@@ -174,7 +168,6 @@ if ctypes.windll.shell32.IsUserAnAdmin() == True: # or sys.argv[1] == "noadmin":
     os.system(terminalSize)
     Logger.Set(False, False)
     PrintMessage("Duplicate File Finder by LemonPi314. https://github.com/LemonPi314/duplicate-file-finder \n")
-
     while exitProgram == False:
         main()
 
