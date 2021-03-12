@@ -9,6 +9,13 @@ A simple console program that finds duplicate files on your PC.
 ## Usage
 Download the project files and extract the `dff.exe` file from `duplicate-file-finder/Python/dist`. Run the `dff.exe` file and enter a directory you would like to scan for duplicate files. It is recommended to scan only user-specific files such as your `Documents` folder, as scanning your entire disk including the Windows operating system will take a long time and produce a very large output file filled with system file names. After the program is finished it will create an output file named `dff_output.txt` in the directory you specified. The output file is formatted as a list of dictionaries, with each dictionary containing a list of files matching a hash and size.  
 Note: This program does not automatically delete any files. It is up to the user to delete any files that are actually not needed.
+## Variants
+This program has 3 variants:
+* Python
+* Java (in progress)
+* C# (in progress)
+
+All 3 variants do the same thing, but were made using different programming languages.
 ## How It Works
 The program has 3 stages of filtering:  
 1. Sort files by size
