@@ -20,16 +20,16 @@
    'Code\\Projects\\duplicate-file-finder\\python\\build\\dff\\localpycos\\struct.pyo',
    'PYMODULE'),
   ('pyimod01_os_path',
-   'C:\\Users\\Timothy Pavlushik\\Documents\\Visual Studio '
-   'Code\\Projects\\duplicate-file-finder\\python\\build\\dff\\localpycos\\pyimod01_os_path.pyc',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
    'PYMODULE'),
   ('pyimod02_archive',
-   'C:\\Users\\Timothy Pavlushik\\Documents\\Visual Studio '
-   'Code\\Projects\\duplicate-file-finder\\python\\build\\dff\\localpycos\\pyimod02_archive.pyc',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
    'PYMODULE'),
   ('pyimod03_importers',
-   'C:\\Users\\Timothy Pavlushik\\Documents\\Visual Studio '
-   'Code\\Projects\\duplicate-file-finder\\python\\build\\dff\\localpycos\\pyimod03_importers.pyc',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
    'c:\\program '
@@ -47,10 +47,10 @@
    'C:\\Users\\Timothy Pavlushik\\Documents\\Visual Studio '
    'Code\\Projects\\duplicate-file-finder\\Python\\dff.py',
    'PYSOURCE'),
-  ('python39.dll', 'c:\\program files\\python39\\python39.dll', 'BINARY'),
   ('VCRUNTIME140.dll',
    'c:\\program files\\python39\\VCRUNTIME140.dll',
    'BINARY'),
+  ('python39.dll', 'c:\\program files\\python39\\python39.dll', 'BINARY'),
   ('libopenblas.JPIJNSWNNAN3CE6LLI5FWSPHUT2VXMTH.gfortran-win_amd64.dll',
    'c:\\program '
    'files\\python39\\lib\\site-packages\\numpy\\.libs\\libopenblas.JPIJNSWNNAN3CE6LLI5FWSPHUT2VXMTH.gfortran-win_amd64.dll',
@@ -71,8 +71,8 @@
   ('_overlapped',
    'c:\\program files\\python39\\DLLs\\_overlapped.pyd',
    'EXTENSION'),
-  ('_asyncio', 'c:\\program files\\python39\\DLLs\\_asyncio.pyd', 'EXTENSION'),
   ('_queue', 'c:\\program files\\python39\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('_asyncio', 'c:\\program files\\python39\\DLLs\\_asyncio.pyd', 'EXTENSION'),
   ('numpy.core._multiarray_umath',
    'c:\\program '
    'files\\python39\\lib\\site-packages\\numpy\\core\\_multiarray_umath.cp39-win_amd64.pyd',
@@ -132,11 +132,11 @@
   ('_ctypes', 'c:\\program files\\python39\\DLLs\\_ctypes.pyd', 'EXTENSION'),
   ('_lzma', 'c:\\program files\\python39\\DLLs\\_lzma.pyd', 'EXTENSION'),
   ('_bz2', 'c:\\program files\\python39\\DLLs\\_bz2.pyd', 'EXTENSION'),
-  ('libcrypto-1_1.dll',
-   'c:\\program files\\python39\\DLLs\\libcrypto-1_1.dll',
-   'BINARY'),
   ('libssl-1_1.dll',
    'c:\\program files\\python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\program files\\python39\\DLLs\\libcrypto-1_1.dll',
    'BINARY'),
   ('libffi-7.dll', 'c:\\program files\\python39\\DLLs\\libffi-7.dll', 'BINARY'),
   ('base_library.zip',
@@ -147,16 +147,12 @@
    'c:\\program '
    'files\\python39\\lib\\site-packages\\importlib_metadata-3.4.0.dist-info\\INSTALLER',
    'DATA'),
-  ('Include\\pyconfig.h',
-   'c:\\program files\\python39\\Include\\pyconfig.h',
-   'DATA'),
-  ('importlib_metadata-3.4.0-py3.9.egg-info\\LICENSE',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\importlib_metadata-3.4.0.dist-info\\LICENSE',
-   'DATA'),
   ('importlib_metadata-3.4.0-py3.9.egg-info\\WHEEL',
    'c:\\program '
    'files\\python39\\lib\\site-packages\\importlib_metadata-3.4.0.dist-info\\WHEEL',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'c:\\program files\\python39\\Include\\pyconfig.h',
    'DATA'),
   ('importlib_metadata-3.4.0-py3.9.egg-info\\METADATA',
    'c:\\program '
@@ -165,6 +161,10 @@
   ('importlib_metadata-3.4.0-py3.9.egg-info\\top_level.txt',
    'c:\\program '
    'files\\python39\\lib\\site-packages\\importlib_metadata-3.4.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('importlib_metadata-3.4.0-py3.9.egg-info\\LICENSE',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\importlib_metadata-3.4.0.dist-info\\LICENSE',
    'DATA'),
   ('importlib_metadata-3.4.0-py3.9.egg-info\\RECORD',
    'c:\\program '
@@ -178,7 +178,7 @@
  [],
  False,
  False,
- 1615504727,
+ 1615837757,
  [('run.exe',
    'c:\\program '
    'files\\python39\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',

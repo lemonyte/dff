@@ -8,6 +8,7 @@ class FileInfo:
 
 def GetFilePaths(dir: str):
     global keepGoing
+    print()
     PrintMessage("Searching for files...", "Info")
     files = []
 
@@ -74,12 +75,17 @@ def GenerateHash(fileInfo: FileInfo, position: str = "full", chunkSize: int = 40
                     middle = file.seek(round(size / 2), 0)
                     chunk = file.read(middle - (middle - chunkSize))
                     fileHash.update(chunk)
+
+                return fileHash.hexdigest()
                 
             if position == "full":
                 while chunk := file.read(chunkSize):
                     fileHash.update(chunk)
 
-        return fileHash.hexdigest()
+                return fileHash.hexdigest()
+            
+            if size < (4096 * 3) and position != "full":
+                return "unhashed"
 
     except Exception as exception:
         PrintMessage("Could not hash file: " + str(exception), "Warning")
@@ -146,8 +152,14 @@ def main():
         PrintMessage("Found " + str(sum(len(val) for val in dictionary.values())) + " files with matching sizes in \"" + userInput + "\".", "Info")
         
         MakeDictionary(dictionary, lambda fileInfo: GenerateHash(fileInfo, "middle"), "Hashing files (Phase 1)...")
-        PrintMessage("Found " + str(sum(len(val) for val in dictionary.values())) + " files with hashes that match other files in \"" + userInput + "\" (Phase 1).", "Info")
+        if "unhashed" in dictionary:
+            skippedFiles = len(dictionary.get("unhashed"))
+            PrintMessage("Found " + str((sum(len(val) for val in dictionary.values())) - skippedFiles) + " files with minihashes that match other files in \"" + userInput + "\" (Phase 1).", "Info")
+            PrintMessage(str(skippedFiles) + " files were skipped because they are smaller than 12 KB.", "Info")
         
+        else:
+            PrintMessage("Found " + str((sum(len(val) for val in dictionary.values()))) + " files with minihashes that match other files in \"" + userInput + "\" (Phase 1).", "Info")
+
         MakeDictionary(dictionary, lambda fileInfo: GenerateHash(fileInfo, "full"), "Hashing files (Phase 2)...")
         endTime = time.time()
         totalTime = endTime - startTime
@@ -155,21 +167,28 @@ def main():
         print()
         PrintMessage("Found " + str(foundFiles) + " duplicate files in \"" + userInput + "\" in " + str(round(totalTime, 6)) + " seconds.", "Info")
         if sum(len(val) for val in dictionary.values()) != 0:
-            PrintMessage(str(len(dictionary.get('d41d8cd98f00b204e9800998ecf8427e'))) + " out of " + str(foundFiles) + " files are empty files.", "Info")
+            if "d41d8cd98f00b204e9800998ecf8427e" in dictionary:
+                PrintMessage(str(len(dictionary.get("d41d8cd98f00b204e9800998ecf8427e"))) + " out of " + str(foundFiles) + " files are empty files.", "Info")
+            
             Log(dictionary, userInput)
 
         UserInput("\nPress enter to exit the program... ")
         exitProgram = True
 
-if ctypes.windll.shell32.IsUserAnAdmin() == True: # or sys.argv[1] == "noadmin":
+if ctypes.windll.shell32.IsUserAnAdmin() == True or len(sys.argv) > 1:
     exitProgram = False
     keepGoing = True
     terminalSize = "mode 185, 50"
     os.system(terminalSize)
     Logger.Set(False, False)
     PrintMessage("Duplicate File Finder by LemonPi314. https://github.com/LemonPi314/duplicate-file-finder \n")
-    while exitProgram == False:
-        main()
+    try:
+        while exitProgram == False:
+            main()
+
+    except Exception as exception:
+        PrintMessage("Fatal error: " + str(exception), "Error")
+        input("Press enter to exit the program...")
 
 else:
     ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv[1:]), None, 1)
