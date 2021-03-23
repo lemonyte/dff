@@ -27,3 +27,5 @@ Self explanatory. Files with matching sizes (in bytes) move onto the next stage.
 A "minihash" is calculated for files with matching sizes. A "minihash" is an `MD5` checksum hash of the middle 4 kilobytes of the file. Calculating a minihash before a full hash saves time by eliminating different files with matching sizes.
 ### Full Hash
 A full `MD5` checksum hash is calculated for files with matching minihashes. Files that have matching hashes are duplicates (however there is a very small chance that the hash matches for different files).
+## License
+[MIT License](https://choosealicense.com/licenses/mit/)
