@@ -4,7 +4,7 @@ By [LemonPi314](https://github.com/LemonPi314)
 A simple console program that finds duplicate files on your PC.
 ## Requirements
 * Windows operating system
-* 20 MB of free space for the executable file
+* 20 MB of free space for the executable
 * 50 MB of free space for temporary files
 ## Usage
 Download the project files and extract the `dff.exe` file from `duplicate-file-finder/Python/dist`. Run the `dff.exe` file and enter a directory you would like to scan for duplicate files. It is recommended to scan only user-specific files such as your `Documents` folder, as scanning your entire disk including the Windows operating system will take a long time and produce a very large output file filled with system file names. After the program is finished it will create an output file named `dff_output.txt` in the directory you specified. The output file is formatted as a list of dictionaries, with each dictionary containing a list of files matching a hash and size.  
@@ -28,6 +28,6 @@ A "minihash" is calculated for files with matching sizes. A "minihash" is an `MD
 ### Full Hash
 A full `MD5` checksum hash is calculated for files with matching minihashes. Files that have matching hashes are duplicates (however there is a very small chance that the hash matches for different files).
 ## Disclaimer
-I am not liable for any data loss, damage, or other consequences due to corruption, improper encryption/decryption, or general use of this software. Security is not guaranteed. Use at your own risk.
+I am not liable for any data loss, damage, or any other consequences due to corruption, improper encryption/decryption, or general use of this software. Security is not guaranteed. Use at your own risk.
 ## License
 [MIT License](https://choosealicense.com/licenses/mit/)
