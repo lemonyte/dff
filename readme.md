@@ -1,4 +1,4 @@
-# duplicate-file-finder
+# Duplicate File Finder
 By [LemonPi314](https://github.com/LemonPi314)
 
 A simple console program that finds duplicate files on your PC.
