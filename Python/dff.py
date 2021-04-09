@@ -7,7 +7,7 @@ class FileInfo:
         self.size = os.path.getsize(self.path)
 
 def GetFilePaths(dir: str):
-    global keepGoing
+    global vaildInput
     print()
     PrintMessage("Searching for files...", "Info")
     files = []
@@ -18,16 +18,16 @@ def GetFilePaths(dir: str):
 
     if len(files) == 0:
         PrintMessage("No files found in the specified directory.", "Error")
-        keepGoing = False
+        vaildInput = False
     
     else:
-        PrintMessage("Found " + str(len(files)) + " files in \"" + dir + "\".", "Info")
+        PrintMessage(f"Found {len(files)} files in '{dir}'.", "Info")
         if len(files) == 1:
-            keepGoing = False
+            vaildInput = False
 
     return files
 
-def MakeDictionary(dictionary: dict, operation, prefix: str = "", enableProgressBar: bool = True):
+def MakeDictionary(dictionary: dict, operation, prefix: str = '', enableProgressBar: bool = True):
     tempDictionary = {}
     progressBarTotal = sum(len(val) for val in dictionary.values())
 
@@ -41,99 +41,96 @@ def MakeDictionary(dictionary: dict, operation, prefix: str = "", enableProgress
     for items in dictionary.values():
         for item in items:
             tempDictionary.setdefault(operation(item), []).append(item)
-            if enableProgressBar == True:
-                progressBar.suffix = "..." + item.path[-25:] + " " + str(progressCounter) + "/" + str(progressBarTotal)
-                progressBar.update(iteration=progressCounter)
+            if enableProgressBar is True:
+                progressBar.suffix = f'...{item.path[-25:]} {progressCounter}/{progressBarTotal}'
+                progressBar.Update(iteration=progressCounter)
                 progressCounter += 1
 
     for attr in list(tempDictionary):
         if len(tempDictionary.get(attr)) <= 1:
             del tempDictionary[attr]
     
-    if "unabletohash" in tempDictionary:
-        del tempDictionary["unabletohash"]
+    if 'unabletohash' in tempDictionary:
+        del tempDictionary['unabletohash']
 
     dictionary.clear()
     dictionary.update(tempDictionary)
 
-def GenerateHash(fileInfo: FileInfo, position: str = "full", chunkSize: int = 4096):
+def GenerateHash(fileInfo: FileInfo, position: str = 'full', chunkSize: int = 4096):
     try:
-        with open(fileInfo.path, "rb") as file:
+        with open(fileInfo.path, 'rb') as file:
             fileHash = hashlib.md5()
             size = fileInfo.size
+            if size < (4096 * 3) and position != 'full':
+                return 'unhashed'
+
             if size > (4096 * 3):
-                if position == "end":
+                if position == 'end':
                     ending = file.seek(chunkSize, 2)
                     chunk = file.read(ending)
                     fileHash.update(chunk)
 
-                elif position == "start":
+                elif position == 'start':
                     chunk = file.read(chunkSize)
                     fileHash.update(chunk)
 
-                elif position == "middle":
+                elif position == 'middle':
                     middle = file.seek(round(size / 2), 0)
                     chunk = file.read(middle - (middle - chunkSize))
                     fileHash.update(chunk)
-
-                return fileHash.hexdigest()
                 
-            if position == "full":
+            if position == 'full':
                 while chunk := file.read(chunkSize):
                     fileHash.update(chunk)
-
-                return fileHash.hexdigest()
             
-            if size < (4096 * 3) and position != "full":
-                return "unhashed"
+            return fileHash.hexdigest()
 
     except Exception as exception:
-        PrintMessage("Could not hash file: " + str(exception), "Warning")
-        return "unabletohash"
+        PrintMessage(f"Could not hash file: {exception}", "Warning")
+        return 'unabletohash'
 
 def Log(dictionary: dict, dir: str):
-    outputDir = dir + "\\dff_output.txt"
+    outputDir = f'{dir}/dff_output.txt'
     output = []
     for key, value in dictionary.items():
         outputObject = {}
-        outputObject["hash"] = key
-        outputObject["size"] = value[0].size
-        outputObject["files"] = []
+        outputObject['hash'] = key
+        outputObject['size'] = value[0].size
+        outputObject['files'] = []
         for item in value:
-            outputObject["files"].append(item.path)
+            outputObject['files'].append(item.path)
 
         output.append(outputObject)
     
     def SortBySize(dictionary):
-        return dictionary["size"]
+        return dictionary['size']
 
     output.sort(key=SortBySize)
     try:
-        outputFile = open(outputDir, "w")
-        json.dump(output, outputFile, indent=2, separators=("", ": "))
+        outputFile = open(outputDir, 'w')
+        json.dump(output, outputFile, indent=2, separators=('', ': '))
 
     except Exception as exception:
-        PrintMessage("Could not create output file. Using alternate location. " + str(exception), "Warning")
+        PrintMessage(f"Could not create output file. Using alternate location. {exception}", "Warning")
         dir = projectDir
-        outputDir = str(dir) + "\\dff_output.txt"
-        outputFile = open(outputDir, "w")
-        json.dump(output, outputFile, indent=2, separators=("", ": "))
+        outputDir = f'{dir}/dff_output.txt'
+        outputFile = open(outputDir, 'w')
+        json.dump(output, outputFile, indent=2, separators=('', ': '))
 
     finally:
         outputFile.close()
 
-    PrintMessage("Check the output file in \"" + str(dir) + "\" for more information.", "Info")
+    PrintMessage(f"Check the output file in '{dir}' for more information.", "Info")
 
 def main():
     global exitProgram
-    global keepGoing
-    keepGoing = True
-    dictionary = {}
+    global vaildInput
+    vaildInput = True
+    dictionary = {0: []}
     userInput = UserInput("Enter a directory to scan: ")
     startTime = time.time()
-    dictionary[0] = []
     allFiles = GetFilePaths(userInput)
-    if keepGoing == True:
+    if vaildInput is True:
         progressCounter = 1
         progressBarTotal = len(allFiles)
         progressBar = ProgressBar(prefix="Calculating file sizes...", decimals=3, total=progressBarTotal)
@@ -142,53 +139,47 @@ def main():
                 dictionary[0].append(FileInfo(file))
 
             except Exception as exception:
-                PrintMessage("Could not calculate file size of: " + str(exception), "Warning")
+                PrintMessage(f"Could not calculate file size: {exception}", "Warning")
 
-            progressBar.suffix = "..." + file[-25:] + " " + str(progressCounter) + "/" + str(progressBarTotal)
-            progressBar.update(progressCounter)
+            progressBar.suffix = f'...{file[-25:]} {progressCounter}/{progressBarTotal}'
+            progressBar.Update(progressCounter)
             progressCounter += 1
 
         MakeDictionary(dictionary, lambda fileInfo: fileInfo.size, enableProgressBar=False)
-        PrintMessage("Found " + str(sum(len(val) for val in dictionary.values())) + " files with matching sizes in \"" + userInput + "\".", "Info")
-        
-        MakeDictionary(dictionary, lambda fileInfo: GenerateHash(fileInfo, "middle"), "Hashing files (Phase 1)...")
-        if "unhashed" in dictionary:
-            skippedFiles = len(dictionary.get("unhashed"))
-            PrintMessage("Found " + str((sum(len(val) for val in dictionary.values())) - skippedFiles) + " files with minihashes that match other files in \"" + userInput + "\" (Phase 1).", "Info")
-            PrintMessage(str(skippedFiles) + " files were skipped because they are smaller than 12 KB.", "Info")
-        
-        else:
-            PrintMessage("Found " + str((sum(len(val) for val in dictionary.values()))) + " files with minihashes that match other files in \"" + userInput + "\" (Phase 1).", "Info")
+        PrintMessage(f"Found {sum(len(val) for val in dictionary.values())} files with matching sizes in '{userInput}'.", "Info")
+        MakeDictionary(dictionary, lambda fileInfo: GenerateHash(fileInfo, 'middle'), "Hashing files (Phase 1)...")
+        skippedFiles = len(dictionary.get('unhashed', 0))
+        PrintMessage(f"Found {(sum(len(val) for val in dictionary.values())) - skippedFiles} files with minihashes that match other files in '{userInput}' (Phase 1)", "Info")
+        if 'unhashed' in dictionary:
+            PrintMessage(f"{skippedFiles} files were skipped because they are smaller than 12 KB.", "Info")
 
-        MakeDictionary(dictionary, lambda fileInfo: GenerateHash(fileInfo, "full"), "Hashing files (Phase 2)...")
+        MakeDictionary(dictionary, lambda fileInfo: GenerateHash(fileInfo, 'full'), "Hashing files (Phase 2)...")
         endTime = time.time()
         totalTime = endTime - startTime
         foundFiles = sum(len(val) for val in dictionary.values())
         print()
-        PrintMessage("Found " + str(foundFiles) + " duplicate files in \"" + userInput + "\" in " + str(round(totalTime, 6)) + " seconds.", "Info")
+        PrintMessage(f"Found {foundFiles} duplicate files in '{userInput}' in {round(totalTime, 6)} seconds.", "Info")
         if sum(len(val) for val in dictionary.values()) != 0:
-            if "d41d8cd98f00b204e9800998ecf8427e" in dictionary:
-                PrintMessage(str(len(dictionary.get("d41d8cd98f00b204e9800998ecf8427e"))) + " out of " + str(foundFiles) + " files are empty files.", "Info")
+            if 'd41d8cd98f00b204e9800998ecf8427e' in dictionary:
+                PrintMessage(f"{len(dictionary.get('d41d8cd98f00b204e9800998ecf8427e'))} out of {foundFiles} files are empty files.", "Info")
             
             Log(dictionary, userInput)
 
         UserInput("\nPress enter to exit the program... ")
         exitProgram = True
 
-if ctypes.windll.shell32.IsUserAnAdmin() == True or len(sys.argv) > 1:
+if '-a' in sys.argv or '--admin' in sys.argv:
+    ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, sys.argv[0], None, 1)
+
+else:
     exitProgram = False
-    keepGoing = True
-    terminalSize = "mode 185, 50"
-    os.system(terminalSize)
+    os.system('mode 185, 50')
     Logger.Set(False, False)
     PrintMessage("Duplicate File Finder by LemonPi314. https://github.com/LemonPi314/duplicate-file-finder \n")
     try:
-        while exitProgram == False:
+        while exitProgram is False:
             main()
 
     except Exception as exception:
-        PrintMessage("Fatal error: " + str(exception), "Error")
-        input("Press enter to exit the program...")
-
-else:
-    ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv[1:]), None, 1)
+        PrintMessage(f"Fatal error: {exception}", "Error")
+        input("\nPress enter to exit the program...")
