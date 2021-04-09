@@ -29,7 +29,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "externalTerminal",
-            "args": ["noadmin"]
+            "args": [""]
         }
     ]
 }
