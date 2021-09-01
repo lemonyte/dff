@@ -11,7 +11,7 @@ jobs:
     name: Build Release
     runs-on: windows-latest
     defaults:
-      runs:
+      run:
         working-directory: ./Python
     steps:
     - name: Checkout Code
