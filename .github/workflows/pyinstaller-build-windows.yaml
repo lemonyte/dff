@@ -27,12 +27,14 @@ jobs:
 
     - name: Install UPX
       run: |
+        cd Python
         Invoke-WebRequest https://github.com/upx/upx/releases/download/v3.96/upx-3.96-win64.zip -OutFile ./upx-3.96-win64.zip
         Expand-Archive -Path upx-3.96-win64.zip -DestinationPath .
         Move-Item -Path upx-3.96-win64/upx.* -Destination .
 
     - name: Build Windows Executable
       run: |
+        cd Python
         pyinstaller --clean -y --dist ./dist/windows --upx-dir . build.spec
 
     - name: Release
