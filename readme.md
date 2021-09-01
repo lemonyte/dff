@@ -28,9 +28,11 @@ Optional executable file. Python and any required packages are included in the e
 ## Usage
 > Note: these instructions refer to the Python version of the tool.
 
-Download the project files and extract `dff.exe` from `dff/Python/dist`. Double click `dff.exe` and enter a directory path to search for duplicate files.
+Download the executable from the [latest release](https://github.com/LemonPi314/dff/releases/latest). Double click `dff.exe` and enter a directory path to search for duplicate files.
+
+You can download the source code and use the Python file if you prefer.
 ### Command Line
-For advanced options, you may run `dff.exe` from a command line terminal such as Command Prompt or PowerShell. Navigate to the same directory as the tool and run the following command with any necessary options.
+For advanced options, you may run the tool from a command line terminal such as Command Prompt or PowerShell. Navigate to the same directory as the tool and run the following command with any necessary options.
 
 Command syntax:
 ```bash
@@ -59,10 +61,11 @@ Exclude pattern examples:
     - `AppData`
     - `Unity`
     - `build`
+    - `*env*`
 - Files:
     - `license.txt`
     - `readme.md`
-    
+    - `*.log`
 
 In all path options (`-d` and `-o`) the `~` character resolves to the current user's home directory.  
 See the [`pyco` docs](https://duplexes.me/pyco/#/logging?id=log-levels) for a list of log levels.  
