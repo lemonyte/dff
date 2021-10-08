@@ -3,7 +3,6 @@ By [LemonPi314](https://github.com/LemonPi314)
 
 A simple command line tool to find duplicate files on your PC.
 ## Overview
-## Overview
 - [Requirements](#requirements)
     - [Python File](#python-file)
     - [Executable File](#executable-file)
@@ -18,7 +17,6 @@ A simple command line tool to find duplicate files on your PC.
 - [License](#license)
 ## Requirements
 ### Python File
-- Windows operating system
 - [Python 3.9](https://www.python.org/downloads/) or higher
 - [`pyco`](https://test.pypi.org/project/pyco)
 ### Executable File
@@ -28,9 +26,9 @@ Optional executable file. Python and any required packages are included in the e
 ## Usage
 > Note: these instructions refer to the Python version of the tool.
 
-Download the executable from the [latest release](https://github.com/LemonPi314/dff/releases/latest). Double click `dff.exe` and enter a directory path to search for duplicate files.
+This tool only works on Windows. Download the executable from the [latest release](https://github.com/LemonPi314/dff/releases/latest). Double click `dff.exe` and enter a directory path to search for duplicate files.
 
-You can download the source code and use the Python file if you prefer.
+You can also download the source code and use the Python file if you prefer.
 ### Command Line
 For advanced options, you may run the tool from a command line terminal such as Command Prompt or PowerShell. Navigate to the same directory as the tool and run the following command with any necessary options.
 
@@ -82,9 +80,9 @@ The tool has 3 stages of filtering:
 ### Size
 A file size in bytes is calculated for every file. Files with matching sizes continue onto the next stage.
 ### Minihash
-A "minihash" is calculated for every file. A "minihash" is an MD5 hash of the middle 4 kilobytes of the file. Calculating a minihash before a full hash saves time by eliminating different files with matching sizes. Files with matching minihashes continue onto the next stage. Files less than 12 kilobytes are skipped and continue onto the next stage.
+A "minihash" is calculated for every file. A "minihash" is an MD5 hash of the middle 4 kilobytes of the file. Calculating a minihash before a full hash saves time by eliminating different files with matching sizes. Files with matching minihashes continue onto the next stage. Files less than 12 kilobytes in size are skipped and continue onto the next stage.
 ### Full Hash
-A full MD5 hash is calculated for every file. Files that have matching hashes are duplicates. The tool also lists empty files. It may be worth noting that there is an extremely small chance of two MD5 hashes matching for files that are different. MD5 collisions do not affect this tool significantly, the only consequence is the output will list two different files as duplicates, which the user will be able to notice and take into account.
+A full MD5 hash is calculated for every file. Files that have matching hashes are duplicates. The tool also lists empty files. It may be worth noting that there is an extremely small chance of two MD5 hashes matching for files that are different. MD5 collisions do not affect this tool significantly, the only consequence is that the output will list two non-duplicate files as duplicates, which the user will be able to notice and take into account.
 ## Disclaimer
 I am not liable for any data loss, damage, or any other consequences resulting from corruption or general use of this software. Security is not guaranteed. Use at your own risk.
 ## License
