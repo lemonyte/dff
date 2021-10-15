@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og*/
+dist/
+*env*
