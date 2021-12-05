@@ -156,7 +156,7 @@ def main(dir: str = None, output_dir: str = None, exclude_dirs: list[str] = [], 
     print_message()
     dir = os.path.expanduser(os.path.normpath(user_input("Enter a directory to search: ") if dir is None else dir))
     output_dir = os.path.expanduser(os.path.normpath(dir if output_dir is None else output_dir))
-    logging.log_path = output_dir
+    logging.log_path = os.path.join(output_dir, 'dff_log.txt')
     logging.clear_log()
     start_time = perf_counter()
     all_files = get_file_paths(dir, exclude_dirs, exclude_files)
