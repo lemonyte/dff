@@ -12,7 +12,7 @@ jobs:
     runs-on: windows-latest
     defaults:
       run:
-        working-directory: ./Python
+        working-directory: ./python
     steps:
     - name: Checkout Code
       uses: actions/checkout@v2
@@ -40,4 +40,4 @@ jobs:
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
-        files: ./Python/dist/windows/*.exe
+        files: ./python/dist/windows/*.exe
