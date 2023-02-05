@@ -1,5 +1,5 @@
-"""Duplicate File Finder by LemonPi314
-https://github.com/LemonPi314/dff
+"""Duplicate File Finder by Lemonyte
+https://github.com/lemonyte/dff
 
 Usage:
   dff [-d <path>] [-o <path>] [-l <level>] [-a] [-xd <pattern>...] [-xf <pattern>...]
@@ -151,8 +151,8 @@ def main(dir: str = None, output_dir: str = None, exclude_dirs: list[str] = [], 
     valid_input = True
     dictionary = {0: []}
     os.system('mode con cols=150 lines=50')
-    print_message("Duplicate File Finder by LemonPi314", log=False)
-    print_message("https://github.com/LemonPi314/dff", log=False)
+    print_message("Duplicate File Finder by Lemonyte", log=False)
+    print_message("https://github.com/lemonyte/dff", log=False)
     print_message()
     dir = os.path.expanduser(os.path.normpath(user_input("Enter a directory to search: ") if dir is None else dir))
     output_dir = os.path.expanduser(os.path.normpath(dir if output_dir is None else output_dir))
