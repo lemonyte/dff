@@ -1,0 +1,6 @@
+# Project dependencies.
+typer~=0.9.0
+rich~=13.5.3
+
+# Development dependencies.
+pre-commit~=3.4.0

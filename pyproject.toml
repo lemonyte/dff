@@ -1,0 +1,46 @@
+[project]
+name = "dff"
+authors = [{ name = "Lemonyte" }]
+description = "Duplicate file finder."
+readme = "readme.md"
+license = { file = "license.txt" }
+dynamic = ["version"]
+requires-python = ">=3.9"
+dependencies = ["typer~=0.9.0", "rich~=13.5.3"]
+keywords = ["tool", "duplicate", "file"]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Utilities",
+    "Typing :: Typed",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/lemonyte/dff"
+"Bug Tracker" = "https://github.com/lemonyte/dff/issues"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.package-data]
+dff = ["py.typed"]
+
+[tool.setuptools.dynamic]
+version = { attr = "dff.__version__" }
+
+[tool.ruff]
+select = ["ALL"]
+ignore = ["A", "D", "T20", "TD002", "TD003"]
+line-length = 119
+target-version = "py39"
+src = ["src"]
+fix = true
+
+[tool.black]
+line-length = 119
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
