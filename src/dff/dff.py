@@ -27,9 +27,7 @@ MATCH_RECURSIVE = r"(?:.*)"
 
 class HashType(Enum):
     FULL = "full"
-    START = "start"
-    MIDDLE = "middle"
-    END = "end"
+    PARTIAL = "partial"
 
 
 def glob_to_re(pattern: str) -> str:
@@ -83,33 +81,22 @@ def get_file_paths(dirs: list[Path], exclude: list[str]) -> list[Path]:
     return files
 
 
-def hash_file(path: Path, hash_type: HashType = HashType.FULL, chunk_size: int = 4096) -> bytes:
-    """Hash a file.
-
-    If the hash type is not FULL, and the file is smaller than 3 chunks, an empty byte string is returned.
-    """
+def hash_file(path: Path, hash_type: HashType = HashType.FULL, chunk_size: int = 64 * 1024) -> bytes:
     size = path.stat().st_size
-    if hash_type is not HashType.FULL and size < (chunk_size * 3):
-        return b""
     if size == 0:
         return EMPTY_HASH
+    # TODO: return already calculated hash when file info struct is implemented.
+    hasher = hashlib.md5()  # noqa: S324
     with path.open("rb") as file:
-        file_hash = hashlib.md5()  # noqa: S324
-        if hash_type is HashType.FULL:
-            while chunk := file.read(chunk_size):
-                file_hash.update(chunk)
-        elif hash_type is HashType.START:
-            chunk = file.read(chunk_size)
-            file_hash.update(chunk)
-        elif hash_type is HashType.END:
-            ending = file.seek(chunk_size, 2)
-            chunk = file.read(ending)
-            file_hash.update(chunk)
-        elif hash_type is HashType.MIDDLE:
-            middle = file.seek(size // 2, 0)
-            chunk = file.read(middle - (middle - chunk_size))
-            file_hash.update(chunk)
-        return file_hash.digest()
+        if hash_type is HashType.FULL or size <= chunk_size * 3:
+            hasher.update(file.read())
+        elif hash_type is HashType.PARTIAL:
+            hasher.update(file.read(chunk_size))
+            file.seek((size // 2) - (chunk_size // 2), os.SEEK_SET)
+            hasher.update(file.read(chunk_size))
+            file.seek(-chunk_size, os.SEEK_END)
+            hasher.update(file.read(chunk_size))
+    return hasher.digest()
 
 
 @app.callback()
@@ -148,7 +135,7 @@ def main(
         with Progress(*Progress.get_default_columns(), MofNCompleteColumn(), console=console) as progress:
             task = progress.add_task("Minihashing files", total=len(files))
             for file in files:
-                minihashes.setdefault(hash_file(file, HashType.MIDDLE), []).append(file)
+                minihashes.setdefault(hash_file(file, HashType.PARTIAL), []).append(file)
                 progress.advance(task)
         files = [item for items in minihashes.values() if len(items) > 1 for item in items]
         skipped = len(minihashes.get(b"", []))
